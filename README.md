@@ -548,6 +548,33 @@ En esta sección, presentaremos nuestro Lean UX Canvas, que resume los aspectos 
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se han formulado las preguntas para nuestro segmento objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Adquisición de información general**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ocupación?
+4. ¿En qué lugar resides actualmente?
+
+**Segmento 1: Aficionados a la hidroponía**
+
+1. ¿Por qué estás interesado en empezar un proyecto de hidroponía casero con tecnología IoT?
+2. ¿Cómo imaginas que sería tu proyecto de hidroponía con monitoreo automatizado?
+¿Cuáles son los principales desafíos que enfrentas al buscar información sobre hidroponía y tecnología IoT?
+3. ¿Qué beneficios esperas obtener al integrar sensores IoT en tu proyecto de hidroponía?
+4. ¿Te resultaría útil una aplicación que ofrezca monitoreo en tiempo real y guías de expertos en IoT para hidroponía?
+5. ¿Qué características o herramientas crees que serían esenciales en una aplicación de este tipo?
+
+**Segmento 2: Expertos en hidroponía**
+
+1. ¿Cómo empezaste en la hidroponía y qué te llevó a integrar tecnología avanzada en tus proyectos?
+2. ¿Qué herramientas y datos específicos utilizas actualmente para optimizar tus cultivos hidropónicos?
+3. ¿Cuáles son los principales desafíos que enfrentas al analizar y utilizar los datos de sensores IoT en tu sistema hidropónico?
+4. ¿Qué tipo de datos adicionales o específicos te gustaría tener para mejorar la eficiencia de tu sistema?
+5. ¿Te resultaría útil una aplicación que ofrezca análisis avanzados de datos y opciones personalizadas para gestionar tu cultivo?
+6. ¿Qué funcionalidades consideras esenciales en una plataforma que te permita acceder y analizar datos complejos de tus cultivos en tiempo real?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
