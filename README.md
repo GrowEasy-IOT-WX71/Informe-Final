@@ -522,6 +522,12 @@ Métricas:
 
 #### 1.2.2.4. Lean UX Canvas
 
+En esta sección, presentaremos nuestro Lean UX Canvas, que resume los aspectos clave de nuestro proyecto y las estrategias para abordarlos de manera efectiva. Este canvas se basa en los principios de Lean UX, que enfatizan la colaboración, la iteración y la validación continua para lograr resultados exitosos.
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279338931485151233/image.png?ex=66d414ba&is=66d2c33a&hm=eda6fcf9fdd0619ef2cbb611db62e1eef037b59963db975df2ea38789a8ba078&=&format=webp&quality=lossless&width=1356&height=676"/>
+</div>
+
 ## 1.3. Segmentos objetivo
 
 # Capítulo II: Requirements Elicitation & Analysis
