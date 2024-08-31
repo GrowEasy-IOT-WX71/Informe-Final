@@ -382,7 +382,39 @@ De acuerdo con El Comercio (2019), la hidroponía es el futuro de la agricultura
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Business outcomes:**
 
+- Los usuarios están interesados en monitorear y optimizar sus cultivos utilizando tecnología IoT.
+- Los usuarios buscan orientación y soporte para configurar y utilizar sensores IoT en sus proyectos agrícolas.
+- Los usuarios desean una interfaz intuitiva y fácil de usar para configurar sensores, visualizar datos en tiempo real, y recibir alertas.
+- Los usuarios deben poder interpretar los datos de manera clara y precisa para tomar decisiones informadas sobre sus cultivos.
+- Las aplicaciones deben ser compatibles con los múltiples dispositivos y navegadores actuales.
+
+**User assumptions:**
+
+- **¿Quién es el usuario?**
+
+Los usuarios son agricultores, tanto aficionados como expertos, que buscan mejorar la gestión de sus cultivos mediante la implementación de tecnología IoT. Incluye tanto a aficionados que están aprendiendo sobre agricultura tecnológica como a expertos que desean optimizar sus procesos.
+
+- **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestra aplicación puede ser una herramienta esencial para la gestión diaria de cultivos hidropónicos, permitiendo a los usuarios monitorear factores críticos como temperatura, humedad y luz, optimizando el uso de recursos y mejorando la productividad.
+
+- **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
+
+El problema es la falta de herramientas accesibles para monitorear cultivos en tiempo real, lo que puede llevar a ineficiencias en el uso de recursos. Se resuelve ofreciendo una plataforma que permite la configuración y monitoreo de sensores IoT, proporcionando alertas y recomendaciones basadas en datos.
+
+- **¿Cuándo y cómo es usado nuestro producto?**
+
+Nuestro producto es utilizado tanto en tiempo real como de forma periódica, permitiendo a los usuarios revisar el estado de sus cultivos, recibir notificaciones y ajustar configuraciones según las necesidades cambiantes de sus plantas. Los expertos pueden usar la plataforma para gestionar múltiples cultivos simultáneamente.
+
+- **¿Qué características son importantes?**
+
+Las características más importantes incluyen la capacidad de conectar y configurar múltiples sensores IoT, visualización de datos en tiempo real, alertas automáticas ante condiciones adversas, y un sistema de recomendaciones basado en análisis de datos históricos.
+
+- **¿Cómo debe verse nuestro producto y comportarse?**
+
+El producto debe ser visualmente atractivo y fácil de usar, con una interfaz que permita a los usuarios navegar y configurar sensores rápidamente. Debe ser robusto, eficiente, y garantizar un rendimiento estable incluso al manejar grandes volúmenes de datos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
