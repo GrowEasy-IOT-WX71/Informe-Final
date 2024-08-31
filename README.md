@@ -174,6 +174,164 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66d3e3b7&is=66d29237&hm=c1baea122f79f3959dbdd0521bf9ab8425566ce2bf773f600e36cfd1dd76a780&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombres y Apellidos:</b>
+            <br>            
+            Checa Apolinario, Paolo Sebastián 
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+        <b>Código:</b>
+        <br>
+        U202112749
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera</b>
+        <br>
+        En la Ingeniería de Software uno consigue los instrumentos necesarios para poder desarrollar programas o aplicaciones. El camino para lograr aquello se basa en un proceso donde el ingeniero deberá analizar lo requerido, planificar el desarrollo del proceso y comprobar su funcionamiento correcto hasta que este se ejecute sin errores. Las estrategias usadas para simplificar y acelerar estos procesos serán clave en esta rama pues estas serán las soluciones innovadoras que el ingeniero deberá crear. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades</b>
+        <br>
+        Poseo conocimientos en programación en el entorno del lenguaje C++, Python y Java. Estoy dispuesto a aportar nuevas ideas al equipo, tengo fácil adaptación a los roles designados y buena organización. Soy responsable y dispongo de la capacidad para aportar ideas innovadoras en beneficio de nuestro proyecto. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="" alt="Jesus Lazo" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombres y Apellidos:</b>
+            <br>            
+            Lazo Tapia, Jesús Antonio 
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+        <b>Código:</b>
+        <br>
+        U202019038
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera</b>
+        <br>
+        La Ingeniería de Software proporciona las herramientas esenciales para crear programas y aplicaciones. Este proceso involucra que el ingeniero analice las necesidades, planifique el desarrollo y verifique que todo funcione correctamente hasta asegurar que el software opere sin fallas. Las tácticas implementadas para optimizar y acelerar estos procedimientos serán fundamentales en este campo, ya que representan las soluciones innovadoras que el ingeniero debe desarrollar. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades</b>
+        <br>
+        Poseo conocimientos en programación que he estado llevando desde el inicio de mi carrera, me gusta el desarrollo con tecnología inteligente y redes y comunicaciones de datos. Soy responsable y estaré apoyando a mi grupo para obtener el éxito de nuestro trabajo. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="" alt="Farid Hinostroza" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombres y Apellidos:</b>
+            <br>            
+            Hinostroza Mavila, Farid Rolando 
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+        <b>Código:</b>
+        <br>
+        U202014468
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera</b>
+        <br>
+        La Ingeniería de Software es una disciplina que combina creatividad y lógica para desarrollar soluciones tecnológicas que impacten positivamente en la sociedad. Este campo abarca desde la concepción de la idea hasta la implementación y mantenimiento de software, garantizando que las soluciones sean efectivas y eficientes. El ingeniero de software debe estar preparado para enfrentar desafíos complejos, aplicar metodologías ágiles, adaptarse a las nuevas tendencias tecnológicas, asegurando que los productos finales cumplan con los estándares de calidad y funcionalidad. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades</b>
+        <br>
+        He adquirido una base sólida en desarrollo de software, con un interés particular en la inteligencia artificial y la gestión de bases de datos. Mi enfoque es la mejora continua y la implementación de soluciones innovadoras que resuelvan problemas reales. Además, soy proactivo y colaborativo, lo que me permite trabajar eficazmente en equipo para alcanzar los objetivos propuestos, siempre con la vista puesta en la excelencia y la eficiencia del proyecto. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="" alt="Fernando Taype" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombres y Apellidos:</b>
+            <br>            
+            Taype Fernandez, Leonardo 
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+        <b>Código:</b>
+        <br>
+        U20201E840
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera</b>
+        <br>
+        En la carrera de Ingeniería de Software adquirimos conocimiento para desarrollar soluciones a través de software. Analizamos requisitos, diseñamos arquitectura, creamos código y mantenemos en funcionamiento productos de software. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades</b>
+        <br>
+        Me considero una persona comprometida y responsable. Me gusta aprender y plantearme retos. Estudio la carrera de ingeniería de software, siempre me ha gustado interactuar con la computadora y ahora puedo ser un profesional haciendo lo que me gusta. Tengo conocimientos en desarrollo web, móvil y desktop. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="" alt="Jack Arana" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombres y Apellidos:</b>
+            <br>            
+            Arana Ramos, Jack 
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+        <b>Código:</b>
+        <br>
+        U202121875
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera</b>
+        <br>
+        Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. La carrera de Ingeniería de Software está diseñada para formar profesionales altamente capacitados en el diseño, desarrollo y mantenimiento de sistemas de software complejos. A lo largo del programa, se adquiere una sólida base en principios de ingeniería, metodologías de desarrollo, y buenas prácticas en la gestión de proyectos tecnológicos. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades</b>
+        <br>
+        Tengo experiencia en desarrollo web full stack, manejando tanto front-end como back-end. También estoy capacitado en prácticas de DevOps, control de versiones con Git, y diseño de interfaces de usuario eficientes. Mis habilidades analíticas y de trabajo en equipo, junto con una gestión eficaz del tiempo, me permiten adaptarme rápidamente a nuevas tecnologías y resolver problemas complejos de manera eficiente. 
+        </td>
+    </tr>
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
