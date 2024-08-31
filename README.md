@@ -418,8 +418,107 @@ El producto debe ser visualmente atractivo y fácil de usar, con una interfaz qu
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+En esta sección, presentaremos hipótesis que proponen soluciones a las problemáticas identificadas previamente en nuestro proyecto enfocado en el monitoreo de cultivos mediante tecnología IoT. Estas hipótesis serán específicas y contarán con métricas claras para garantizar que el éxito pueda ser evaluado de manera objetiva. Las métricas utilizadas se basan en promedios generales de aplicaciones y sistemas IoT existentes en el sector agrícola.
 
+**Hipótesis 1:**
 
+Creemos que nuestra aplicación y sistema IoT serán una herramienta invaluable para aficionados en el cultivo hidropónico, permitiéndoles monitorear y gestionar eficientemente sus cultivos. Sabremos que tuvimos éxito cuando más del 70% de los usuarios aficionados reporten mejoras significativas en la salud y rendimiento de sus cultivos.
+
+Métricas:
+
+1. Porcentaje de usuarios aficionados que reportan mejoras en sus cultivos
+
+    - Métrica actual: 0%
+    - Métrica deseada: 70%
+
+<br>
+
+2. Número de sesiones de monitoreo activas por usuario aficionado por semana
+
+- Métrica actual: 1
+- Métrica deseada: 5
+
+<br>
+
+**Hipótesis 2:**
+
+Creemos que la contribución de expertos en agricultura será fundamental para optimizar las funcionalidades avanzadas de nuestra plataforma. Sabremos que tuvimos éxito cuando más del 75% de los expertos utilicen y recomienden nuestras herramientas analíticas y de personalización avanzada.
+
+Métricas:
+
+1. Porcentaje de expertos que utilizan funcionalidades avanzadas
+
+    - Métrica actual: 0%
+    - Métrica deseada: 75%
+
+<br>
+
+2. Número de configuraciones personalizadas creadas por expertos
+
+    - Métrica actual: 0
+    - Métrica deseada: 50 por mes
+
+<br>
+
+**Hipótesis 3:**
+
+Creemos que nuestra aplicación será utilizada principalmente por personas mayores de 18 años, siendo este nuestro segmento objetivo principal. Sabremos que tuvimos éxito cuando el 85% de nuestros usuarios activos pertenezcan a este grupo de edad.
+
+Métricas:
+
+1. Porcentaje de usuarios mayores de 18 años
+
+    - Métrica actual: 0%
+    - Métrica deseada: 85%
+
+<br>
+
+2. Tasa de retención de usuarios mayores de 18 años
+
+    - Métrica actual: 0%
+    - Métrica deseada: 70% mensual
+
+<br>
+
+**Hipótesis 4:**
+
+Creemos que nuestra aplicación será sencilla y fácil de usar para todos nuestros usuarios. Sabremos que tuvimos éxito cuando más del 85% de los usuarios reporten una alta satisfacción con la usabilidad de la aplicación en encuestas periódicas.
+
+Métricas:
+
+1. Porcentaje de usuarios satisfechos con la usabilidad
+
+    - Métrica actual: 0%
+    - Métrica deseada: 85%
+
+<br>
+
+2. Tiempo promedio para configurar el sistema IoT por parte de nuevos usuarios
+
+    - Métrica actual: 60 minutos
+    - Métrica deseada: 20 minutos
+
+<br>
+
+**Hipótesis 5:**
+
+Creemos que la función de comunidad será una característica significativa donde los usuarios puedan compartir experiencias, consejos y soluciones relacionadas con sus proyectos de cultivo. Sabremos que tuvimos éxito cuando más del 65% de los usuarios activos participen regularmente en la comunidad.
+
+Métricas:
+
+1. Porcentaje de usuarios activos que participan en la comunidad
+
+    - Métrica actual: 0%
+    - Métrica deseada: 65%
+
+<br>
+
+2. Número de publicaciones y comentarios en la comunidad por mes
+
+    - Métrica actual: 0
+    - Métrica deseada: 100 publicaciones y 300 comentarios
+
+<br>
 
 #### 1.2.2.4. Lean UX Canvas
 
