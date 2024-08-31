@@ -603,6 +603,29 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 
 ## 3.4. Product Backlog
 
+| # Orden | User Story Id | Título                                                                           | Descripción                                                                                                                                                      | Story Points (1 / 2 / 3 / 5 / 8) |
+| :------ | :------------ | :------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
+| 1       | US01          | Registro de Usuario                                                             | Como aficionado y/o experto Quiero registrarme en la página Para observar todo lo que ofrece el producto inteligente.                                                                   | 3                                |
+| 2 | US02 | Visualización del Landing Page | Como aficionado y/o experto Quiero visualizar toda la información de las funcionalidades del producto inteligente Para conocer a fondo los beneficios para mis cultivos. | 2 |
+| 3 | US19 | Validación de datos ingresados | Como aficionado y/o experto, quiero que los datos ingresados en la aplicación sean validados automáticamente para evitar errores | 2 |
+| 4 | US03 | Visualización de las funcionalidades que ofrecen en el landing page | Como aficionado y/o experto Quiero visualizar los beneficios del producto inteligente, Para entender las funcionalidades que esta ofrece | 2 |
+| 5 | US10 | Seguridad de datos | Como aficionado y/o experto, quiero asegurarme de que mis datos personales y de cultivos están protegidos contra accesos no autorizados. | 8 |
+| 6 | US05 | Monitoreo en tiempo real de los parámetros del cultivo | Como aficionado, quiero monitorear en tiempo real los parámetros de mi cultivo (como temperatura, humedad y luz), para poder ajustar las condiciones y asegurarme de que mis plantas crezcan saludables. | 8 |
+| 7 | US07 | Gestión de dispositivos IoT | Como aficionado y/o experto, quiero poder gestionar los dispositivos IoT vinculados para optimizar la supervisión de mis cultivos. | 5 |
+| 8 | US06 | Configuración avanzada de alertas personalizadas para parámetros del cultivo | Como experto en el cuidado de cultivos, quiero configurar alertas personalizadas basadas en rangos específicos de temperatura, humedad y luz, para optimizar el rendimiento de mis plantas y prevenir problemas antes de que ocurran. | 5 |
+| 9 | US20 | Gestión de múltiples cultivos | Como aficionado y/o experto, quiero gestionar múltiples cultivos dentro de la misma aplicación para centralizar toda la información. | 5 |
+| 10 | US09 | Análisis de datos históricos | Como aficionado y/o experto, quiero acceder a datos históricos de mis cultivos para analizar tendencias y tomar mejores decisiones. | 5 |
+| 11 | US15 | Integración de nuevos sensores IoT | Como aficionado y/o experto, quiero poder integrar nuevos sensores IoT en mi sistema para ampliar la supervisión de diferentes parámetros en mis cultivos. | 5 |
+| 12 | US12 | Comparación de datos históricos | Como aficionado y/o experto, quiero comparar los datos actuales de mis cultivos con datos históricos para identificar tendencias. | 5 |
+| 13 | US08 | Personalización de dashboard | Como aficionado y/o experto, quiero personalizar mi panel de control para visualizar solo la información más relevante. | 3 |
+| 14 | US14 | Visualización de datos en gráficos | Como aficionado y/o experto, quiero visualizar los datos de mis cultivos en gráficos intuitivos para comprender mejor la información. | 3 |
+| 15 | US16 | Exportación de datos históricos | Como aficionado y/o experto, quiero exportar los datos históricos de mis cultivos para analizarlos fuera del sistema o compartirlos con otros. | 3 |
+| 16 | US18 | Exportación de datos | Como aficionado y/o experto, quiero poder exportar los datos de mis cultivos en diferentes formatos para análisis externo. | 3 | 
+| 17 | US11 | Desvinculación de dispositivos | Como aficionado y/o experto, quiero poder desvincular dispositivos IoT que ya no utilizo para mantener mi panel de control limpio y organizado. | 3 |
+| 19 | US04 | Visualización de los testimonios de personas sobre la landing page | Como aficionado y/o experto Quiero visualizar los testimonios de distintas personas acerca del producto inteligente para saber si cumple con su objetivo. | 1
+| 20 | US13 | Gestión de energía de sensores | Como aficionado y/o experto, quiero monitorear el consumo de energía de mis sensores IoT para optimizar su uso y prolongar la vida útil. | 8 |
+
+
 # Capítulo IV: Solution Software Design
 
 ## 4.1. Strategic-Level Domain-Driven Design
