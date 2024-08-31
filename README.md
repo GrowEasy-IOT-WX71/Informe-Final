@@ -619,13 +619,31 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 
 ### 4.1.3. Software Architecture
 
+En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura de nuestra solución.
+
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342958021185546/1.png?ex=66d4187a&is=66d2c6fa&hm=1affe2358f3364003bc6561e8b1d0497c2986ef799d9d3577715ec0ff69bab66&=&format=webp&quality=lossless&width=904&height=676"/>
+</div>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342958461714512/2.png?ex=66d4187a&is=66d2c6fa&hm=b5991f1ee3ed0ec3a9ed51987e73437471db6746e0516512aac429216672d270&=&format=webp&quality=lossless&width=865&height=676"/>
+</div>
+
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342959111962694/3.png?ex=66d4187a&is=66d2c6fa&hm=514b82be13447248484845bc096040b1178648491356fcac20264ce22bff374e&=&format=webp&quality=lossless&width=845&height=676"/>
+</div>
+
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342957417332798/4.png?ex=66d4187a&is=66d2c6fa&hm=84992093039c40e61f392e9f5d7a13141216f1b9a66cc203117092831e67b647&=&format=webp&quality=lossless&width=1440&height=637"/>
+</div>
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
