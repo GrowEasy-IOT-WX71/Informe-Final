@@ -644,6 +644,38 @@ A continuación, se presenta la imagen de referencia del mapeo realizado en [Mir
 
 #### 4.1.2. Domain Message Flows Modeling
 
+En esta sección, abordaremos el **Modelado de Flujos de Mensajes de Dominio**, una técnica crucial para la representación de cómo los mensajes y datos se transmiten dentro de un sistema o entre diferentes dominios. Este modelado es fundamental para entender las interacciones entre componentes, servicios y entidades del dominio, lo que permite identificar dependencias, optimizar procesos y mejorar la arquitectura del sistema.
+
+Para la creación de los diagramas de flujos de mensajes, hemos utilizado la herramienta Figma, que facilita el diseño colaborativo y la representación visual detallada de los flujos de mensajes. Figma nos ha permitido desarrollar diagramas precisos y fácilmente editables, proporcionando una visión clara de cómo los mensajes se intercambian y procesan en el sistema.
+
+A continuación, se presenta las imágenes de referencia del modelado realizado en [Figma](https://www.figma.com/board/Hqho4dHjN1knvm4cqb4FLY/Domain-Message-Flows-Modeling?node-id=0-1\&t=UJPsVYgekUVI6V6A-1):
+
+**Login and Register Context**
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831048097854/image.png?ex=66d7712d&is=66d61fad&hm=f3080371b96acbcc458d72836f69ae152048d3b07f739546593e3c5a36edbe34&=&format=webp&quality=lossless"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831446691944/image.png?ex=66d7712d&is=66d61fad&hm=11d88a4733a68803369e7ce76ac5ded7f190fa75906000817f4c6195352ae6c0&=&format=webp&quality=lossless"/>
+</div>
+
+**Monitoring Context**  
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831681310760/image.png?ex=66d7712d&is=66d61fad&hm=b830a92a2386abec4928cf5722e9347aeb6372f7abf50c14556f2beb6564ecbf&=&format=webp&quality=lossless"/>
+</div>
+
+**Notification Context**  
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831991820390/image.png?ex=66d7712d&is=66d61fad&hm=005eefdde36aae47de13b17b9a3e8fdf5778027d2a44dc8de4fbe26175c7f9fc&=&format=webp&quality=lossless"/>
+</div>
+
+**Report Context**  
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262832289484800/image.png?ex=66d7712d&is=66d61fad&hm=24252bcafc1733a44bf4266afdc588303bca292a92be465230637f77e3ab8abf&=&format=webp&quality=lossless"/>
+</div>
+
+**Recommendation Context**  
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262832503390271/image.png?ex=66d7712d&is=66d61fad&hm=132168d65eaf20eed4afe6b7885f5cefde5f523691c4783ca92a54956694d11c&=&format=webp&quality=lossless"/>
+</div>
+
 #### 4.1.3. Bounded Context Canvases
 
 ### 4.1.2. Context Mapping
