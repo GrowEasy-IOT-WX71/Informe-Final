@@ -694,6 +694,16 @@ A continuación, se presenta las imágenes de referencia del canvas de contextos
 
 ### 4.1.2. Context Mapping
 
+En esta sección, exploraremos el **Context Mapping**, una técnica esencial para el diseño y análisis de arquitecturas de sistemas complejos. El Context Mapping se centra en la representación visual y la documentación de las interacciones y relaciones entre diferentes contextos o dominios dentro de un sistema. Esta técnica es crucial para identificar las dependencias, flujos de información y puntos de integración entre los contextos, ayudando a clarificar la estructura y facilitando una integración eficiente.
+
+Utilizando la herramienta Lucidchart, hemos desarrollado un diagrama detallado que ilustra estos contextos y sus interacciones de manera clara y estructurada. Lucidchart permite crear diagramas precisos y colaborativos que facilitan la comprensión y comunicación de las relaciones entre los distintos dominios.
+
+A continuación, se presenta la imagen de referencia del mapeo realizado en [Lucidchart](https://lucid.app/lucidchart/bd13a4a3-1ff1-461e-bd38-8dd32358d38d/edit?viewport\_loc=-221%2C69%2C2155%2C1115%2C0\_0\&invitationId=inv\_f25e463d-9272-4a27-93f5-a9dc1d179113):
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263375091273841/image.png?ex=66d771ae&is=66d6202e&hm=8cc3aaf3d78222cd1e8d0f36b5428a516bda29491ef213f03b266f6250ad5f78&=&format=webp&quality=lossless"/>
+</div>
+
 ### 4.1.3. Software Architecture
 
 En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura de nuestra solución.
