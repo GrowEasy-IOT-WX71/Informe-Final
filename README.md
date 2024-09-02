@@ -301,7 +301,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Jack Arana" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66d770f8&is=66d61f78&hm=45ba7165dfe37418f660a851df4c8f956b719f3e8e8e8d1295c07123cca0a0b7&=&format=webp&width=421&height=633" alt="Jack Arana" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
