@@ -678,6 +678,20 @@ A continuación, se presenta las imágenes de referencia del modelado realizado 
 
 #### 4.1.3. Bounded Context Canvases
 
+En esta sección, examinaremos los **Bounded Context Canvases**, una herramienta fundamental en el diseño y análisis de arquitecturas de sistemas complejos. Los Bounded Context Canvases son utilizados para definir y visualizar los límites contextuales dentro de un sistema, permitiendo una comprensión clara de cómo se dividen y organizan los distintos dominios o contextos dentro de la solución.
+
+El objetivo de los Bounded Context Canvases es identificar y documentar los límites entre diferentes contextos, así como las interacciones y relaciones entre ellos. Esto ayuda a asegurar que cada contexto tenga una definición clara y que las interacciones entre contextos sean gestionadas de manera efectiva, facilitando la integración y la coherencia en el sistema global.
+
+A continuación, se presenta las imágenes de referencia del canvas de contextos realizado en [Miro](https://miro.com/welcomeonboard/V1h4alVMNXVwb1FpWHhlYnJXRnhYT0RuY3dUUlpPVDFIbllPR1prZFZrSGVGZ2RpSDc2ZWdaSzMydGJ0Um5ka3wzNDU4NzY0NTkzNDI3ODE3NjA2fDI=?share\_link\_id=388280836822):
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309077254237/image.png?ex=66d7719f&is=66d6201f&hm=9d3033aaf1774e5d348a1c48fea13fa46f3c27232aca1ed7637299f3f9c20782&=&format=webp&quality=lossless"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309332844669/image.png?ex=66d7719f&is=66d6201f&hm=3cc78c5d4cf9e4b03c326c6aef69236481aa2546e9b306d9f0c7775c6e26fc53&=&format=webp&quality=lossless" />
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309593153566/image.png?ex=66d7719f&is=66d6201f&hm=e27b24fd5095b55a841088600ed89df86c6f5a3614f7d86bf7f807a322ecadb6&=&format=webp&quality=lossless" />
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309853065390/image.png?ex=66d7719f&is=66d6201f&hm=fb63e81abf782deda06e288423932ccd9bc9e7c48c9ec1558f7b97092b22d56f&=&format=webp&quality=lossless" />
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263310188478474/image.png?ex=66d7719f&is=66d6201f&hm=8721f28a87614b130f021badeb2d51ff661b5b80090d4713a0bcbcc7ec384d05&=&format=webp&quality=lossless&width=1094&height=633" />
+</div>
+
 ### 4.1.2. Context Mapping
 
 ### 4.1.3. Software Architecture
