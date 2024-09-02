@@ -634,6 +634,14 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 
 #### 4.1.1. Candidate Context Discovery
 
+En esta sección, abordaremos el proceso de **Descubrimiento del Contexto del Candidato**, un componente crucial para la identificación y análisis de contextos relevantes en el desarrollo de aplicaciones y sistemas. Este proceso implica la exploración y recopilación de información clave que permite comprender los escenarios y necesidades de los usuarios o stakeholders involucrados. Utilizando la herramienta Miro, hemos mapeado visualmente los diversos contextos candidatos, integrando imágenes de referencia para proporcionar una visión clara y estructurada. A través de este enfoque, buscamos establecer una base sólida para la toma de decisiones informadas y el diseño eficaz de soluciones tecnológicas que se ajusten a los requerimientos identificados.
+
+A continuación, se presenta la imagen de referencia del mapeo realizado en [Miro](https://miro.com/app/board/uXjVKnyuUYc=/):
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262690048311296/image.png?ex=66d7710b&is=66d61f8b&hm=f3ce999eaebae7a636ffb714abe5200ba721e8acc7a094721d7b0a931d8089cb&=&format=webp&quality=lossless&width=700&height=633"/>
+</div>
+
 #### 4.1.2. Domain Message Flows Modeling
 
 #### 4.1.3. Bounded Context Canvases
