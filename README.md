@@ -177,7 +177,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66d3e3b7&is=66d29237&hm=c1baea122f79f3959dbdd0521bf9ab8425566ce2bf773f600e36cfd1dd76a780&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66d7d837&is=66d686b7&hm=a44f16adcce89faf8363475d08088d1b0df9b59eb369112992a27c3ab4cdfff4&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
