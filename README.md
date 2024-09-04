@@ -67,7 +67,14 @@ Septiembre del 2023
     - **Capítulo II: Requirements Elicitation & Analysis** (Farid Rolando)
     - **Capítulo III: Requirements Specification** (Jesús Antonio)
     - **Capítulo IV: Solution Software Design** (Leonardo y Jack)
-    
+
+    <div align=center>
+        <img src=""/>      
+    </div>
+
+    <div align=center>
+        <img src=""/>
+    </div>
 
 <br><br>
 
@@ -179,7 +186,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="imagenes/paoloperfil.jpg" alt="Paolo Checa" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66d7d837&is=66d686b7&hm=a44f16adcce89faf8363475d08088d1b0df9b59eb369112992a27c3ab4cdfff4&" alt="Paolo Checa" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -213,7 +220,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="imagenes/jesusperfil.jpg" alt="Jesus Lazo Tapia" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279607692557811742/foto.jpg?ex=66d9ac47&is=66d85ac7&hm=5e0e21a9b372f6437844339548371de24d772d183d5c2964e4709400355ceb13&" alt="Jesus Lazo Tapia" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -248,7 +255,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="imagenes/faridperfil.png" alt="Farid Rolando" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280719409018835005/perfil.png?ex=66d9c325&is=66d871a5&hm=75ae21f9b7848e6a628033986a8c59043b06cd6182d3df83a4cca4f1dc476efb&" alt="Farid Rolando" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -283,7 +290,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="imagenes/" alt="Leonardo" width="900"/>
+            <img src="" alt="Leonardo" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -318,7 +325,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="imagenes/jackperfil.jpg" alt="Jack Arana" width="900">
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66d96b38&is=66d819b8&hm=2f4ffa74007d4394304bd6892261b296ed4a190c8d4b9a4b9b4486cb250a0660&" alt="Jack Arana" width="900">
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -571,7 +578,7 @@ Después de realizar un análisis en el mercado peruano, hemos identificado tres
 Empresa especializada en ofrecer herramientas tecnológicas para la gestión agrícola. Su principal producto es una plataforma IoT que permite a los agricultores monitorear condiciones ambientales y del suelo en tiempo real. También brindan análisis de datos para optimizar la producción y minimizar riesgos asociados con condiciones climáticas adversas.
 
 <div align="center">
-    <img src="imagenes/competidor1.png" alt="competidor1" width="200" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105671598122/Picture2.png?ex=66d9e72f&is=66d895af&hm=020703e6a7b728548256e443a0db879b2f00bc3d3c1f3246aca0f341f638555d&" alt="competidor1" width="200" height="200"/>
 </div>
 
 ### **Hydroponics Perú**
@@ -579,7 +586,7 @@ Empresa especializada en ofrecer herramientas tecnológicas para la gestión agr
 Se especializa en ofrecer soluciones completas para la práctica de la hidroponía, incluyendo sistemas automatizados de riego, control de nutrientes, y monitoreo ambiental a través de sensores IoT. Además de vender equipos, ofrecen asesoría técnica y soporte para la implementación de sistemas hidropónicos tanto a nivel doméstico como comercial.
 
 <div align="center">
-    <img src="imagenes/competidor2.png" alt="competidor2" width="200" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105956945980/Picture1.png?ex=66d9e72f&is=66d895af&hm=292a3d9d6832e2367019c9e2d0d426e471f52a622bb3ee3dbfcb721b3dd86e0e&" alt="competidor2" width="200" height="200"/>
 </div>
 
 ### **Smart Agro Perú**
@@ -587,7 +594,7 @@ Se especializa en ofrecer soluciones completas para la práctica de la hidropon�
 Smart Agro Perú es una empresa que se dedica a la integración de tecnología en el sector agrícola. Ofrecen soluciones que incluyen la implementación de sensores IoT para monitorear en tiempo real variables como temperatura, humedad del suelo, y niveles de agua en los cultivos. Además, proporcionan una plataforma digital que permite a los agricultores tomar decisiones informadas basadas en los datos recolectados por los sensores.
 
 <div align="center">
-    <img src="imagenes/competidor3.png" alt="competidor3" width="400" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105331994664/Picture3.png?ex=66d9e72f&is=66d895af&hm=bc974630e20d868e25eb524d86f69ee4ea62d2f81cb0a597e84d09aa23091624&" alt="competidor3" width="400" height="200"/>
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -647,7 +654,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Agricultor Experto:** es un profesional con experiencia en la gestión de cultivos a gran escala, que busca soluciones tecnológicas avanzadas para optimizar sus operaciones y maximizar la eficiencia de su producción.
 
 <div align="center">
-    <img src="imagenes/" alt="userpersonaexperto"/>
+    <img src="" alt="userpersonaexperto"/>
 </div>
 
 <br>
@@ -655,7 +662,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Aficionado a la Hidroponía:** es alguien que se está iniciando en el mundo del cultivo sin suelo, buscando tecnologías sencillas que le faciliten el cuidado de sus plantas y le permitan mejorar su rendimiento sin necesidad de un conocimiento técnico profundo.
 
 <div align="center">
-    <img src="imagenes/" alt="userpersonaaficionado"/>
+    <img src="" alt="userpersonaaficionado"/>
 </div>
 
 <br>
@@ -669,7 +676,7 @@ El User Task Matrix es una herramienta clave que recopila y analiza las tareas f
 El User Journey Mapping del aficionado a la hidroponía explora el recorrido completo que este usuario realiza desde el momento en que se da cuenta de la necesidad de una solución tecnológica para mejorar el cuidado de sus cultivos, hasta la evaluación final de la eficacia de dicha solución. Este mapa detalla las etapas clave, las emociones, y los desafíos que enfrenta un aficionados mientras navega por la amplia gama de opciones tecnológicas, se registra en una plataforma, comienza a utilizar la tecnología, y finalmente evalúa su impacto en el rendimiento de sus cultivos. A través de este análisis, identificamos oportunidades críticas para mejorar la experiencia del usuario y facilitar su camino hacia la adopción de tecnologías innovadoras en el cultivo hidropónico.
 
 <div align="center">
-    <img src="imagenes/" alt="userjourneyaficionado"/>
+    <img src="" alt="userjourneyaficionado"/>
 </div>
 
 <br>
@@ -677,7 +684,7 @@ El User Journey Mapping del aficionado a la hidroponía explora el recorrido com
 El User Journey Mapping del agricultor experto en grandes cultivos ofrece una visión detallada del proceso que sigue este usuario al integrar tecnologías avanzadas en sus operaciones agrícolas. Este recorrido abarca desde la búsqueda inicial de soluciones que puedan aumentar la eficiencia y productividad de sus cultivos a gran escala, hasta la implementación y personalización de estas tecnologías, y la evaluación de su retorno de inversión. El mapa pone en evidencia las expectativas elevadas de un usuario experimentado, así como los desafíos técnicos y estratégicos que enfrenta al adoptar nuevas herramientas. Este análisis proporciona una base para desarrollar soluciones que no solo satisfagan las necesidades complejas de los expertos, sino que también les ofrezcan un valor tangible y medible en sus operaciones agrícolas.
 
 <div align="center">
-    <img src="imagenes/" alt="userjourneyexperto"/>
+    <img src="" alt="userjourneyexperto"/>
 </div>
 
 <br>
@@ -688,14 +695,14 @@ El Empathy Mapping es una herramienta esencial que nos permite adentrarnos en la
 
 **Aficionado**
 <div align="center">
-    <img src="imagenes/" alt="aficionadoempathymapping"/>
+    <img src="" alt="aficionadoempathymapping"/>
 </div>
 
 <br>
 
 **Experto**
 <div align="center">
-    <img src="imagenes/" alt="expertoempathymapping"/>
+    <img src="" alt="expertoempathymapping"/>
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -704,14 +711,14 @@ El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprende
 
 **Aficionados**
 <div align="center">
-    <img src="imagenes/" alt="escenariomapping"/>
+    <img src="" alt="escenariomapping"/>
 </div>
 
 <br>
 
 **Expertos**
 <div align="center">
-    <img src="imagenes/" alt="escenariomapping"/>
+    <img src="" alt="escenariomapping"/>
 </div>
 
 ## 2.4. Ubiquitous Language
@@ -784,13 +791,13 @@ Es importante visualizar las operaciones y experiencias de los usuarios con nues
 ### Segmento 1: Aficinados
 
 <div align="center">
-    <img src="imagenes/aficionadosTobescenariomapping.jpg" alt="aficionados"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608205131124827/tobe_scenario_mapping_aficionados.jpg?ex=66d9acc2&is=66d85b42&hm=e14a493af1ea40e068c6b80912dbf7df781ffbf2ef5c4848635d14696f28debf&" alt="aficionados"/>
 </div>
 
 ### Segmento 2: Expertos 
 
 <div align="center">
-    <img src="imagenes/expertosTobescenariomapping.jpg" alt="expertos"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608461008703590/tobe_scenario_mapping_expertos.jpg?ex=66d9acff&is=66d85b7f&hm=2b8d22d10e13a5d722403d0a49c428ab2388ecd8337472f0a8a23bc86d44f0af&" alt="expertos"/>
 </div>
 
 ## 3.2. User Stories
@@ -837,7 +844,7 @@ Presentamos el concepto de Impact Map, una herramienta estratégica que nos faci
 </div>
 <br>
 <div align="center">
-    <img src="imagenes/impactmapping.jpg" alt="impactmapping"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280306499842736178/ImpactMappingIOT.jpg?ex=66d99418&is=66d84298&hm=b74024fee23a0d72bb2997cae61baf5a105e81356036e5ac7d6f62a0d2fd0b6c&" alt="impactmapping"/>
 </div>
 
 ## 3.4. Product Backlog
