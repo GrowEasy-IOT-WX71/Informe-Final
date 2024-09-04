@@ -5,9 +5,9 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-Ingeniería de Software
+### Ingeniería de Software
 
-Ciclo 2024-02
+### Ciclo 2024-02
 
 <hr>
 
@@ -63,18 +63,11 @@ Septiembre del 2023
 
     <br>
 
-    - **Capítulo I: Introducción**
-    - **Capítulo II: Requirements Elicitation & Analysis**
-    - **Capítulo III: Requirements Specification**
-    - **Capítulo IV: Solution Software Design**
+    - **Capítulo I: Introducción** (Paolo Sebastián)
+    - **Capítulo II: Requirements Elicitation & Analysis** (Farid Rolando)
+    - **Capítulo III: Requirements Specification** (Jesús Antonio)
+    - **Capítulo IV: Solution Software Design** (Leonardo y Jack)
     
-    <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149369808740163625/image.png"/>      
-    </div>
-
-    <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149370395296813166/image.png"/>
-    </div>
 
 <br><br>
 
@@ -156,8 +149,12 @@ Septiembre del 2023
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :------------------: | :-----------------: | :----------: |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
+| <div style="text-align: justify;"> Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> | <div style="text-align: justify;"> **Jesus Lazo Tapia - TB1:** He estado en equipo participando en todas las reuniones, contribuyendo al impact mapping y To-Be Scenario Mapping, y colaborando en la toma de decisiones. </div>
+ | |
+| <div style="text-align: justify;"> Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> | <div style="text-align: justify;"> **Jesus Lazo Tapia - TB1**: He promovido un entorno colaborativo al ayudar con el markdown, participar en la planificación, y asegurar que todas las voces sean escuchadas, contribuyendo a cumplir nuestras metas.</div>
+ | |
+
+<br><br>
 
 # Capítulo I: Introducción
 
@@ -165,19 +162,24 @@ Septiembre del 2023
 
 ### 1.1.1. Description de la StartUp
 
+<div style="text-align: justify;">
 Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrecer soluciones avanzadas en el monitoreo y gestión de cultivos mediante tecnología IoT. Nos dedicamos a fortalecer a los agricultores y aficionados de la hidroponía con herramientas tecnológicas que permiten un control preciso y automatizado de sus cultivos. A través de sensores inteligentes, los usuarios pueden monitorear en tiempo real parámetros críticos como la temperatura, humedad, intensidad del viento y la iluminación, optimizando el crecimiento de las plantas y garantizando cosechas de alta calidad. Además, ofrecemos una plataforma intuitiva que permite la gestión remota de estos factores, facilitando la toma de decisiones y reduciendo el margen de error.
+</div>
+<br>
+
+<div style="text-align: justify;">
 
 - **Visión:** Nos proponemos ser líderes en la integración de tecnología IoT en la agricultura, facilitando el acceso a soluciones inteligentes que promuevan prácticas sostenibles y eficientes en el cultivo de alimentos, independientemente del entorno.
 
 - **Misión:** Nuestra misión es proporcionar una solución integral que permita a los agricultores, tanto expertos como aficionados, monitorear y gestionar sus cultivos de manera eficiente y sostenible a través de tecnología IoT, mejorando así la productividad y reduciendo el impacto ambiental.
-
+</div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66d7d837&is=66d686b7&hm=a44f16adcce89faf8363475d08088d1b0df9b59eb369112992a27c3ab4cdfff4&" alt="Paolo Checa" style="margin-bottom: 5px;" width="800"/>
+            <img src="imagenes/paoloperfil.jpg" alt="Paolo Checa" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -196,19 +198,22 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
-        En la Ingeniería de Software uno consigue los instrumentos necesarios para poder desarrollar programas o aplicaciones. El camino para lograr aquello se basa en un proceso donde el ingeniero deberá analizar lo requerido, planificar el desarrollo del proceso y comprobar su funcionamiento correcto hasta que este se ejecute sin errores. Las estrategias usadas para simplificar y acelerar estos procesos serán clave en esta rama pues estas serán las soluciones innovadoras que el ingeniero deberá crear. 
+        <div style="text-align: justify;">
+        En la Ingeniería de Software uno consigue los instrumentos necesarios para poder desarrollar programas o aplicaciones. El camino para lograr aquello se basa en un proceso donde el ingeniero deberá analizar lo requerido, planificar el desarrollo del proceso y comprobar su funcionamiento correcto hasta que este se ejecute sin errores. Las estrategias usadas para simplificar y acelerar estos procesos serán clave en esta rama pues estas serán las soluciones innovadoras que el ingeniero deberá crear.
+        </div> 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
+        <div style="text-align: justify;">
         Poseo conocimientos en programación en el entorno del lenguaje C++, Python y Java. Estoy dispuesto a aportar nuevas ideas al equipo, tengo fácil adaptación a los roles designados y buena organización. Soy responsable y dispongo de la capacidad para aportar ideas innovadoras en beneficio de nuestro proyecto. 
         </td>
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Jesus Lazo" style="margin-bottom: 5px;" width="800"/>
+            <img src="imagenes/jesusperfil.jpg" alt="Jesus Lazo Tapia" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -227,19 +232,23 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
+        <div style="text-align: justify;">
         La Ingeniería de Software proporciona las herramientas esenciales para crear programas y aplicaciones. Este proceso involucra que el ingeniero analice las necesidades, planifique el desarrollo y verifique que todo funcione correctamente hasta asegurar que el software opere sin fallas. Las tácticas implementadas para optimizar y acelerar estos procedimientos serán fundamentales en este campo, ya que representan las soluciones innovadoras que el ingeniero debe desarrollar. 
+        </div>
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
-        Poseo conocimientos en programación que he estado llevando desde el inicio de mi carrera, me gusta el desarrollo con tecnología inteligente y redes y comunicaciones de datos. Soy responsable y estaré apoyando a mi grupo para obtener el éxito de nuestro trabajo. 
+        <div style="text-align: justify;">
+        Poseo conocimientos en programación que he estado llevando desde el inicio de mi carrera, me gusta el desarrollo con tecnología inteligente y redes y comunicaciones de datos. Soy responsable y estaré apoyando a mi grupo para obtener el éxito de nuestro trabajo.
+        </div> 
         </td>
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Farid Hinostroza" style="margin-bottom: 5px;" width="800"/>
+            <img src="imagenes/faridperfil.png" alt="Farid Rolando" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -258,19 +267,23 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
-        La Ingeniería de Software es una disciplina que combina creatividad y lógica para desarrollar soluciones tecnológicas que impacten positivamente en la sociedad. Este campo abarca desde la concepción de la idea hasta la implementación y mantenimiento de software, garantizando que las soluciones sean efectivas y eficientes. El ingeniero de software debe estar preparado para enfrentar desafíos complejos, aplicar metodologías ágiles, adaptarse a las nuevas tendencias tecnológicas, asegurando que los productos finales cumplan con los estándares de calidad y funcionalidad. 
+        <div style="text-align: justify;">
+        La Ingeniería de Software es una disciplina que combina creatividad y lógica para desarrollar soluciones tecnológicas que impacten positivamente en la sociedad. Este campo abarca desde la concepción de la idea hasta la implementación y mantenimiento de software, garantizando que las soluciones sean efectivas y eficientes. El ingeniero de software debe estar preparado para enfrentar desafíos complejos, aplicar metodologías ágiles, adaptarse a las nuevas tendencias tecnológicas, asegurando que los productos finales cumplan con los estándares de calidad y funcionalidad.
+        </div> 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
-        He adquirido una base sólida en desarrollo de software, con un interés particular en la inteligencia artificial y la gestión de bases de datos. Mi enfoque es la mejora continua y la implementación de soluciones innovadoras que resuelvan problemas reales. Además, soy proactivo y colaborativo, lo que me permite trabajar eficazmente en equipo para alcanzar los objetivos propuestos, siempre con la vista puesta en la excelencia y la eficiencia del proyecto. 
+        <div style="text-align: justify;">
+        He adquirido una base sólida en desarrollo de software, con un interés particular en la inteligencia artificial y la gestión de bases de datos. Mi enfoque es la mejora continua y la implementación de soluciones innovadoras que resuelvan problemas reales. Además, soy proactivo y colaborativo, lo que me permite trabajar eficazmente en equipo para alcanzar los objetivos propuestos, siempre con la vista puesta en la excelencia y la eficiencia del proyecto.
+        </div> 
         </td>
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Fernando Taype" style="margin-bottom: 5px;" width="800"/>
+            <img src="imagenes/" alt="Leonardo" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -289,19 +302,23 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
+        <div style="text-align: justify;">
         En la carrera de Ingeniería de Software adquirimos conocimiento para desarrollar soluciones a través de software. Analizamos requisitos, diseñamos arquitectura, creamos código y mantenemos en funcionamiento productos de software. 
+        </div>
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
+        <div style="text-align: justify;">
         Me considero una persona comprometida y responsable. Me gusta aprender y plantearme retos. Estudio la carrera de ingeniería de software, siempre me ha gustado interactuar con la computadora y ahora puedo ser un profesional haciendo lo que me gusta. Tengo conocimientos en desarrollo web, móvil y desktop. 
+        </div>
         </td>
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66d770f8&is=66d61f78&hm=45ba7165dfe37418f660a851df4c8f956b719f3e8e8e8d1295c07123cca0a0b7&=&format=webp&width=421&height=633" alt="Jack Arana" style="margin-bottom: 5px;" width="800"/>
+            <img src="imagenes/jackperfil.jpg" alt="Jack Arana" width="900">
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -320,19 +337,24 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
         <td align="left">
         <b>Descripción de carrera</b>
         <br>
+        <div style="text-align: justify;">
         Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. La carrera de Ingeniería de Software está diseñada para formar profesionales altamente capacitados en el diseño, desarrollo y mantenimiento de sistemas de software complejos. A lo largo del programa, se adquiere una sólida base en principios de ingeniería, metodologías de desarrollo, y buenas prácticas en la gestión de proyectos tecnológicos. 
+        </div>
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades</b>
         <br>
+        <div style="text-align: justify;">
         Tengo experiencia en desarrollo web full stack, manejando tanto front-end como back-end. También estoy capacitado en prácticas de DevOps, control de versiones con Git, y diseño de interfaces de usuario eficientes. Mis habilidades analíticas y de trabajo en equipo, junto con una gestión eficaz del tiempo, me permiten adaptarme rápidamente a nuevas tecnologías y resolver problemas complejos de manera eficiente. 
+        </div>
         </td>
     </tr>
 </table>
 
 ## 1.2. Solution Profile
+<div style="text-align: justify;">
 
 **Nombre del Producto:** Nuestro servicio tiene el nombre de “GrowEasy”, reflejando nuestro compromiso de facilitar el monitoreo y la gestión eficiente de cultivos para nuestros usuarios. Con la tecnología IoT, los usuarios podrán supervisar y optimizar el crecimiento de sus plantas de manera sencilla, creciendo junto con nosotros a medida que aprovechan al máximo nuestras herramientas tecnológicas.
 
@@ -340,7 +362,10 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 
 **Monetización:** Nuestro servicio generará ingresos a través de la venta de hardware IoT (sensores y dispositivos de control) y suscripciones a la plataforma que ofrecen acceso a funcionalidades avanzadas, como análisis de datos y recomendaciones personalizadas. Además, consideramos alianzas con empresas de insumos y equipamiento agrícola para ofrecer publicidad dirigida y relevante dentro de nuestra aplicación, brindando a los usuarios acceso a productos y servicios que complementen su experiencia de cultivo.
 
+</div>
+
 ### 1.2.1. Antecedentes y problemática
+<div style="text-align: justify;">
 
 Para este segmento, utilizamos la técnica 5W y 2H, lo que nos permite identificar los aspectos clave relacionados con nuestro proyecto.
 
@@ -525,7 +550,7 @@ Métricas:
 En esta sección, presentaremos nuestro Lean UX Canvas, que resume los aspectos clave de nuestro proyecto y las estrategias para abordarlos de manera efectiva. Este canvas se basa en los principios de Lean UX, que enfatizan la colaboración, la iteración y la validación continua para lograr resultados exitosos.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279338931485151233/image.png?ex=66d8093a&is=66d6b7ba&hm=ed117cd2119332a3c11623d5960eba6c10a4cfa24a0008e85b7bb4b79c0fefe8&"/>
+    <img src="imagenes/leanUXCanvas.png" alt="leanuxcanvas"/>
 </div>
 
 ## 1.3. Segmentos objetivos
@@ -540,9 +565,41 @@ En esta sección, presentaremos nuestro Lean UX Canvas, que resume los aspectos 
 
 ## 2.1. Competidores
 
+Después de realizar un análisis en el mercado peruano, hemos identificado tres proyectos similares a GrowEasy que consideramos como posibles competidores. Estos son:
+
+### **AgroData Perú**
+Empresa especializada en ofrecer herramientas tecnológicas para la gestión agrícola. Su principal producto es una plataforma IoT que permite a los agricultores monitorear condiciones ambientales y del suelo en tiempo real. También brindan análisis de datos para optimizar la producción y minimizar riesgos asociados con condiciones climáticas adversas.
+
+<div align="center">
+    <img src="imagenes/competidor1.png" alt="competidor1" width="200" height="200"/>
+</div>
+
+### **Hydroponics Perú**
+
+Se especializa en ofrecer soluciones completas para la práctica de la hidroponía, incluyendo sistemas automatizados de riego, control de nutrientes, y monitoreo ambiental a través de sensores IoT. Además de vender equipos, ofrecen asesoría técnica y soporte para la implementación de sistemas hidropónicos tanto a nivel doméstico como comercial.
+
+<div align="center">
+    <img src="imagenes/competidor2.png" alt="competidor2" width="200" height="200"/>
+</div>
+
+### **Smart Agro Perú**
+
+Smart Agro Perú es una empresa que se dedica a la integración de tecnología en el sector agrícola. Ofrecen soluciones que incluyen la implementación de sensores IoT para monitorear en tiempo real variables como temperatura, humedad del suelo, y niveles de agua en los cultivos. Además, proporcionan una plataforma digital que permite a los agricultores tomar decisiones informadas basadas en los datos recolectados por los sensores.
+
+<div align="center">
+    <img src="imagenes/competidor3.png" alt="competidor3" width="400" height="200"/>
+</div>
+
 ### 2.1.1. Análisis competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+**Diferenciación y Educación:** Enfatizar la accesibilidad y facilidad de uso de GrowEasy Innovators para todos los niveles de agricultores, complementado con programas educativos y contenido de apoyo para aficionados y aficionados.
+Segmentación y Personalización: Ofrecer soluciones escalables y modulares que permitan a pequeños agricultores acceder a tecnología avanzada, con opciones de personalización y precios flexibles que puedan crecer con sus necesidades.
+
+**Expansión y Alianzas:** Desarrollar campañas de marketing geolocalizado para mercados rurales y urbanos, y establecer alianzas estratégicas con instituciones y organismos que promuevan la agricultura sostenible.
+
+**Innovación y Posicionamiento:** Invertir en investigación y desarrollo para mantener la tecnología de GrowEasy Innovators a la vanguardia, y fortalecer la marca a través de casos de éxito y testimonios que resalten la sostenibilidad y eficacia de la plataforma.
 
 ## 2.2. Entrevistas
 
@@ -581,21 +638,160 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 
 ## 2.3. Needfinding
 
+Los User Personas son fundamentales para el éxito del proyecto, ya que brindan una comprensión profunda y concreta de las necesidades, deseos, frustraciones y comportamientos de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a aficionados, hasta ofrecer herramientas para que los expertos compartan su conocimiento.
+
 ### 2.3.1. User Personas
+
+Para comprender mejor a los usuarios a los que está dirigida nuestra solución, hemos identificado y perfilado dos grupos clave de usuarios: el Aficionado a la Hidroponía y el Agricultor Experto. Estos perfiles de User Persona nos permiten visualizar sus necesidades, comportamientos, y desafíos específicos, ayudándonos a diseñar una solución que realmente responda a sus expectativas y resuelva sus problemas de manera efectiva.
+
+- **Agricultor Experto:** es un profesional con experiencia en la gestión de cultivos a gran escala, que busca soluciones tecnológicas avanzadas para optimizar sus operaciones y maximizar la eficiencia de su producción.
+
+<div align="center">
+    <img src="imagenes/" alt="userpersonaexperto"/>
+</div>
+
+<br>
+
+- **Aficionado a la Hidroponía:** es alguien que se está iniciando en el mundo del cultivo sin suelo, buscando tecnologías sencillas que le faciliten el cuidado de sus plantas y le permitan mejorar su rendimiento sin necesidad de un conocimiento técnico profundo.
+
+<div align="center">
+    <img src="imagenes/" alt="userpersonaaficionado"/>
+</div>
+
+<br>
 
 ### 2.3.2. User Task Matrix
 
+El User Task Matrix es una herramienta clave que recopila y analiza las tareas fundamentales que los usuarios de "GrowEasy Innovators" realizan en su actividad agrícola, ya sea en la agricultura tradicional o en la hidroponía. Este cuadro se enfoca en evaluar con qué frecuencia los usuarios llevan a cabo cada una de estas tareas y la severidad o impacto que estas tienen en su éxito. Al identificar estas áreas clave, GrowEasy podrá desarrollar soluciones tecnológicas que no solo faciliten la vida de los usuarios, sino que también maximicen la eficiencia y la efectividad en el manejo de sus cultivos. Esto permite priorizar las necesidades más críticas de los usuarios y ofrecerles herramientas que realmente les ayuden a alcanzar sus objetivos de manera óptima.
+
 ### 2.3.3. User Journey Mapping
+
+El User Journey Mapping del aficionado a la hidroponía explora el recorrido completo que este usuario realiza desde el momento en que se da cuenta de la necesidad de una solución tecnológica para mejorar el cuidado de sus cultivos, hasta la evaluación final de la eficacia de dicha solución. Este mapa detalla las etapas clave, las emociones, y los desafíos que enfrenta un aficionados mientras navega por la amplia gama de opciones tecnológicas, se registra en una plataforma, comienza a utilizar la tecnología, y finalmente evalúa su impacto en el rendimiento de sus cultivos. A través de este análisis, identificamos oportunidades críticas para mejorar la experiencia del usuario y facilitar su camino hacia la adopción de tecnologías innovadoras en el cultivo hidropónico.
+
+<div align="center">
+    <img src="imagenes/" alt="userjourneyaficionado"/>
+</div>
+
+<br>
+
+El User Journey Mapping del agricultor experto en grandes cultivos ofrece una visión detallada del proceso que sigue este usuario al integrar tecnologías avanzadas en sus operaciones agrícolas. Este recorrido abarca desde la búsqueda inicial de soluciones que puedan aumentar la eficiencia y productividad de sus cultivos a gran escala, hasta la implementación y personalización de estas tecnologías, y la evaluación de su retorno de inversión. El mapa pone en evidencia las expectativas elevadas de un usuario experimentado, así como los desafíos técnicos y estratégicos que enfrenta al adoptar nuevas herramientas. Este análisis proporciona una base para desarrollar soluciones que no solo satisfagan las necesidades complejas de los expertos, sino que también les ofrezcan un valor tangible y medible en sus operaciones agrícolas.
+
+<div align="center">
+    <img src="imagenes/" alt="userjourneyexperto"/>
+</div>
+
+<br>
 
 ### 2.3.4. Empathy Mapping
 
+El Empathy Mapping es una herramienta esencial que nos permite adentrarnos en la mente y el corazón de nuestros usuarios, capturando sus pensamientos, sentimientos, percepciones y comportamientos en relación con sus actividades cotidianas. A través de este proceso, podemos comprender mejor las motivaciones, frustraciones y deseos que impulsan a nuestros usuarios, lo que nos ayuda a diseñar soluciones que realmente resuenen con sus necesidades.
+
+**Aficionado**
+<div align="center">
+    <img src="imagenes/" alt="aficionadoempathymapping"/>
+</div>
+
+<br>
+
+**Experto**
+<div align="center">
+    <img src="imagenes/" alt="expertoempathymapping"/>
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
+El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprender el flujo actual de actividades, pensamientos y emociones que experimentan nuestros usuarios en su contexto cotidiano, antes de la implementación de nuestra solución. Este mapeo captura cómo los usuarios interactúan con las tecnologías y procesos existentes, identificando los puntos de dolor, las oportunidades de mejora y las áreas donde nuestra solución podría tener el mayor impacto.
+
+**Aficionados**
+<div align="center">
+    <img src="imagenes/" alt="escenariomapping"/>
+</div>
+
+<br>
+
+**Expertos**
+<div align="center">
+    <img src="imagenes/" alt="escenariomapping"/>
+</div>
+
 ## 2.4. Ubiquitous Language
+
+Este glosario de Ubiquitous Language está orientado al uso de IoT en la agricultura y la hidroponía, ayudando a asegurar que todos los miembros del equipo y stakeholders compartan una comprensión clara y común de los términos clave en este dominio.
+
+### 1. **Internet of Things (IoT)**
+- **Definición:** Conjunto de dispositivos físicos que están conectados a Internet y que pueden recopilar, transmitir, y recibir datos para monitorizar y controlar diversos procesos de forma remota.
+
+
+### 2. **Sensor Network (Red de Sensores)**
+- **Definición:** Conjunto de sensores conectados que recopilan datos en tiempo real sobre diferentes parámetros ambientales como temperatura, humedad, luz, y nutrientes, utilizados para optimizar el crecimiento de los cultivos.
+
+
+### 3. **Real-Time Monitoring (Monitoreo en Tiempo Real)**
+- **Definición:** Proceso de recopilación y análisis de datos en tiempo real desde sensores IoT, permitiendo a los usuarios tomar decisiones inmediatas basadas en las condiciones actuales de los cultivos.
+
+
+### 4. **Data Analytics (Análisis de Datos)**
+- **Definición:** Proceso de examinar y procesar los datos recopilados por los dispositivos IoT para identificar patrones y obtener insights que puedan mejorar la eficiencia y productividad agrícola.
+
+
+### 5. **Actuator (Actuador)**
+- **Definición:** Dispositivo mecánico o electrónico que recibe señales de los sistemas IoT y realiza una acción física, como activar un sistema de riego o ajustar la iluminación en función de los datos recogidos.
+
+
+### 6. **Cloud Computing (Computación en la Nube)**
+- **Definición:** Uso de servidores en la nube para almacenar, procesar y analizar grandes volúmenes de datos recolectados por dispositivos IoT, facilitando la gestión y acceso remoto a la información.
+
+
+### 7. **Remote Control (Control Remoto)**
+- **Definición:** Capacidad de operar y gestionar sistemas de cultivo y dispositivos agrícolas a distancia mediante aplicaciones móviles o plataformas web conectadas a dispositivos IoT.
+
+
+### 8. **Predictive Maintenance (Mantenimiento Predictivo)**
+- **Definición:** Uso de datos históricos y en tiempo real recopilados por IoT para predecir fallos en el equipo agrícola y realizar el mantenimiento antes de que ocurra un problema, evitando tiempos de inactividad.
+
+
+### 9. **Automation (Automatización)**
+- **Definición:** Proceso de utilizar dispositivos IoT para realizar tareas agrícolas de forma automática sin la intervención directa del usuario, como la gestión del riego o el control de temperatura en un invernadero.
+
+
+### 10. **Edge Computing (Computación en el Borde)**
+- **Definición:** Procesamiento de datos cerca del lugar donde se generan, en lugar de enviarlos a un servidor central o a la nube, lo que permite respuestas más rápidas y reduce la latencia en aplicaciones críticas como el monitoreo de cultivos.
+
+
+### 11. **Smart Irrigation (Riego Inteligente)**
+- **Definición:** Sistema de riego que utiliza sensores IoT para determinar las necesidades de agua de los cultivos y ajustar el suministro de manera automática para optimizar el uso del agua.
+
+
+### 12. **Environmental Sensing (Sensores Ambientales)**
+- **Definición:** Uso de sensores IoT para medir y monitorizar las condiciones ambientales, tales como humedad, temperatura, y luz solar, cruciales para la toma de decisiones en la gestión de cultivos.
+
+
+### 13. **Connectivity (Conectividad)**
+- **Definición:** Capacidad de los dispositivos IoT de comunicarse entre sí y con servidores centrales a través de redes inalámbricas, como Wi-Fi, LoRa, o redes móviles, para el intercambio de datos y la ejecución de comandos.
+
+
+### 14. **Smart Greenhouse (Invernadero Inteligente)**
+- **Definición:** Invernadero equipado con sensores y actuadores IoT que permiten un control automatizado de las condiciones internas, como temperatura, humedad, y luz, para crear un entorno óptimo para el cultivo de plantas.
+
+<br>
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+Es importante visualizar las operaciones y experiencias de los usuarios con nuestro producto. En este contexto, presentamos el segmento de To-Be Scenario Map, que representa la visión y mejora de nuestro proceso actual. Esta herramienta nos guiará hacia un futuro donde nuestras operaciones sean más eficientes, nuestras experiencias de usuario sean más satisfactorias y nuestro impacto en el mercado sea aún más significativo. A través de esta visualización del estado futuro deseado, delineamos los pasos clave, las interacciones y los resultados esperados que nos llevarán a alcanzar nuestras metas y superar las expectativas de nuestros usuarios y partes interesadas.
+
+### Segmento 1: Aficinados
+
+<div align="center">
+    <img src="imagenes/aficionadosTobescenariomapping.jpg" alt="aficionados"/>
+</div>
+
+### Segmento 2: Expertos 
+
+<div align="center">
+    <img src="imagenes/expertosTobescenariomapping.jpg" alt="expertos"/>
+</div>
 
 ## 3.2. User Stories
 
@@ -636,6 +832,14 @@ En este segmento presentamos los User Stories, una herramienta poderosa que nos 
 
 ## 3.3. Impact Mapping
 
+<div style="text-align: justify;">
+Presentamos el concepto de Impact Map, una herramienta estratégica que nos facilita la visualización y comunicación del impacto esperado de nuestras iniciativas y proyectos. Esta herramienta nos guía en la creación de un camino claro desde nuestras actividades y entregables hasta los resultados finales deseados, identificando los principales factores de valor y las métricas clave que medirán nuestro avance hacia el éxito. A través de esta representación estructurada y enfocada en los resultados, podemos alinear de manera efectiva nuestros esfuerzos con nuestra visión estratégica, involucrar a las partes interesadas relevantes y tomar decisiones informadas que impulsen el crecimiento y la innovación dentro de nuestra organización.
+</div>
+<br>
+<div align="center">
+    <img src="imagenes/impactmapping.jpg" alt="impactmapping"/>
+</div>
+
 ## 3.4. Product Backlog
 
 | # Orden | User Story Id | Título                                                                           | Descripción                                                                                                                                                      | Story Points (1 / 2 / 3 / 5 / 8) |
@@ -659,7 +863,6 @@ En este segmento presentamos los User Stories, una herramienta poderosa que nos 
 | 17 | US11 | Desvinculación de dispositivos | Como aficionado y/o experto, quiero poder desvincular dispositivos IoT que ya no utilizo para mantener mi panel de control limpio y organizado. | 3 |
 | 19 | US04 | Visualización de los testimonios de personas sobre la landing page | Como aficionado y/o experto Quiero visualizar los testimonios de distintas personas acerca del producto inteligente para saber si cumple con su objetivo. | 1
 | 20 | US13 | Gestión de energía de sensores | Como aficionado y/o experto, quiero monitorear el consumo de energía de mis sensores IoT para optimizar su uso y prolongar la vida útil. | 8 |
-
 
 # Capítulo IV: Solution Software Design
 
