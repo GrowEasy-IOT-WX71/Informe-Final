@@ -711,7 +711,7 @@ El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprende
 
 **Aficionados**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281140265511293060/SCR-20240905-chia.png?ex=66daa259&is=66d950d9&hm=19759bd5f5a8dbbb3ae1ffcb2301e18151c940f43af48a5b6d1f74f409c7e3e8&=&format=webp&quality=lossless&width=550&height=247"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281141119568183327/SCR-20240905-cinb.png?ex=66daa325&is=66d951a5&hm=a3d0e09a3102c21df69c3466342cf2f58806d2af6037c0cdb7f4d75dc3e8cafb&=&format=webp&quality=lossless&width=940&height=411"/>
 </div>
 
 <br>
