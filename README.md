@@ -654,7 +654,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Agricultor Experto:** es un profesional con experiencia en la gestión de cultivos a gran escala, que busca soluciones tecnológicas avanzadas para optimizar sus operaciones y maximizar la eficiencia de su producción.
 
 <div align="center">
-    <img src="" alt="userpersonaexperto"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281136836672098304/userPersonaExperto.png?ex=66da9f28&is=66d94da8&hm=4c8741a77d3ee4714e4f7d572f64ee3bf516ebd7f1f888d960a00c5e1769fc92&" alt="expertos"/>
 </div>
 
 <br>
@@ -662,7 +662,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Aficionado a la Hidroponía:** es alguien que se está iniciando en el mundo del cultivo sin suelo, buscando tecnologías sencillas que le faciliten el cuidado de sus plantas y le permitan mejorar su rendimiento sin necesidad de un conocimiento técnico profundo.
 
 <div align="center">
-    <img src="" alt="userpersonaaficionado"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281138054077222955/SCR-20240905-cebx.png?ex=66daa04a&is=66d94eca&hm=11a344415bdb87802be411b4a02167b25259b42c19e5938221242d92e8352f89&"/>
 </div>
 
 <br>
@@ -676,7 +676,7 @@ El User Task Matrix es una herramienta clave que recopila y analiza las tareas f
 El User Journey Mapping del aficionado a la hidroponía explora el recorrido completo que este usuario realiza desde el momento en que se da cuenta de la necesidad de una solución tecnológica para mejorar el cuidado de sus cultivos, hasta la evaluación final de la eficacia de dicha solución. Este mapa detalla las etapas clave, las emociones, y los desafíos que enfrenta un aficionados mientras navega por la amplia gama de opciones tecnológicas, se registra en una plataforma, comienza a utilizar la tecnología, y finalmente evalúa su impacto en el rendimiento de sus cultivos. A través de este análisis, identificamos oportunidades críticas para mejorar la experiencia del usuario y facilitar su camino hacia la adopción de tecnologías innovadoras en el cultivo hidropónico.
 
 <div align="center">
-    <img src="" alt="userjourneyaficionado"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281138464158646294/SCR-20240905-cetc.png?ex=66daa0ac&is=66d94f2c&hm=41edb10a448cd4615497700ad4bfcdc9c733c5a03aaa036f6a5e59c040604c50&=&format=webp&quality=lossless&width=812&height=660"/>
 </div>
 
 <br>
@@ -684,7 +684,7 @@ El User Journey Mapping del aficionado a la hidroponía explora el recorrido com
 El User Journey Mapping del agricultor experto en grandes cultivos ofrece una visión detallada del proceso que sigue este usuario al integrar tecnologías avanzadas en sus operaciones agrícolas. Este recorrido abarca desde la búsqueda inicial de soluciones que puedan aumentar la eficiencia y productividad de sus cultivos a gran escala, hasta la implementación y personalización de estas tecnologías, y la evaluación de su retorno de inversión. El mapa pone en evidencia las expectativas elevadas de un usuario experimentado, así como los desafíos técnicos y estratégicos que enfrenta al adoptar nuevas herramientas. Este análisis proporciona una base para desarrollar soluciones que no solo satisfagan las necesidades complejas de los expertos, sino que también les ofrezcan un valor tangible y medible en sus operaciones agrícolas.
 
 <div align="center">
-    <img src="" alt="userjourneyexperto"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281138878119411753/image.png?ex=66daa10e&is=66d94f8e&hm=d3a35567a402c514f1a323a092e40122c3aae4915310d586685be340fc952c7c&"/>
 </div>
 
 <br>
@@ -695,14 +695,14 @@ El Empathy Mapping es una herramienta esencial que nos permite adentrarnos en la
 
 **Aficionado**
 <div align="center">
-    <img src="" alt="aficionadoempathymapping"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281139736265883692/SCR-20240905-cgmt.png?ex=66daa1db&is=66d9505b&hm=017776b21ef93814d71f61a0d2eceaa4eda35bb2876d151ecb76c1f866a52ec4&=&format=webp&quality=lossless&width=512&height=660"/>
 </div>
 
 <br>
 
 **Experto**
 <div align="center">
-    <img src="" alt="expertoempathymapping"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281140025286725703/SCR-20240905-cgwu.png?ex=66daa220&is=66d950a0&hm=177cad4b28a1bdc47c63e9e14d32fc4e7f9c33bbc0e994b3b5d7fac850a95719&=&format=webp&quality=lossless&width=537&height=660"/>
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -711,14 +711,14 @@ El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprende
 
 **Aficionados**
 <div align="center">
-    <img src="" alt="escenariomapping"/>
+    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281140265511293060/SCR-20240905-chia.png?ex=66daa259&is=66d950d9&hm=19759bd5f5a8dbbb3ae1ffcb2301e18151c940f43af48a5b6d1f74f409c7e3e8&=&format=webp&quality=lossless&width=550&height=247"/>
 </div>
 
 <br>
 
 **Expertos**
 <div align="center">
-    <img src="" alt="escenariomapping"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140386940583986/SCR-20240905-chln.png?ex=66daa276&is=66d950f6&hm=82c7eb92aba671ebae71625725faa294b49a8c6325ae13b89cbd23705689bc3e&"/>
 </div>
 
 ## 2.4. Ubiquitous Language
