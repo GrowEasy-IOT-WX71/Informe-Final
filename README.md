@@ -274,7 +274,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279607692557811742/foto.jpg?ex=66d9ac47&is=66d85ac7&hm=5e0e21a9b372f6437844339548371de24d772d183d5c2964e4709400355ceb13&" alt="Jesus Lazo Tapia" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279607692557811742/foto.jpg?ex=66dba687&is=66da5507&hm=3614158a6f43cfc079767c9d32f93927465a0b36483c4203174db1738854410c&" alt="Jesus Lazo Tapia" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -309,7 +309,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280719409018835005/perfil.png?ex=66d9c325&is=66d871a5&hm=75ae21f9b7848e6a628033986a8c59043b06cd6182d3df83a4cca4f1dc476efb&" alt="Farid Rolando" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280719409018835005/perfil.png?ex=66dbbd65&is=66da6be5&hm=4e53f19a9d9f2116bb99e53cf86ba85a0e5e7f9cfd487dca0983538a35dee638&" alt="Farid Rolando" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -344,7 +344,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="" alt="Leonardo" width="900"/>
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281521047694475286/image.png?ex=66dc04fb&is=66dab37b&hm=f729dd7bb952eae27d26c5cfd512f9671ad4edf8b9a7be0c5829b99a811bbf82&" alt="Leonardo" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -379,7 +379,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66d96b38&is=66d819b8&hm=2f4ffa74007d4394304bd6892261b296ed4a190c8d4b9a4b9b4486cb250a0660&" alt="Jack Arana" width="900">
+            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66db6578&is=66da13f8&hm=8a2b78c347650b57ee0b393d202a1128bbfb647082b2e32686fbf3c3afd0f343&" alt="Jack Arana" width="900">
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
