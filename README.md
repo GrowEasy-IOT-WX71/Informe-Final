@@ -143,6 +143,57 @@ Septiembre del 2023
     - [4.1.3.4. Software Architecture Deployment Diagrams](#4134-software-architecture-deployment-diagrams)
 
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
+  - [4.2.1. Bounded Context: Login and Register Context](#421-bounded-context-login-and-register-context)
+    - [4.2.1.1. Domain Layer](#4211-domain-layer)
+    - [4.2.1.2. Interface Layer](#4212-interface-layer)
+    - [4.2.1.3. Application Layer](#4213-application-layer)
+    - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+    - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](#4216-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
+      - [4.2.1.6.2. Bounded Context Database Design Diagrams](#42162-bounded-context-database-design-diagrams)
+
+  - [4.2.2. Bounded Context: Notification Context](#422-bounded-context-notification-context)
+    - [4.2.2.1. Domain Layer](#4221-domain-layer)
+    - [4.2.2.2. Interface Layer](#4222-interface-layer)
+    - [4.2.2.3. Application Layer](#4223-application-layer)
+    - [4.2.2.4. Infrastructure Layer](#4224-infrastructure-layer)
+    - [4.2.2.5. Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
+      - [4.2.2.6.2. Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
+
+  - [4.2.3. Bounded Context: Monitoring Context](#423-bounded-context-monitoring-context)
+    - [4.2.3.1. Domain Layer](#4231-domain-layer)
+    - [4.2.3.2. Interface Layer](#4232-interface-layer)
+    - [4.2.3.3. Application Layer](#4233-application-layer)
+    - [4.2.3.4. Infrastructure Layer](#4234-infrastructure-layer)
+    - [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+      - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+
+  - [4.2.4. Bounded Context: Report Context](#424-bounded-context-report-context)
+    - [4.2.4.1. Domain Layer](#4241-domain-layer)
+    - [4.2.4.2. Interface Layer](#4242-interface-layer)
+    - [4.2.4.3. Application Layer](#4243-application-layer)
+    - [4.2.4.4. Infrastructure Layer](#4244-infrastructure-layer)
+    - [4.2.4.5. Bounded Context Software Architecture Component Level Diagrams](#4245-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.4.6. Bounded Context Software Architecture Code Level Diagrams](#4246-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.4.6.1. Bounded Context Domain Layer Class Diagrams](#42461-bounded-context-domain-layer-class-diagrams)
+      - [4.2.4.6.2. Bounded Context Database Design Diagram](#42462-bounded-context-database-design-diagram)
+
+  - [4.2.5. Bounded Context: Recommendation Context](#425-bounded-context-recommendation-context)
+    - [4.2.5.1. Domain Layer](#4251-domain-layer)
+    - [4.2.5.2. Interface Layer](#4252-interface-layer)
+    - [4.2.5.3. Application Layer](#4253-application-layer)
+    - [4.2.5.4. Infrastructure Layer](#4254-infrastructure-layer)
+    - [4.2.5.5. Bounded Context Software Architecture Component Level Diagrams](#4255-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.5.6. Bounded Context Software Architecture Code Level Diagrams](#4256-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.5.6.1. Bounded Context Domain Layer Class Diagrams](#42561-bounded-context-domain-layer-class-diagrams)
+      - [4.2.5.6.2. Bounded Context Database Design Diagram](#42562-bounded-context-database-design-diagram)
+
+
 
 ### [Conclusiones](#conclusiones)
 
@@ -1065,10 +1116,636 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
+### 4.2.1. Bounded Context: Login and Register Context
+
+#### 4.2.1.1. Domain Layer
+
+**Clases Principales:**
+
+- User: Representa a un usuario del sistema.
+- Atributos: id, name, email, password, roles.
+- Métodos: authenticate(), assignRole(), checkPermission().
+- Role: Define un conjunto de permisos asociados a un usuario.
+- Atributos: id, name, permissions.
+- Métodos: addPermission(), removePermission().
+- Permission: Representa una acción específica que un usuario puede realizar.
+- Atributos: id, actionName.
+- Métodos: isValid().
+- UserRepository (Interface): Define las operaciones de persistencia para los usuarios.
+- Métodos: save(), findById(), delete().
+
+**Explicación:** En esta capa, se definen las clases que representan el núcleo de la aplicación y las reglas de negocio asociadas al manejo de usuarios, roles y permisos. Aquí se incluyen las entidades, objetos de valor, agregados, fábricas, servicios de dominio y abstracciones representadas por interfaces como en el caso de los repositorios.
+
+#### 4.2.1.2. Interface Layer
+
+**Clases Principales:**
+
+- AuthController: Gestiona las solicitudes de autenticación y autorización.
+- Métodos: login(), logout(), registerUser().
+- UserManagementController: Controla la administración de usuarios y roles.
+- Métodos: createUser(), deleteUser(), assignUserRole().
+
+**Explicación:** Esta capa introduce las clases que forman parte de la capa de presentación o interfaz, como controladores o consumidores. Estas clases manejan la interacción del usuario con el sistema.
+
+#### 4.2.1.3. Application Layer
+
+**Clases Principales:**
+
+- AuthenticationCommandHandler: Maneja comandos relacionados con la autenticación de usuarios.
+- Métodos: handleLoginCommand(), handleLogoutCommand().
+- UserManagementEventHandler: Maneja eventos como la creación y eliminación de usuarios.
+- Métodos: onUserCreated(), onUserDeleted().
+
+**Explicación:** En esta sección se explican las clases que gestionan los flujos de procesos de negocio, evidenciando las capacidades de la aplicación en relación con el contexto delimitado. Aquí se incluyen manejadores de comandos y eventos.
+
+#### 4.2.1.4. Infrastructure Layer
+
+**Clases Principales:**
+
+- UserRepositoryImpl: Implementa la persistencia de usuarios utilizando una base de datos.
+- Métodos: save(), findById(), delete().
+- EmailService: Servicio para enviar correos electrónicos de verificación.
+- Métodos: sendVerificationEmail().
+
+**Explicación:** Esta capa presenta las clases que acceden a servicios externos como bases de datos, sistemas de mensajería o servicios de correo electrónico. Aquí se encuentra la implementación de los repositorios para las interfaces definidas en la capa de dominio.
+
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250255619166218/1.png?ex=66dbab24&is=66da59a4&hm=9a4e67ce007a7a73d1ea62e0680b4a69fe2f8158c1f18009533ccedf45286d9e&"/>
+</div>
+
+**Component Diagram:**
+
+Contenido: Este diagrama muestra cómo los componentes AuthController, UserManagementController, UserRepositoryImpl, y EmailService interactúan dentro del container del IAM context.
+
+**Relaciones:**
+
+AuthController interactúa con UserRepositoryImpl para manejar la autenticación de usuarios.
+
+UserManagementController se comunica con UserRepositoryImpl para gestionar roles y usuarios.
+
+AuthController también utiliza EmailService para enviar correos electrónicos de verificación.
+
+**Explicación:** Este diagrama refleja la descomposición de cada container para identificar los bloques estructurales principales y sus interacciones. Muestra cómo un container está conformado por componentes, cuáles son esos componentes, sus responsabilidades y los detalles de implementación/tecnología.
+
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250255962968074/2.png?ex=66dbab24&is=66da59a4&hm=3602d00b10776dd941c6320b777fa0ca706018abee0ed30c80fe14f9ee13e8fc&"/>
+</div>
+
+Contenido: Diagrama de clases UML que incluye:
+
+Clases: User, Role, Permission, UserRepository.
+
+**Relaciones:**
+
+User tiene múltiples Roles (relación de agregación).
+
+Role puede tener múltiples Permissions (relación de composición).
+
+UserRepository es una interfaz que es implementada por UserRepositoryImpl.
+
+**Explicación:** Este diagrama presenta las clases en la capa de dominio del contexto delimitado. Incluye atributos, métodos, relaciones, interfaces y su visibilidad (public, private, protected).
+
+##### 4.2.1.6.2. Bounded Context Database Design Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250256714010787/3.png?ex=66dbab24&is=66da59a4&hm=745d660f357e098521d778a1b8a3d8325efb974af24ca668f4c2c9004d02370b&"/>
+</div>
+
+Contenido: Diagrama de base de datos que incluye:
+
+Tablas: Users, Roles, Permissions, UsersRoles (tabla intermedia).
+
+**Relaciones:**
+
+Users está relacionado con Roles a través de UsersRoles (relación muchos a muchos).
+
+Roles está relacionado con Permissions en una relación muchos a muchos.
+
+**Explicación:** Este diagrama muestra la estructura de la base de datos que soporta la persistencia de las entidades dentro del contexto delimitado. Incluye tablas, columnas, claves primarias, claves foráneas, y las relaciones entre tablas.
+
+### 4.2.2. Bounded Context: Notification Context
+
+#### 4.2.2.1. Domain Layer
+
+Clases Principales:
+
+Notification: Representa un mensaje enviado a un usuario.
+
+Atributos: id, type, message, user, channel.
+
+Métodos: send(), configurePreference().
+
+UserPreferences: Configura cómo un usuario prefiere recibir notificaciones.
+
+Atributos: userId, preferences.
+
+Métodos: updatePreference().
+
+NotificationRepository (Interface): Define las operaciones para la persistencia de notificaciones.
+
+Métodos: save(), findByUser(), delete().
+
+**Explicación:** Esta capa define las clases que representan el núcleo de la aplicación y las reglas de negocio asociadas a la gestión de notificaciones y preferencias de usuario.
+
+#### 4.2.2.2. Interface Layer
+
+Clases Principales:
+
+NotificationController: Gestiona las solicitudes de envío y configuración de notificaciones.
+
+Métodos: sendNotification(), configurePreferences().
+
+NotificationConsumer: Escucha eventos que disparan notificaciones.
+
+Métodos: onEventGenerated().
+
+**Explicación:** Esta capa introduce las clases que forman parte de la capa de presentación o interfaz, como controladores o consumidores. Estas clases manejan la interacción del usuario con el sistema.
+
+#### 4.2.2.3. Application Layer
+
+Clases Principales:
+
+SendNotificationCommandHandler: Maneja comandos relacionados con el envío de notificaciones.
+
+Métodos: handleSendNotificationCommand().
+
+NotificationConfigurationEventHandler: Maneja eventos que afectan la configuración de notificaciones.
+
+Métodos: onPreferenceUpdated().
+
+**Explicación:** En esta sección se explican las clases que gestionan los flujos de procesos de negocio, evidenciando las capacidades de la aplicación en relación con el contexto delimitado. Aquí se incluyen manejadores de comandos y eventos.
+
+#### 4.2.2.4. Infrastructure Layer
+
+Clases Principales:
+
+NotificationRepositoryImpl: Implementa la persistencia de notificaciones en la base de datos.
+
+Métodos: save(), findByUser(), delete().
+
+SMSService: Servicio para enviar notificaciones por SMS.
+
+Métodos: sendSMS().
+
+**Explicación:** Esta capa presenta las clases que acceden a servicios externos como bases de datos, sistemas de mensajería o servicios de correo electrónico. Aquí se encuentra la implementación de los repositorios para las interfaces definidas en la capa de dominio.
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250256982442096/4.png?ex=66dbab24&is=66da59a4&hm=729085cb2038f351b46f8144ab3d3c26d6ec03ab13d4898e9c1ece9ecd330445&"/>
+</div>
+
+Component Diagram:
+
+Contenido: Muestra la interacción entre los componentes NotificationController, NotificationConsumer, NotificationRepositoryImpl, y SMSService.
+
+**Relaciones:**
+
+NotificationController se comunica con NotificationRepositoryImpl para gestionar notificaciones.
+
+NotificationConsumer escucha eventos y dispara notificaciones a través de NotificationController.
+
+SMSService se usa para enviar notificaciones a través de SMS.
+
+**Explicación:** Este diagrama refleja la descomposición de cada container para identificar los bloques estructurales principales y sus interacciones. Muestra cómo un container está conformado por componentes, cuáles son esos componentes, sus responsabilidades y los detalles de implementación/tecnología.
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257275916400/5.png?ex=66dbab24&is=66da59a4&hm=d11a8925e44946d3b184ddff9652bb555b200f5273de362ebf0cd4e662a54e96&"/>
+</div>
+
+Contenido: Diagrama de clases UML que incluye:
+
+Clases: Notification, UserPreferences, NotificationRepository.
+
+Relaciones:
+
+Notification está relacionada con UserPreferences.
+
+NotificationRepository es una interfaz que es implementada por NotificationRepositoryImpl.
+
+**Explicación:** Este diagrama presenta las clases en la capa de dominio del contexto delimitado. Incluye atributos, métodos, relaciones, interfaces y su visibilidad (public, private, protected).
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257645146164/6.png?ex=66dbab24&is=66da59a4&hm=56cae7b4a061c2bbf5d001868c8a10fb875de9c676ff4613dd39f6599a8384ad&"/>
+</div>
+
+Contenido: Diagrama de base de datos que incluye:
+
+Tablas: Notifications, UserPreferences.
+
+**Relaciones:**
+
+Notifications tiene una relación uno a uno con UserPreferences (cada notificación sigue las preferencias del usuario).
+
+**Explicación:** Este diagrama muestra la estructura de la base de datos que soporta la persistencia de las entidades dentro del contexto delimitado. Incluye tablas, columnas, claves primarias, claves foráneas, y las relaciones entre tablas.
+
+### 4.2.3. Bounded Context: Monitoring Context
+
+#### 4.2.3.1. Domain Layer
+
+Clases Principales:
+
+Sensor: Dispositivo que recopila datos ambientales.
+
+Atributos: id, type, location, status.
+
+Métodos: collectData().
+
+EnvironmentalMetric: Datos recolectados por un sensor.
+
+Atributos: id, sensorId, type, value, timestamp.
+
+Métodos: store().
+
+SensorRepository (Interface): Define las operaciones de persistencia para sensores.
+
+Métodos: save(), findById(), delete().
+
+**Explicación:** Esta capa define las clases que representan el núcleo de la aplicación y las reglas de negocio asociadas a la supervisión y recolección de datos de sensores.
+
+#### 4.2.3.2. Interface Layer
+
+Clases Principales:
+
+SensorController: Gestiona las solicitudes relacionadas con la configuración y monitoreo de sensores.
+
+Métodos: configureSensor(), checkStatus().
+
+SensorConsumer: Escucha eventos de los sensores.
+
+Métodos: onDataCollected().
+
+**Explicación:** Esta capa introduce las clases que forman parte de la capa de presentación o interfaz, como controladores o consumidores. Estas clases manejan la interacción del usuario con el sistema.
+
+#### 4.2.3.3. Application Layer
+
+Clases Principales:
+
+CollectDataCommandHandler: Maneja comandos para la recolección de datos de sensores.
+
+Métodos: handleCollectDataCommand().
+
+MonitoringEventHandler: Maneja eventos relacionados con el monitoreo de condiciones ambientales.
+
+Métodos: onCriticalConditionDetected().
+
+**Explicación:** En esta sección se explican las clases que gestionan los flujos de procesos de negocio, evidenciando las capacidades de la aplicación en relación con el contexto delimitado. Aquí se incluyen manejadores de comandos y eventos.
+
+#### 4.2.3.4. Infrastructure Layer
+
+Clases Principales:
+
+SensorRepositoryImpl: Implementa la persistencia de sensores en la base de datos.
+
+Métodos: save(), findById(), delete().
+
+IoTService: Servicio para la comunicación con dispositivos IoT.
+
+Métodos: sendCommand().
+
+**Explicación:** Esta capa presenta las clases que acceden a servicios externos como bases de datos, sistemas de mensajería o servicios de IoT. Aquí se encuentra la implementación de los repositorios para las interfaces definidas en la capa de dominio.
+
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257988943903/7.png?ex=66dbab24&is=66da59a4&hm=4590def8855746d6781117e9f261f64707f73226924a2187383e7e02d039f619&"/>
+</div>
+
+Component Diagram:
+
+Contenido: Diagrama que muestra cómo SensorController, SensorConsumer, SensorRepositoryImpl, y IoTService interactúan dentro del container de monitoreo.
+
+**Relaciones:**
+
+SensorController interactúa con SensorRepositoryImpl para gestionar sensores.
+
+SensorConsumer procesa los datos recolectados a través de IoTService.
+
+IoTService comunica los sensores físicos con el sistema.
+
+**Explicación:** Este diagrama refleja la descomposición de cada container para identificar los bloques estructurales principales y sus interacciones. Muestra cómo un container está conformado por componentes, cuáles son esos componentes, sus responsabilidades y los detalles de implementación/tecnología.
+
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250258399858770/8.png?ex=66dbab24&is=66da59a4&hm=cddfb98206e9d26fde20ac21b680ee0d3bd26a1c6bb628382789a7e40d008b7b&"/>
+</div>
+
+Contenido: Diagrama de clases UML que incluye:
+
+Clases: Sensor, EnvironmentalMetric, SensorRepository.
+
+Relaciones:
+
+Sensor está relacionado con EnvironmentalMetric (uno a muchos).
+
+SensorRepository es una interfaz que es implementada por SensorRepositoryImpl.
+
+**Explicación:** Este diagrama presenta las clases en la capa de dominio del contexto delimitado. Incluye atributos, métodos, relaciones, interfaces y su visibilidad (public, private, protected).
+
+##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250258659901523/9.png?ex=66dbab24&is=66da59a4&hm=f14db782972e3c474c1d01b6ef4ed32afd732d97c7b3bbce817340a846619656&"/>
+</div>
+
+Contenido: Diagrama de base de datos que incluye:
+
+Tablas: Sensors, EnvironmentalMetrics.
+
+**Relaciones:**
+
+Sensors tiene una relación uno a muchos con EnvironmentalMetrics (un sensor puede generar múltiples métricas).
+
+**Explicación:** Este diagrama muestra la estructura de la base de datos que soporta la persistencia de las entidades dentro del contexto delimitado. Incluye tablas, columnas, claves primarias, claves foráneas, y las relaciones entre tablas.
+
+### 4.2.4. Bounded Context: Report Context
+
+#### 4.2.4.1. Domain Layer
+
+Clases Principales:
+
+Report: Documento que consolida los datos y análisis de los cultivos.
+
+Atributos: id, generationDate, data, recommendations.
+
+Métodos: generate(), export().
+
+StatisticalAnalysis: Procesamiento de datos para identificar patrones.
+
+Atributos: type, result.
+
+Métodos: performAnalysis().
+
+ReportRepository (Interface): Define las operaciones de persistencia para informes.
+
+Métodos: save(), findById(), delete().
+
+**Explicación:** Esta capa define las clases que representan el núcleo de la aplicación y las reglas de negocio asociadas a la generación y gestión de informes.
+
+#### 4.2.4.2. Interface Layer
+
+Clases Principales:
+
+ReportController: Gestiona las solicitudes para la generación y consulta de informes.
+
+Métodos: generateReport(), viewReport().
+
+ReportConsumer: Escucha eventos que requieren la generación de informes.
+
+Métodos: onReportRequest().
+
+**Explicación:** Esta capa introduce las clases que forman parte de la capa de presentación o interfaz, como controladores o consumidores. Estas clases manejan la interacción del usuario con el sistema.
+
+#### 4.2.4.3. Application Layer
+
+Clases Principales:
+
+GenerateReportCommandHandler: Maneja comandos relacionados con la generación de informes.
+
+Métodos: handleGenerateReportCommand().
+
+AnalysisEventHandler: Maneja eventos relacionados con el análisis de datos.
+
+Métodos: onAnalysisCompleted().
+
+**Explicación:** En esta sección se explican las clases que gestionan los flujos de procesos de negocio, evidenciando las capacidades de la aplicación en relación con el contexto delimitado. Aquí se incluyen manejadores de comandos y eventos.
+
+#### 4.2.4.4. Infrastructure Layer
+
+Clases Principales:
+
+ReportRepositoryImpl: Implementa la persistencia de informes en la base de datos.
+
+Métodos: save(), findById(), delete().
+
+PDFService: Servicio para exportar informes en formato PDF.
+
+Métodos: generatePDF().
+
+**Explicación:** Esta capa presenta las clases que acceden a servicios externos como bases de datos, sistemas de mensajería o servicios de generación de documentos. Aquí se encuentra la implementación de los repositorios para las interfaces definidas en la capa de dominio.
+
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250312884125746/10.png?ex=66dbab31&is=66da59b1&hm=e0d46dc324a6841814486b28eba8e3ccd701f2909d24601c671def3a21e5843f&"/>
+</div>
+
+Component Diagram:
+
+Contenido: Muestra la interacción entre ReportController, ReportConsumer, ReportRepositoryImpl, y PDFService.
+
+**Relaciones:**
+
+ReportController se comunica con ReportRepositoryImpl para gestionar informes.
+
+ReportConsumer escucha eventos que desencadenan la generación de informes.
+
+PDFService convierte los informes generados en formato PDF.
+
+**Explicación:** Este diagrama refleja la descomposición de cada container para identificar los bloques estructurales principales y sus interacciones. Muestra cómo un container está conformado por componentes, cuáles son esos componentes, sus responsabilidades y los detalles de implementación/tecnología.
+
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250313320075345/11.png?ex=66dbab32&is=66da59b2&hm=11a9de312cc3e3fac918b4f811b6161d97bd314871e16432362d59a3e3ef5dbe&"/>
+</div>
+
+Contenido: Diagrama de clases UML que incluye:
+
+Clases: Report, StatisticalAnalysis, ReportRepository.
+
+**Relaciones:**
+
+Report está relacionado con StatisticalAnalysis (uno a muchos).
+
+ReportRepository es una interfaz que es implementada por ReportRepositoryImpl.
+
+**Explicación:** Este diagrama presenta las clases en la capa de dominio del contexto delimitado. Incluye atributos, métodos, relaciones, interfaces y su visibilidad (public, private, protected).
+
+##### 4.2.4.6.2. Bounded Context Database Design Diagram
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250313609613395/12.png?ex=66dbab32&is=66da59b2&hm=098e68c08440813328a8fa04a3845f27401484aeec8a99f2d2871536cee7b3e0&"/>
+</div>
+
+Contenido: Diagrama de base de datos que incluye:
+
+Tablas: Reports, StatisticalAnalyses.
+
+**Relaciones:**
+
+Reports tiene una relación uno a muchos con StatisticalAnalyses (un informe puede tener múltiples análisis).
+
+**Explicación:** Este diagrama muestra la estructura de la base de datos que soporta la persistencia de las entidades dentro del contexto delimitado. Incluye tablas, columnas, claves primarias, claves foráneas, y las relaciones entre tablas.
+
+### 4.2.5. Bounded Context: Recommendation Context
+
+#### 4.2.5.1. Domain Layer
+
+Clases Principales:
+
+Recommendation: Sugerencia de acción basada en datos y análisis.
+
+Atributos: id, type, message, user, cropCondition.
+
+Métodos: generate(), apply().
+
+BusinessRule: Algoritmos o criterios que determinan cuándo y qué recomendaciones se generan.
+
+Atributos: criteria, threshold, suggestedAction.
+
+Métodos: evaluate().
+
+RecommendationRepository (Interface): Define las operaciones de persistencia para recomendaciones.
+
+Métodos: save(), findByUser(), delete().
+
+**Explicación:** Esta capa define las clases que representan el núcleo de la aplicación y las reglas de negocio asociadas a la generación y gestión de recomendaciones.
+
+#### 4.2.5.2. Interface Layer
+
+Clases Principales:
+
+RecommendationController: Gestiona las solicitudes para generar y aplicar recomendaciones.
+Métodos: generateRecommendation(), applyRecommendation().
+
+RecommendationConsumer: Escucha eventos que disparan la generación de recomendaciones.
+Métodos: onMonitoringEvent().
+
+**Explicación:** Esta capa introduce las clases que forman parte de la capa de presentación o interfaz, como controladores o consumidores. Estas clases manejan la interacción del usuario con el sistema.
+
+#### 4.2.5.3. Application Layer
+
+Clases Principales:
+
+GenerateRecommendationCommandHandler: Maneja comandos relacionados con la generación de recomendaciones.
+
+Métodos: handleGenerateRecommendationCommand().
+
+ApplyRecommendationEventHandler: Maneja eventos relacionados con la aplicación de recomendaciones.
+
+Métodos: onRecommendationApplied().
+
+**Explicación:** En esta sección se explican las clases que gestionan los flujos de procesos de negocio, evidenciando las capacidades de la aplicación en relación con el contexto delimitado. Aquí se incluyen manejadores de comandos y eventos.
+
+#### 4.2.5.4. Infrastructure Layer
+
+Clases Principales:
+
+RecommendationRepositoryImpl: Implementa la persistencia de recomendaciones en la base de datos.
+
+Métodos: save(), findByUser(), delete().
+
+MLService: Servicio para la integración de algoritmos de machine learning.
+
+Métodos: executeAlgorithm().
+
+**Explicación:** Esta capa presenta las clases que acceden a servicios externos como bases de datos, sistemas de mensajería o servicios de machine learning. Aquí se encuentra la implementación de los repositorios para las interfaces definidas en la capa de dominio.
+
+#### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314012397619/13.png?ex=66dbab32&is=66da59b2&hm=8a082355e556fc2b3d7a7b73134e4dbd2cec9c3e491b9c589afe3346642a3dbd&"/>
+</div>
+
+Component Diagram:
+
+Contenido: Diagrama que muestra la interacción entre RecommendationController, RecommendationConsumer, RecommendationRepositoryImpl, y MLService.
+
+**Relaciones:**
+
+RecommendationController se comunica con RecommendationRepositoryImpl para gestionar recomendaciones.
+
+RecommendationConsumer escucha eventos que generan recomendaciones.
+
+MLService ejecuta algoritmos de machine learning que mejoran las recomendaciones.
+
+**Explicación:** Este diagrama refleja la descomposición de cada container para identificar los bloques estructurales principales y sus interacciones. Muestra cómo un container está conformado por componentes, cuáles son esos componentes, sus responsabilidades y los detalles de implementación/tecnología.
+
+
+#### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314288955432/14.png?ex=66dbab32&is=66da59b2&hm=cebe25d8876b5d29e321cdcaf204496363c791194b64368d32b46280048c570c&"/>
+</div>
+
+Contenido: Diagrama de clases UML que incluye:
+
+Clases: Recommendation, BusinessRule, RecommendationRepository.
+
+**Relaciones:**
+
+Recommendation está relacionada con BusinessRule (uno a muchos).
+
+RecommendationRepository es una interfaz que es implementada por RecommendationRepositoryImpl.
+
+**Explicación:** Este diagrama presenta las clases en la capa de dominio del contexto delimitado. Incluye atributos, métodos, relaciones, interfaces y su visibilidad (public, private, protected).
+
+##### 4.2.5.6.2. Bounded Context Database Design Diagram
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314519646240/15.png?ex=66dbab32&is=66da59b2&hm=6d1bbfcec46554a74f17ea9f43331c9eef40b756ada290ffd1a785281a79d891&"/>
+</div>
+
+Contenido: Diagrama de base de datos que incluye:
+
+Tablas: Recommendations, BusinessRules.
+
+**Relaciones:**
+
+Recommendations está relacionada con BusinessRules (una recomendación puede estar basada en una o más reglas de negocio).
+
+**Explicación:** Este diagrama muestra la estructura de la base de datos que soporta la persistencia de las entidades dentro del contexto delimitado. Incluye tablas, columnas, claves primarias, claves foráneas, y las relaciones entre tablas.
+
+
 # Conclusiones
 
-- Definir el perfil del startup nos permite conocer a profundidad el alcance que buscamos implementar y desarrollar, para así poder cumplir con las necesidades de nuestros usuarios.
+- Definir el perfil de la startup nos permite conocer a profundidad el alcance que buscamos implementar y desarrollar, para así poder cumplir con las necesidades de nuestros usuarios.
+
+- El análisis competitivo es esencial para identificar las fortalezas y debilidades de los competidores, lo que nos permite definir estrategias claras para diferenciarnos en el mercado.
+
+- El uso de herramientas como el Lean UX Canvas facilita la identificación temprana de problemas y oportunidades, ayudando a formular hipótesis de soluciones que se alineen con las expectativas del usuario final.
+
+- La segmentación de usuarios en perfiles específicos nos ayuda a comprender mejor sus necesidades y comportamientos, permitiendo diseñar soluciones más personalizadas y efectivas.
+
+- La integración de prácticas de Domain-Driven Design en el diseño de software garantiza que la solución sea coherente con los objetivos del negocio, asegurando una arquitectura escalable y adaptada a los dominios específicos del proyecto.
+
 
 # Bibliografía
 
+Agencia Agraria (2023, junio 19). Las nuevas variedades y la hidroponía impulsarán el sector del arándano en Perú. Agencia Agraria de Noticias. Recuperado 23 de septiembre de 2023, de [https://agraria.pe/noticias/las-nuevas-variedades-y-la-hidroponia-impulsaran-el-sector-d-32209](https://agraria.pe/noticias/las-nuevas-variedades-y-la-hidroponia-impulsaran-el-sector-d-32209) [Consulta: 23/09/2023]
+
+Beltrano, J., & Gimenez, D. O. (2015). Cultivo en hidroponía. Editorial de la Universidad Nacional de La Plata (EDULP). Recuperado de [http://sedici.unlp.edu.ar/bitstream/handle/10915/46752/documento_completo.pdf?sequence=1](http://sedici.unlp.edu.ar/bitstream/handle/10915/46752/documento_completo.pdf?sequence=1) [Consulta: 01/09/2023]
+
+Carrijo, O. A., Makishima, N., CARRIJO, O. A., & MAKISHIMA, N. (2000). Principios de hidroponia. Recuperado de [https://www.infoteca.cnptia.embrapa.br/bitstream/doc/769981/1/CNPHDOCUMENTOS22PRINCIPIOSDEHIDROPONIA.pdf](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/769981/1/CNPHDOCUMENTOS22PRINCIPIOSDEHIDROPONIA.pdf) [Consulta: 01/09/2023]
+
+del Campo González, F. F., Millán, C. C. G., & Sullivan, S. A. (2022). Métodos de Cultivo Para Producir Alimentos en Casa Durante el Año Internacional de las Frutas y Verduras. Recuperado de [https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/Revista-JADC-V-ch.pdf#page=23](https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/Revista-JADC-V-ch.pdf#page=23) [Consulta: 22/09/2023]
+
+Díaz, G. G. (2010). Hidroponía en casa: una actividad familiar. Recuperado de [https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf](https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf) [Consulta: 01/09/2023]
+
+UPB Sostenible (2021, mayo 4). Cultivos hidropónicos en casa, alternativas sostenibles. UPB . Recuperado de: [https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa](https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa) [Consulta: 23/09/2023]
+
 # Anexos
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478625417363468/logo.png?ex=66dbdd79&is=66da8bf9&hm=abc8f0935f276190f8c02faf47cb127790daa56d987666cab5efccabc92dff13&" alt="logo" style="margin-bottom: 5px;" width="500"/>      
+</div>
