@@ -644,7 +644,90 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 
 ### 2.2.2. Registro de entrevistas
 
+**Segmento 1: Aficionados a la hidroponía**
+<br>
+
+**Entrevista 1:**
+- Nombre y apellidos: Juan Reyes
+- Edad: 23 años
+- Ubicación: San Isidro, Lima
+- Evidencia de la reunión:
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281479970644033578/image.png?ex=66dbdeb9&is=66da8d39&hm=656d7c4a3e6e674f7edc3fa6d4b1032c5deb3a10bbf91cd5a84eedde8e151e4c&"/>
+</div>
+
+- Inicio: 00:07
+- Fin: 03:17
+- Enlace de entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+- Resumen de la entrevista: Nuestro entrevistado, Juan Reyes, es desarrollador de software con un interés creciente en la hidroponía casera combinada con tecnología IoT. Mencionó que su interés en la hidroponía surge del deseo de experimentar con métodos de cultivo más eficientes y sostenibles, y de controlar las condiciones de crecimiento de manera remota. Juan imagina su proyecto con sensores que monitorean parámetros clave como pH, temperatura y humedad, y una plataforma que permita ajustar estos parámetros en tiempo real desde un dispositivo móvil. Entre los desafíos que enfrenta, destaca la dificultad de encontrar información consolidada sobre la integración de hidroponía e IoT, así como la complejidad técnica de la tecnología. Juan espera que la integración de sensores IoT le proporcione una mayor precisión en el monitoreo, ajustes automáticos y datos históricos para mejorar la producción. Además, considera que una aplicación que ofrezca monitoreo en tiempo real y guías de expertos sería muy útil, y que las características esenciales en dicha aplicación serían el monitoreo y ajuste en tiempo real, la integración con sensores y una interfaz intuitiva con guías.
+<br>
+
+**Entrevista 2:**
+- Nombre y Apellidos: Eddy Rojas
+- Edad: 25 años
+- Ubicación: San Martin, Lima
+- Evidencia de la reunión:
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480048636985404/image.png?ex=66dbdecc&is=66da8d4c&hm=ff2fe078b9dd12ebd24dd9efc5ca48e1b54bdbd0c85ff932595ee668c9d250ff&"/>
+</div>
+
+- Inicio: 03:18
+- Fin: 05:25
+- Enlace de entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Eddy Rojas, aficionado a la hidroponía, compartió que le interesa este tipo de cultivo porque quiere aprender a cultivar plantas de manera más eficiente y, al mismo tiempo, explorar el uso de tecnología IoT. Imagina que su proyecto ideal incluiría un sistema automatizado donde pudiera controlar el riego y recibir alertas sobre el estado de sus plantas desde su teléfono. Sin embargo, Eddy mencionó que uno de los principales desafíos es encontrar información clara y sencilla para alguien que está empezando. Espera que, al integrar sensores IoT, pueda ahorrar tiempo y mejorar el crecimiento de sus plantas. También considera que una aplicación que le permita monitorear su sistema en tiempo real y que incluya guías prácticas sería muy útil.
+<br>
+
+**Entrevista 3:**
+- Nombre y Apellidos: Andrea Lovatón
+- Edad: 21 años
+- Ubicación: Santa Anita, Lima
+- Evidencia de la reunión:
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480145072295979/image.png?ex=66dbdee3&is=66da8d63&hm=c70e3e9d28522db12ea8ae95188c1a290cac6e4a3ec4aad8703d7d8a32b32c25&"/>
+</div>
+
+- Inicio: 05:24
+- Fin: 09:46
+- Enlace de entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Andrea Lovaton, aficionada a la hidroponía, expresó su interés en este tipo de cultivo porque busca cultivar sus propios vegetales de manera eficiente, mientras explora la integración de la tecnología IoT. Su proyecto ideal incluiría un sistema automatizado que monitoree los niveles de agua, nutrientes, luz y humedad, y que envíe alertas en caso de problemas, permitiéndole controlar el sistema desde su teléfono.Señaló que uno de los mayores desafíos es encontrar información integrada sobre hidroponía e IoT para principiantes. Espera que la integración de sensores IoT le permita ahorrar tiempo, mejorar la eficiencia y rendimiento de sus cultivos. Además, considera que una aplicación con monitoreo en tiempo real y guías prácticas sería de gran ayuda para optimizar su proyecto.
+<br>
+
+**Segmento 2: Expertos en la hidroponía**
+<br>
+
+**Entrevista 1:**
+- Nombre y apellidos: Paolo Laguerre
+- Edad: 26 años
+- Ubicación: Distrito de Santiago de Surco, Lima
+- Evidencia de la reunión:
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280579965993091123/image.png?ex=66db3b87&is=66d9ea07&hm=13e9f0e76bacfb4b159b5171fea8a569cfaad46d3623376c7cebb77f7398d713&"/>
+</div>
+
+- Inicio: 09:50
+- Fin: 15:04
+- Enlace de entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Nuestro entrevistado fue Paolo Laguerre, agricultor experto con cierto recorrido en el sector. Comentó que empezó con la hidroponía debido a que últimamente empezaron a subir de precio o a escasear los recursos tradicionales con respecto a la agricultura. Mencionó que utiliza la herramienta OneNote para tener la lista de recursos que necesita utilizar en sus cultivos, y que con respecto a los sensores, un desafío es que estén al contacto con el agua, por lo que siempre existe la preocupación en caso se dañen. Por último, dijo que le sería de mucha utilidad una aplicación que le pueda mostrar los datos específicos de los cultivos, para que pueda visualizar si estos necesitan algún componente para una buena producción.
+<br>
+
+**Entrevista 2:**
+- Nombre y Apellidos: Diego Jesus
+- Edad: 28 años
+- Ubicación: San Martin, Lima
+- Evidencia de la reunión:
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480223405244541/image.png?ex=66dbdef6&is=66da8d76&hm=f6e95d074c1f89895bed1fd52af2d843a1d705704bb9955b7470b4cb99fe9d17&"/>
+</div>
+
+- Inicio: 15:05
+- Fin: 17:07
+- Enlace de la entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Resumen de la entrevista: Diego Jesus, experto en hidroponía, comentó que empezó en este tipo de cultivos porque busca métodos más eficientes para cultivar y está interesado en integrar tecnología moderna en su trabajo. Actualmente, utiliza sensores básicos para medir el agua, la temperatura, y la luz, lo que le permite monitorear las condiciones de sus plantas. Uno de los mayores desafíos que enfrenta es entender los datos generados por los sensores y cómo utilizarlos correctamente para mejorar sus cultivos. Además, mencionó que le gustaría tener más información sobre cómo las plantas absorben los nutrientes para ajustar mejor los niveles de estos. Por último, Diego mencionó que una aplicación que le ofrezca recomendaciones simples basadas en los datos de sus sensores sería muy útil para mejorar su sistema de hidroponía.
+
 ### 2.2.3. Análisis de entrevistas
+
+El análisis de las entrevistas revela que tanto los aficionados como los expertos en hidroponía buscan integrar tecnología IoT para mejorar la eficiencia de sus cultivos, aunque con diferencias en sus necesidades. Los aficionados, como Juan Reyes y Eddy Rojas, están motivados por la experimentación y aprendizaje, y enfrentan desafíos relacionados con la complejidad técnica y la falta de información clara sobre IoT e hidroponía. Valoran la automatización y una interfaz sencilla con guías prácticas que faciliten el proceso. Por otro lado, los expertos, como Paolo Laguerre y Diego Jesús, buscan optimizar sus procesos mediante datos precisos y enfrentan retos en la interpretación de estos datos, así como en la durabilidad de los sensores en contacto con el agua. Ambos segmentos coinciden en que una solución tecnológica ideal incluiría monitoreo en tiempo real y ajustes automáticos, pero los expertos demandan mayor precisión y control en comparación con los aficionados, que priorizan la simplicidad y el acceso a información accesible.
 
 ## 2.3. Needfinding
 
