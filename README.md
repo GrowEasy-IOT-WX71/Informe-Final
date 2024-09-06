@@ -776,6 +776,21 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Enlace de la entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=RCdZ3L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Resumen de la entrevista: Diego Jesus, experto en hidroponía, comentó que empezó en este tipo de cultivos porque busca métodos más eficientes para cultivar y está interesado en integrar tecnología moderna en su trabajo. Actualmente, utiliza sensores básicos para medir el agua, la temperatura, y la luz, lo que le permite monitorear las condiciones de sus plantas. Uno de los mayores desafíos que enfrenta es entender los datos generados por los sensores y cómo utilizarlos correctamente para mejorar sus cultivos. Además, mencionó que le gustaría tener más información sobre cómo las plantas absorben los nutrientes para ajustar mejor los niveles de estos. Por último, Diego mencionó que una aplicación que le ofrezca recomendaciones simples basadas en los datos de sus sensores sería muy útil para mejorar su sistema de hidroponía.
 
+**Entrevista 3:**
+- Nombre y Apellidos: Angello Olortegui
+- Edad: 24 años
+- Ubicación: San Miguel, Lima
+- Evidencia de la reunión:
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281614678983839867/image.png?ex=66dc5c2e&is=66db0aae&hm=9afd60760af089f6da3f933134dbb9bbf057eacbc40337083d522bb9a30a1cb7&=&format=webp&quality=lossless&width=1545&height=827"/>
+</div>
+
+- Inicio: 17:08
+- Fin: 20:09
+- Enlace de la entrevista: [Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERP0sf0OcAhMryt-BGJusicB6tFAdMA6lxjY8QTW3XVs7w?e=gZG8wr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTAzMS40Mn19)
+- Resumen de la entrevista: Angello es un joven ingeniero agrónomo que maneja un campo hidropónico en una zona rural. Su enfoque es más tradicional y no ha integrado tecnologías avanzadas como sensores IoT en su operación. Confía en métodos manuales para el monitoreo y control de su sistema, lo que presenta desafíos en términos de eficiencia y consistencia. Aunque no utiliza tecnología avanzada, Angello está abierto a mejorar su sistema con herramientas que puedan automatizar ciertos procesos, siempre que estas se adapten a su entorno y método de trabajo. Valora la simplicidad y la efectividad en las soluciones, prefiriendo herramientas que puedan darle acceso a datos relevantes como el pH, los nutrientes y las condiciones climáticas sin requerir una infraestructura tecnológica compleja..
+
+
 ### 2.2.3. Análisis de entrevistas
 
 El análisis de las entrevistas revela que tanto los aficionados como los expertos en hidroponía buscan integrar tecnología IoT para mejorar la eficiencia de sus cultivos, aunque con diferencias en sus necesidades. Los aficionados, como Juan Reyes y Eddy Rojas, están motivados por la experimentación y aprendizaje, y enfrentan desafíos relacionados con la complejidad técnica y la falta de información clara sobre IoT e hidroponía. Valoran la automatización y una interfaz sencilla con guías prácticas que faciliten el proceso. Por otro lado, los expertos, como Paolo Laguerre y Diego Jesús, buscan optimizar sus procesos mediante datos precisos y enfrentan retos en la interpretación de estos datos, así como en la durabilidad de los sensores en contacto con el agua. Ambos segmentos coinciden en que una solución tecnológica ideal incluiría monitoreo en tiempo real y ajustes automáticos, pero los expertos demandan mayor precisión y control en comparación con los aficionados, que priorizan la simplicidad y el acceso a información accesible.
