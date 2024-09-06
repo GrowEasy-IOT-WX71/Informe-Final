@@ -173,6 +173,10 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 </div>
 <br>
 
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478625417363468/logo.png?ex=66dbdd79&is=66da8bf9&hm=abc8f0935f276190f8c02faf47cb127790daa56d987666cab5efccabc92dff13&"/>      
+</div>
+
 <div style="text-align: justify;">
 
 - **Visión:** Nos proponemos ser líderes en la integración de tecnología IoT en la agricultura, facilitando el acceso a soluciones inteligentes que promuevan prácticas sostenibles y eficientes en el cultivo de alimentos, independientemente del entorno.
