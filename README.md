@@ -632,7 +632,7 @@ Después de realizar un análisis en el mercado peruano, hemos identificado tres
 Empresa especializada en ofrecer herramientas tecnológicas para la gestión agrícola. Su principal producto es una plataforma IoT que permite a los agricultores monitorear condiciones ambientales y del suelo en tiempo real. También brindan análisis de datos para optimizar la producción y minimizar riesgos asociados con condiciones climáticas adversas.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105671598122/Picture2.png?ex=66d9e72f&is=66d895af&hm=020703e6a7b728548256e443a0db879b2f00bc3d3c1f3246aca0f341f638555d&" alt="competidor1" width="200" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105671598122/Picture2.png?ex=66db38af&is=66d9e72f&hm=754f857d2ffee9fb734d50bb494f826eb4407c023ca5a15c971f5ab13332061c&" alt="competidor1" width="200" height="200"/>
 </div>
 
 ### **Hydroponics Perú**
@@ -640,7 +640,7 @@ Empresa especializada en ofrecer herramientas tecnológicas para la gestión agr
 Se especializa en ofrecer soluciones completas para la práctica de la hidroponía, incluyendo sistemas automatizados de riego, control de nutrientes, y monitoreo ambiental a través de sensores IoT. Además de vender equipos, ofrecen asesoría técnica y soporte para la implementación de sistemas hidropónicos tanto a nivel doméstico como comercial.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105956945980/Picture1.png?ex=66d9e72f&is=66d895af&hm=292a3d9d6832e2367019c9e2d0d426e471f52a622bb3ee3dbfcb721b3dd86e0e&" alt="competidor2" width="200" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105956945980/Picture1.png?ex=66db38af&is=66d9e72f&hm=ff0072575eeda056778a42bd85a920df3d5d9e70f92c5c63dc872971ff43becc&" alt="competidor2" width="200" height="200"/>
 </div>
 
 ### **Smart Agro Perú**
@@ -648,7 +648,7 @@ Se especializa en ofrecer soluciones completas para la práctica de la hidropon�
 Smart Agro Perú es una empresa que se dedica a la integración de tecnología en el sector agrícola. Ofrecen soluciones que incluyen la implementación de sensores IoT para monitorear en tiempo real variables como temperatura, humedad del suelo, y niveles de agua en los cultivos. Además, proporcionan una plataforma digital que permite a los agricultores tomar decisiones informadas basadas en los datos recolectados por los sensores.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105331994664/Picture3.png?ex=66d9e72f&is=66d895af&hm=bc974630e20d868e25eb524d86f69ee4ea62d2f81cb0a597e84d09aa23091624&" alt="competidor3" width="400" height="200"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105331994664/Picture3.png?ex=66db38af&is=66d9e72f&hm=499a08436c0a425d669f087e851515bfd40f2a547184820b5644ac4fcdc87997&" alt="competidor3" width="400" height="200"/>
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -791,7 +791,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Agricultor Experto:** es un profesional con experiencia en la gestión de cultivos a gran escala, que busca soluciones tecnológicas avanzadas para optimizar sus operaciones y maximizar la eficiencia de su producción.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281136836672098304/userPersonaExperto.png?ex=66da9f28&is=66d94da8&hm=4c8741a77d3ee4714e4f7d572f64ee3bf516ebd7f1f888d960a00c5e1769fc92&" alt="expertos"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281136836672098304/userPersonaExperto.png?ex=66db47e8&is=66d9f668&hm=7bcd475ec505718d9e2245dd03d5294ad251bb4fd4ab319161727b867b24fae1&" alt="expertos"/>
 </div>
 
 <br>
@@ -799,7 +799,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Aficionado a la Hidroponía:** es alguien que se está iniciando en el mundo del cultivo sin suelo, buscando tecnologías sencillas que le faciliten el cuidado de sus plantas y le permitan mejorar su rendimiento sin necesidad de un conocimiento técnico profundo.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281138054077222955/SCR-20240905-cebx.png?ex=66daa04a&is=66d94eca&hm=11a344415bdb87802be411b4a02167b25259b42c19e5938221242d92e8352f89&"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281137678112260177/image.png?ex=66db48b0&is=66d9f730&hm=49eeb9334a1544d377ad7484c7f3b4b920d2e5287a036fa6c41b7ed9a69e0b4d&"/>
 </div>
 
 <br>
@@ -808,12 +808,74 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 
 El User Task Matrix es una herramienta clave que recopila y analiza las tareas fundamentales que los usuarios de "GrowEasy Innovators" realizan en su actividad agrícola, ya sea en la agricultura tradicional o en la hidroponía. Este cuadro se enfoca en evaluar con qué frecuencia los usuarios llevan a cabo cada una de estas tareas y la severidad o impacto que estas tienen en su éxito. Al identificar estas áreas clave, GrowEasy podrá desarrollar soluciones tecnológicas que no solo faciliten la vida de los usuarios, sino que también maximicen la eficiencia y la efectividad en el manejo de sus cultivos. Esto permite priorizar las necesidades más críticas de los usuarios y ofrecerles herramientas que realmente les ayuden a alcanzar sus objetivos de manera óptima.
 
+<table border="1">
+    <tr>
+        <td>User Persona</td>
+        <td>Tareas (Tasks)</td>
+        <td>Descripción de la Tarea</td>
+        <td>Objetivo Relacionado</td>
+    </tr>
+    <tr>
+        <td rowspan="5">Agricultor Experto</td>
+        <td>Monitorear las condiciones climáticas</td>
+        <td>Revisa regularmente las condiciones climáticas locales para anticipar posibles impactos en los cultivos.</td>
+        <td>Mantener los cultivos bajo condiciones óptimas.</td>
+    </tr>
+    <tr>
+        <td>Supervisar el riego y la humedad del suelo</td>
+        <td>Inspecciona visualmente y ajusta manualmente los sistemas de riego según las necesidades de las plantas.</td>
+        <td>Optimizar el uso del agua y garantizar la salud del cultivo.</td>
+    </tr>
+    <tr>
+        <td>Evaluar el estado de las plantas</td>
+        <td>Recorre los terrenos para observar visualmente la salud de los cultivos, buscando señales de enfermedades o deficiencias.</td>
+        <td>Asegurar la calidad y productividad de los cultivos.</td>
+    </tr>
+    <tr>
+        <td>Planificar la siembra y la cosecha</td>
+        <td>Basado en la experiencia y las condiciones actuales, decide cuándo sembrar y cuándo cosechar.</td>
+        <td>Maximizar la producción y la rentabilidad.</td>
+    </tr>
+    <tr>
+        <td>Comprar insumos agrícolas</td>
+        <td>Realiza la compra de fertilizantes, semillas, y otros insumos necesarios para la operación agrícola.</td>
+        <td>Asegurar que tiene todo lo necesario para mantener la producción en marcha.</td>
+    </tr>
+    <tr>
+        <td rowspan="5">Aficionado a la Hidroponía</td>
+        <td>Controlar los niveles de agua y nutrientes</td>
+        <td>Revisa manualmente los niveles de agua y nutrientes en el sistema hidropónico.</td>
+        <td>Mantener un ambiente de crecimiento saludable para las plantas.</td>
+    </tr>
+    <tr>
+        <td>Regular la iluminación artificial</td>
+        <td>Ajusta la cantidad de luz artificial según la fase de crecimiento de las plantas.</td>
+        <td>Optimizar las condiciones de crecimiento en un espacio limitado.</td>
+    </tr>
+    <tr>
+        <td>Documentar el crecimiento de las plantas</td>
+        <td>Toma notas y fotos del progreso de los cultivos para registrar su crecimiento y ajustar el método si es necesario.</td>
+        <td>Aprender y mejorar continuamente las técnicas hidropónicas.</td>
+    </tr>
+    <tr>
+        <td>Investigar mejores prácticas en hidroponía</td>
+        <td>Busca información en línea sobre técnicas avanzadas y mejores prácticas para mejorar el sistema.</td>
+        <td>Mejorar el rendimiento y la eficiencia en la hidroponía.</td>
+    </tr>
+    <tr>
+        <td>Compartir la experiencia en redes sociales</td>
+        <td>Publica fotos y actualizaciones sobre los cultivos en cuentas de redes sociales.</td>
+        <td>Inspirar a otros y compartir la pasión por la hidroponía.</td>
+    </tr>
+</table>
+
+
 ### 2.3.3. User Journey Mapping
 
 El User Journey Mapping del aficionado a la hidroponía explora el recorrido completo que este usuario realiza desde el momento en que se da cuenta de la necesidad de una solución tecnológica para mejorar el cuidado de sus cultivos, hasta la evaluación final de la eficacia de dicha solución. Este mapa detalla las etapas clave, las emociones, y los desafíos que enfrenta un aficionados mientras navega por la amplia gama de opciones tecnológicas, se registra en una plataforma, comienza a utilizar la tecnología, y finalmente evalúa su impacto en el rendimiento de sus cultivos. A través de este análisis, identificamos oportunidades críticas para mejorar la experiencia del usuario y facilitar su camino hacia la adopción de tecnologías innovadoras en el cultivo hidropónico.
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281138464158646294/SCR-20240905-cetc.png?ex=66daa0ac&is=66d94f2c&hm=41edb10a448cd4615497700ad4bfcdc9c733c5a03aaa036f6a5e59c040604c50&=&format=webp&quality=lossless&width=812&height=660"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281097557467988018/joruneymappingUser.png?ex=66dbcc13&is=66da7a93&hm=9629017a60476280143760a927aa4db0a4c0be9687489b6330d3e79e3f55a970&"/>
 </div>
 
 <br>
@@ -821,7 +883,7 @@ El User Journey Mapping del aficionado a la hidroponía explora el recorrido com
 El User Journey Mapping del agricultor experto en grandes cultivos ofrece una visión detallada del proceso que sigue este usuario al integrar tecnologías avanzadas en sus operaciones agrícolas. Este recorrido abarca desde la búsqueda inicial de soluciones que puedan aumentar la eficiencia y productividad de sus cultivos a gran escala, hasta la implementación y personalización de estas tecnologías, y la evaluación de su retorno de inversión. El mapa pone en evidencia las expectativas elevadas de un usuario experimentado, así como los desafíos técnicos y estratégicos que enfrenta al adoptar nuevas herramientas. Este análisis proporciona una base para desarrollar soluciones que no solo satisfagan las necesidades complejas de los expertos, sino que también les ofrezcan un valor tangible y medible en sus operaciones agrícolas.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281138878119411753/image.png?ex=66daa10e&is=66d94f8e&hm=d3a35567a402c514f1a323a092e40122c3aae4915310d586685be340fc952c7c&"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281097557744947241/journeyExperto.png?ex=66dbcc13&is=66da7a93&hm=d60eb8a790bcdb53b6b6ebeedfd9201082f69ecc2dc59b9ad577902f403d3d43&"/>
 </div>
 
 <br>
@@ -832,14 +894,14 @@ El Empathy Mapping es una herramienta esencial que nos permite adentrarnos en la
 
 **Aficionado**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281139736265883692/SCR-20240905-cgmt.png?ex=66daa1db&is=66d9505b&hm=017776b21ef93814d71f61a0d2eceaa4eda35bb2876d151ecb76c1f866a52ec4&=&format=webp&quality=lossless&width=512&height=660"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281139736265883692/SCR-20240905-cgmt.png?ex=66db4a9b&is=66d9f91b&hm=abdce75a0bf2cb1911184034db3537f4d8840d3ca3385e77fe6f81c595649596&"/>
 </div>
 
 <br>
 
 **Experto**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281140025286725703/SCR-20240905-cgwu.png?ex=66daa220&is=66d950a0&hm=177cad4b28a1bdc47c63e9e14d32fc4e7f9c33bbc0e994b3b5d7fac850a95719&=&format=webp&quality=lossless&width=537&height=660"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140025286725703/SCR-20240905-cgwu.png?ex=66db4ae0&is=66d9f960&hm=cb1fced723ab07f907c486bc74bae493bddad806ecaa6c3b5947f532cba0179e&"/>
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -848,14 +910,14 @@ El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprende
 
 **Aficionados**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1281141119568183327/SCR-20240905-cinb.png?ex=66daa325&is=66d951a5&hm=a3d0e09a3102c21df69c3466342cf2f58806d2af6037c0cdb7f4d75dc3e8cafb&=&format=webp&quality=lossless&width=940&height=411"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281141119568183327/SCR-20240905-cinb.png?ex=66db4be5&is=66d9fa65&hm=76b1a8f9679290813fe46857a7a3378ab4f04b1175dcf9114da0d7afba67bbf8&"/>
 </div>
 
 <br>
 
 **Expertos**
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140386940583986/SCR-20240905-chln.png?ex=66daa276&is=66d950f6&hm=82c7eb92aba671ebae71625725faa294b49a8c6325ae13b89cbd23705689bc3e&"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140386940583986/SCR-20240905-chln.png?ex=66db4b36&is=66d9f9b6&hm=d1a6803ee7975838e5bbb1c7df792da645cea4942df1274b7679c4c9a25810c9&"/>
 </div>
 
 ## 2.4. Ubiquitous Language
@@ -928,13 +990,13 @@ Es importante visualizar las operaciones y experiencias de los usuarios con nues
 ### Segmento 1: Aficinados
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608205131124827/tobe_scenario_mapping_aficionados.jpg?ex=66d9acc2&is=66d85b42&hm=e14a493af1ea40e068c6b80912dbf7df781ffbf2ef5c4848635d14696f28debf&" alt="aficionados"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608205131124827/tobe_scenario_mapping_aficionados.jpg?ex=66dba702&is=66da5582&hm=9220151874ab8df2c8be3a5f2236240bbe7a4354a7d816a77571e0143199d138&" alt="aficionados"/>
 </div>
 
 ### Segmento 2: Expertos 
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608461008703590/tobe_scenario_mapping_expertos.jpg?ex=66d9acff&is=66d85b7f&hm=2b8d22d10e13a5d722403d0a49c428ab2388ecd8337472f0a8a23bc86d44f0af&" alt="expertos"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608461008703590/tobe_scenario_mapping_expertos.jpg?ex=66dba73f&is=66da55bf&hm=b90f98b4bbbd2071caf0c5726bbf510fb70f5243fdf61d6e780208bb40b6e926&" alt="expertos"/>
 </div>
 
 ## 3.2. User Stories
@@ -981,7 +1043,7 @@ Presentamos el concepto de Impact Map, una herramienta estratégica que nos faci
 </div>
 <br>
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280306499842736178/ImpactMappingIOT.jpg?ex=66d99418&is=66d84298&hm=b74024fee23a0d72bb2997cae61baf5a105e81356036e5ac7d6f62a0d2fd0b6c&" alt="impactmapping"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280306499842736178/ImpactMappingIOT.jpg?ex=66db8e58&is=66da3cd8&hm=facd8826c19f4ad734e62b71418f60224c805bade9dbd728e4f686cfb1d0f31f&" alt="impactmapping"/>
 </div>
 
 ## 3.4. Product Backlog
@@ -1021,7 +1083,7 @@ En esta sección, abordaremos el proceso de **Descubrimiento del Contexto del Ca
 A continuación, se presenta la imagen de referencia del mapeo realizado en [Miro](https://miro.com/app/board/uXjVKnyuUYc=/):
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262690048311296/image.png?ex=66d7710b&is=66d61f8b&hm=f3ce999eaebae7a636ffb714abe5200ba721e8acc7a094721d7b0a931d8089cb&=&format=webp&quality=lossless&width=700&height=633"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262690048311296/image.png?ex=66db658b&is=66da140b&hm=5e8da460916f77ee0de71f03292fca536fe4fd0c18b01abb012be36a458de460&"/>
 </div>
 
 #### 4.1.1.2. Domain Message Flows Modeling
@@ -1034,28 +1096,28 @@ A continuación, se presenta las imágenes de referencia del modelado realizado 
 
 **Login and Register Context**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831048097854/image.png?ex=66d7712d&is=66d61fad&hm=f3080371b96acbcc458d72836f69ae152048d3b07f739546593e3c5a36edbe34&=&format=webp&quality=lossless"/>
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831446691944/image.png?ex=66d7712d&is=66d61fad&hm=11d88a4733a68803369e7ce76ac5ded7f190fa75906000817f4c6195352ae6c0&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831048097854/image.png?ex=66db65ad&is=66da142d&hm=99c6082fc61157d8108df2e4f16967142570e05090bb10860faccd2f9fe0f761&"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831446691944/image.png?ex=66db65ad&is=66da142d&hm=1ecd4877e651e7f346853a2df80eeb84d907ac4ae9014857210715c954d1dc49&"/>
 </div>
 
 **Monitoring Context**  
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831681310760/image.png?ex=66d7712d&is=66d61fad&hm=b830a92a2386abec4928cf5722e9347aeb6372f7abf50c14556f2beb6564ecbf&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831681310760/image.png?ex=66db65ad&is=66da142d&hm=96433192c0e490b27ae018cf968fa08f4e966f4303cba6dbbd43f4369fa8c425&"/>
 </div>
 
 **Notification Context**  
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262831991820390/image.png?ex=66d7712d&is=66d61fad&hm=005eefdde36aae47de13b17b9a3e8fdf5778027d2a44dc8de4fbe26175c7f9fc&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831991820390/image.png?ex=66db65ad&is=66da142d&hm=c47a4a2cea59ffdca7f2fd755a0de9a319f2fce545f046255475d901ba599d4b&"/>
 </div>
 
 **Report Context**  
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262832289484800/image.png?ex=66d7712d&is=66d61fad&hm=24252bcafc1733a44bf4266afdc588303bca292a92be465230637f77e3ab8abf&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262832289484800/image.png?ex=66db65ad&is=66da142d&hm=b2d4af2d38176a42130e445c9fca3e2ea077b0c833c0bbb299c660e67d1c7c43&"/>
 </div>
 
 **Recommendation Context**  
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280262832503390271/image.png?ex=66d7712d&is=66d61fad&hm=132168d65eaf20eed4afe6b7885f5cefde5f523691c4783ca92a54956694d11c&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262832503390271/image.png?ex=66db65ad&is=66da142d&hm=bf4c9273f11008271568eda78ae59a32b5517beeb2aa8a3ad655e642b9123d9b&"/>
 </div>
 
 #### 4.1.1.3. Bounded Context Canvases
@@ -1067,11 +1129,11 @@ El objetivo de los Bounded Context Canvases es identificar y documentar los lím
 A continuación, se presenta las imágenes de referencia del canvas de contextos realizado en [Miro](https://miro.com/welcomeonboard/V1h4alVMNXVwb1FpWHhlYnJXRnhYT0RuY3dUUlpPVDFIbllPR1prZFZrSGVGZ2RpSDc2ZWdaSzMydGJ0Um5ka3wzNDU4NzY0NTkzNDI3ODE3NjA2fDI=?share\_link\_id=388280836822):
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309077254237/image.png?ex=66d7719f&is=66d6201f&hm=9d3033aaf1774e5d348a1c48fea13fa46f3c27232aca1ed7637299f3f9c20782&=&format=webp&quality=lossless"/>
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309332844669/image.png?ex=66d7719f&is=66d6201f&hm=3cc78c5d4cf9e4b03c326c6aef69236481aa2546e9b306d9f0c7775c6e26fc53&=&format=webp&quality=lossless" />
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309593153566/image.png?ex=66d7719f&is=66d6201f&hm=e27b24fd5095b55a841088600ed89df86c6f5a3614f7d86bf7f807a322ecadb6&=&format=webp&quality=lossless" />
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263309853065390/image.png?ex=66d7719f&is=66d6201f&hm=fb63e81abf782deda06e288423932ccd9bc9e7c48c9ec1558f7b97092b22d56f&=&format=webp&quality=lossless" />
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263310188478474/image.png?ex=66d7719f&is=66d6201f&hm=8721f28a87614b130f021badeb2d51ff661b5b80090d4713a0bcbcc7ec384d05&=&format=webp&quality=lossless&width=1094&height=633" />
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309077254237/image.png?ex=66db661f&is=66da149f&hm=821e93d82a4dcfdea35d8c3faf49c4e99c99fa364b8ab9016959cc824d975e7b&"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309332844669/image.png?ex=66db661f&is=66da149f&hm=6563014a107612e2cc4d75cb4a449c81513799fba318bbd029fc9afe6617bf87&" />
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309593153566/image.png?ex=66db661f&is=66da149f&hm=da82f0e28b75f585f1e4c8cb96840873efcaf76d5af5ccbedf5b4590e81067d3&" />
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309853065390/image.png?ex=66db661f&is=66da149f&hm=182553154080362495114176cfa05c1f8fdfa14a66f65a2ea32c937bc0df706f&" />
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263310188478474/image.png?ex=66db661f&is=66da149f&hm=b2394c43f626baef4c7ec4ddeb994b0d0daf84c8fa0859cd2df5ea67c739db8e&" />
 </div>
 
 ### 4.1.2. Context Mapping
@@ -1083,7 +1145,7 @@ Utilizando la herramienta Lucidchart, hemos desarrollado un diagrama detallado q
 A continuación, se presenta la imagen de referencia del mapeo realizado en [Lucidchart](https://lucid.app/lucidchart/bd13a4a3-1ff1-461e-bd38-8dd32358d38d/edit?viewport\_loc=-221%2C69%2C2155%2C1115%2C0\_0\&invitationId=inv\_f25e463d-9272-4a27-93f5-a9dc1d179113):
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1280263375091273841/image.png?ex=66d771ae&is=66d6202e&hm=8cc3aaf3d78222cd1e8d0f36b5428a516bda29491ef213f03b266f6250ad5f78&=&format=webp&quality=lossless"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263375091273841/image.png?ex=66db662e&is=66da14ae&hm=a8f9fade61cde0a1464d4e078868b034a7975158a5fdbbdcfe9155378bbe3b14&"/>
 </div>
 
 ### 4.1.3. Software Architecture
@@ -1093,25 +1155,25 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342958021185546/1.png?ex=66d4187a&is=66d2c6fa&hm=1affe2358f3364003bc6561e8b1d0497c2986ef799d9d3577715ec0ff69bab66&=&format=webp&quality=lossless&width=904&height=676"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342958021185546/1.png?ex=66db58ba&is=66da073a&hm=efe5917ab01981e802ea6a74507d3daec4d1ec53fb3189f1929db4c8b04533dc&"/>
 </div>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342958461714512/2.png?ex=66d4187a&is=66d2c6fa&hm=b5991f1ee3ed0ec3a9ed51987e73437471db6746e0516512aac429216672d270&=&format=webp&quality=lossless&width=865&height=676"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342958461714512/2.png?ex=66db58ba&is=66da073a&hm=b99e14a57a9fb741798181bd84774a3196dd9c358ec7b90f61ac5739e2d314c5&"/>
 </div>
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342959111962694/3.png?ex=66d4187a&is=66d2c6fa&hm=514b82be13447248484845bc096040b1178648491356fcac20264ce22bff374e&=&format=webp&quality=lossless&width=845&height=676"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342959111962694/3.png?ex=66db58ba&is=66da073a&hm=58a1e482e6498c236bf8a73a0439af54457e7941128b0af5888a5ff24557392e&"/>
 </div>
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1279240789611778109/1279342957417332798/4.png?ex=66d4187a&is=66d2c6fa&hm=84992093039c40e61f392e9f5d7a13141216f1b9a66cc203117092831e67b647&=&format=webp&quality=lossless&width=1440&height=637"/>
+    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342957417332798/4.png?ex=66db58ba&is=66da073a&hm=75863a5c83d3aa687b47e6fc9106089ca18de12ac3542086a11d73dfd5d59227&"/>
 </div>
 
 ## 4.2. Tactical-Level Domain-Driven Design
