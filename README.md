@@ -69,11 +69,11 @@ Septiembre del 2023
     - **Capítulo IV: Solution Software Design** (Leonardo y Jack)
 
     <div align=center>
-        <img src=""/>      
+        <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478176651874304/image.png?ex=66dbdd0e&is=66da8b8e&hm=0f51edad1ede09c1fb2acd5b881631de5ea3fa506e4ea5301ff34cfad32de3f4&"/>      
     </div>
 
     <div align=center>
-        <img src=""/>
+        <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478259284119622/image.png?ex=66dbdd21&is=66da8ba1&hm=94ee942b968265581c40a58252ea50110cabaccbab14ea4ea490cd7f3d29beb3&"/>
     </div>
 
 <br><br>
