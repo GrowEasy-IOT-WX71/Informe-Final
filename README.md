@@ -69,13 +69,9 @@ Septiembre del 2024
     - **Capítulo III: Requirements Specification** (Jesús Antonio)
     - **Capítulo IV: Solution Software Design** (Leonardo y Jack)
 
-    <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478176651874304/image.png?ex=66dbdd0e&is=66da8b8e&hm=0f51edad1ede09c1fb2acd5b881631de5ea3fa506e4ea5301ff34cfad32de3f4&"/>      
-    </div>
+    <img src="images/insight1TB1.png" alt="insight1TB1">
 
-    <div align=center>
-        <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478259284119622/image.png?ex=66dbdd21&is=66da8ba1&hm=94ee942b968265581c40a58252ea50110cabaccbab14ea4ea490cd7f3d29beb3&"/>
-    </div>
+    <img src="images/insight2TB1.png" alt="insight2TB1">
 
 <br>
 
@@ -373,7 +369,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280719409018835005/perfil.png?ex=66dbbd65&is=66da6be5&hm=4e53f19a9d9f2116bb99e53cf86ba85a0e5e7f9cfd487dca0983538a35dee638&" alt="Farid Rolando" width="900"/>
+            <img src="images/faridperfil.png" alt="Farid Rolando" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -408,7 +404,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281521047694475286/image.png?ex=66dc04fb&is=66dab37b&hm=f729dd7bb952eae27d26c5cfd512f9671ad4edf8b9a7be0c5829b99a811bbf82&" alt="Leonardo" width="900"/>
+            <img src="images/leonardoperfil.png" alt="Leonardo" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -696,7 +692,7 @@ Después de realizar un análisis en el mercado peruano, hemos identificado tres
 Empresa especializada en ofrecer herramientas tecnológicas para la gestión agrícola. Su principal producto es una plataforma IoT que permite a los agricultores monitorear condiciones ambientales y del suelo en tiempo real. También brindan análisis de datos para optimizar la producción y minimizar riesgos asociados con condiciones climáticas adversas.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105671598122/Picture2.png?ex=66db38af&is=66d9e72f&hm=754f857d2ffee9fb734d50bb494f826eb4407c023ca5a15c971f5ab13332061c&" alt="competidor1" width="200" height="200"/>
+    <img src="images/competidor1.png" alt="competidor1" width="200" height="200"/>
 </div>
 
 ### **Hydroponics Perú**
@@ -704,7 +700,7 @@ Empresa especializada en ofrecer herramientas tecnológicas para la gestión agr
 Se especializa en ofrecer soluciones completas para la práctica de la hidroponía, incluyendo sistemas automatizados de riego, control de nutrientes, y monitoreo ambiental a través de sensores IoT. Además de vender equipos, ofrecen asesoría técnica y soporte para la implementación de sistemas hidropónicos tanto a nivel doméstico como comercial.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105956945980/Picture1.png?ex=66db38af&is=66d9e72f&hm=ff0072575eeda056778a42bd85a920df3d5d9e70f92c5c63dc872971ff43becc&" alt="competidor2" width="200" height="200"/>
+    <img src="images/competidor2.png" alt="competidor2" width="200" height="200"/>
 </div>
 
 ### **Smart Agro Perú**
@@ -712,7 +708,7 @@ Se especializa en ofrecer soluciones completas para la práctica de la hidropon�
 Smart Agro Perú es una empresa que se dedica a la integración de tecnología en el sector agrícola. Ofrecen soluciones que incluyen la implementación de sensores IoT para monitorear en tiempo real variables como temperatura, humedad del suelo, y niveles de agua en los cultivos. Además, proporcionan una plataforma digital que permite a los agricultores tomar decisiones informadas basadas en los datos recolectados por los sensores.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280758105331994664/Picture3.png?ex=66db38af&is=66d9e72f&hm=499a08436c0a425d669f087e851515bfd40f2a547184820b5644ac4fcdc87997&" alt="competidor3" width="400" height="200"/>
+    <img src="images/competidor3.png" alt="competidor3" width="400" height="200"/>
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -769,7 +765,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Evidencia de la reunión:
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281479970644033578/image.png?ex=66dbdeb9&is=66da8d39&hm=656d7c4a3e6e674f7edc3fa6d4b1032c5deb3a10bbf91cd5a84eedde8e151e4c&"/>
+    <img src="images/entrevista1.png"/>
 </div>
 
 - Inicio: 00:07
@@ -784,7 +780,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Ubicación: San Martin, Lima
 - Evidencia de la reunión:
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480048636985404/image.png?ex=66dbdecc&is=66da8d4c&hm=ff2fe078b9dd12ebd24dd9efc5ca48e1b54bdbd0c85ff932595ee668c9d250ff&"/>
+    <img src="images/entrevista2.png"/>
 </div>
 
 - Inicio: 03:18
@@ -799,7 +795,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Ubicación: Santa Anita, Lima
 - Evidencia de la reunión:
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480145072295979/image.png?ex=66dbdee3&is=66da8d63&hm=c70e3e9d28522db12ea8ae95188c1a290cac6e4a3ec4aad8703d7d8a32b32c25&"/>
+    <img src="images/entrevista3.png"/>
 </div>
 
 - Inicio: 05:24
@@ -817,7 +813,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Ubicación: Distrito de Santiago de Surco, Lima
 - Evidencia de la reunión:
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280579965993091123/image.png?ex=66db3b87&is=66d9ea07&hm=13e9f0e76bacfb4b159b5171fea8a569cfaad46d3623376c7cebb77f7398d713&"/>
+    <img src="images/entrevista4.png"/>
 </div>
 
 - Inicio: 09:50
@@ -832,7 +828,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Ubicación: San Martin, Lima
 - Evidencia de la reunión:
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281480223405244541/image.png?ex=66dbdef6&is=66da8d76&hm=f6e95d074c1f89895bed1fd52af2d843a1d705704bb9955b7470b4cb99fe9d17&"/>
+    <img src="images/entrevista5.png"/>
 </div>
 
 - Inicio: 15:05
@@ -846,7 +842,7 @@ En esta sección se han formulado las preguntas para nuestro segmento objetivo, 
 - Ubicación: San Miguel, Lima
 - Evidencia de la reunión:
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281614678983839867/image.png?ex=66dc5c2e&is=66db0aae&hm=9afd60760af089f6da3f933134dbb9bbf057eacbc40337083d522bb9a30a1cb7&=&format=webp&quality=lossless&width=1545&height=827"/>
+    <img src="images/entrevista6.png"/>
 </div>
 
 - Inicio: 17:08
@@ -870,7 +866,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Agricultor Experto:** es un profesional con experiencia en la gestión de cultivos a gran escala, que busca soluciones tecnológicas avanzadas para optimizar sus operaciones y maximizar la eficiencia de su producción.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281136836672098304/userPersonaExperto.png?ex=66db47e8&is=66d9f668&hm=7bcd475ec505718d9e2245dd03d5294ad251bb4fd4ab319161727b867b24fae1&" alt="expertos"/>
+    <img src="images/userExperto.png" alt="expertos"/>
 </div>
 
 <br>
@@ -878,7 +874,7 @@ Para comprender mejor a los usuarios a los que está dirigida nuestra solución,
 - **Aficionado a la Hidroponía:** es alguien que se está iniciando en el mundo del cultivo sin suelo, buscando tecnologías sencillas que le faciliten el cuidado de sus plantas y le permitan mejorar su rendimiento sin necesidad de un conocimiento técnico profundo.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281137678112260177/image.png?ex=66db48b0&is=66d9f730&hm=49eeb9334a1544d377ad7484c7f3b4b920d2e5287a036fa6c41b7ed9a69e0b4d&"/>
+    <img src="images/userAficionado.png" alt="aficionado"/>
 </div>
 
 <br>
@@ -954,7 +950,7 @@ El User Task Matrix es una herramienta clave que recopila y analiza las tareas f
 El User Journey Mapping del aficionado a la hidroponía explora el recorrido completo que este usuario realiza desde el momento en que se da cuenta de la necesidad de una solución tecnológica para mejorar el cuidado de sus cultivos, hasta la evaluación final de la eficacia de dicha solución. Este mapa detalla las etapas clave, las emociones, y los desafíos que enfrenta un aficionados mientras navega por la amplia gama de opciones tecnológicas, se registra en una plataforma, comienza a utilizar la tecnología, y finalmente evalúa su impacto en el rendimiento de sus cultivos. A través de este análisis, identificamos oportunidades críticas para mejorar la experiencia del usuario y facilitar su camino hacia la adopción de tecnologías innovadoras en el cultivo hidropónico.
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281097557467988018/joruneymappingUser.png?ex=66dbcc13&is=66da7a93&hm=9629017a60476280143760a927aa4db0a4c0be9687489b6330d3e79e3f55a970&"/>
+    <img src="images/journey1.png"/>
 </div>
 
 <br>
@@ -973,14 +969,14 @@ El Empathy Mapping es una herramienta esencial que nos permite adentrarnos en la
 
 **Aficionado**
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281139736265883692/SCR-20240905-cgmt.png?ex=66db4a9b&is=66d9f91b&hm=abdce75a0bf2cb1911184034db3537f4d8840d3ca3385e77fe6f81c595649596&"/>
+    <img src="images/empathy1.png"/>
 </div>
 
 <br>
 
 **Experto**
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140025286725703/SCR-20240905-cgwu.png?ex=66db4ae0&is=66d9f960&hm=cb1fced723ab07f907c486bc74bae493bddad806ecaa6c3b5947f532cba0179e&"/>
+    <img src="images/empathy2.png"/>
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -989,14 +985,14 @@ El As-Is Scenario Mapping es una herramienta clave que utilizamos para comprende
 
 **Aficionados**
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281141119568183327/SCR-20240905-cinb.png?ex=66db4be5&is=66d9fa65&hm=76b1a8f9679290813fe46857a7a3378ab4f04b1175dcf9114da0d7afba67bbf8&"/>
+    <img src="images/asis1.png"/>
 </div>
 
 <br>
 
 **Expertos**
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281140386940583986/SCR-20240905-chln.png?ex=66db4b36&is=66d9f9b6&hm=d1a6803ee7975838e5bbb1c7df792da645cea4942df1274b7679c4c9a25810c9&"/>
+    <img src="images/asis2.png"/>
 </div>
 
 ## 2.4. Ubiquitous Language
@@ -1069,13 +1065,13 @@ Es importante visualizar las operaciones y experiencias de los usuarios con nues
 ### Segmento 1: Aficinados
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608205131124827/tobe_scenario_mapping_aficionados.jpg?ex=66dba702&is=66da5582&hm=9220151874ab8df2c8be3a5f2236240bbe7a4354a7d816a77571e0143199d138&" alt="aficionados"/>
+    <img src="images/tobe1.jpg" alt="aficionados"/>
 </div>
 
 ### Segmento 2: Expertos 
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279608461008703590/tobe_scenario_mapping_expertos.jpg?ex=66dba73f&is=66da55bf&hm=b90f98b4bbbd2071caf0c5726bbf510fb70f5243fdf61d6e780208bb40b6e926&" alt="expertos"/>
+    <img src="images/tobe2.jpg" alt="expertos"/>
 </div>
 
 ## 3.2. User Stories
@@ -1122,7 +1118,7 @@ Presentamos el concepto de Impact Map, una herramienta estratégica que nos faci
 </div>
 <br>
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280306499842736178/ImpactMappingIOT.jpg?ex=66db8e58&is=66da3cd8&hm=facd8826c19f4ad734e62b71418f60224c805bade9dbd728e4f686cfb1d0f31f&" alt="impactmapping"/>
+    <img src="images/impactmapping.jpg" alt="impactmapping"/>
 </div>
 
 ## 3.4. Product Backlog
@@ -1200,25 +1196,25 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342958021185546/1.png?ex=66db58ba&is=66da073a&hm=efe5917ab01981e802ea6a74507d3daec4d1ec53fb3189f1929db4c8b04533dc&"/>
+    <img src="images/landscape.png"/>
 </div>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342958461714512/2.png?ex=66db58ba&is=66da073a&hm=b99e14a57a9fb741798181bd84774a3196dd9c358ec7b90f61ac5739e2d314c5&"/>
+    <img src="images/context.png"/>
 </div>
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342959111962694/3.png?ex=66db58ba&is=66da073a&hm=58a1e482e6498c236bf8a73a0439af54457e7941128b0af5888a5ff24557392e&"/>
+    <img src="images/container.png"/>
 </div>
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279342957417332798/4.png?ex=66db58ba&is=66da073a&hm=75863a5c83d3aa687b47e6fc9106089ca18de12ac3542086a11d73dfd5d59227&"/>
+    <img src="images/deployment.png"/>
 </div>
 
 ## 4.2. Tactical-Level Domain-Driven Design
@@ -1279,7 +1275,7 @@ En esta sección mostraremos los diagramas C4 donde se visualiza la arquitectura
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250255619166218/1.png?ex=66dbab24&is=66da59a4&hm=9a4e67ce007a7a73d1ea62e0680b4a69fe2f8158c1f18009533ccedf45286d9e&"/>
+    <img src="images/b_1.png"/>
 </div>
 
 **Component Diagram:**
@@ -1301,7 +1297,7 @@ AuthController también utiliza EmailService para enviar correos electrónicos d
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250255962968074/2.png?ex=66dbab24&is=66da59a4&hm=3602d00b10776dd941c6320b777fa0ca706018abee0ed30c80fe14f9ee13e8fc&"/>
+    <img src="images/b_2.png"/>
 </div>
 
 Contenido: Diagrama de clases UML que incluye:
@@ -1321,7 +1317,7 @@ UserRepository es una interfaz que es implementada por UserRepositoryImpl.
 ##### 4.2.1.6.2. Bounded Context Database Design Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250256714010787/3.png?ex=66dbab24&is=66da59a4&hm=745d660f357e098521d778a1b8a3d8325efb974af24ca668f4c2c9004d02370b&"/>
+    <img src="images/b_3.png"/>
 </div>
 
 Contenido: Diagrama de base de datos que incluye:
@@ -1405,7 +1401,7 @@ Métodos: sendSMS().
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250256982442096/4.png?ex=66dbab24&is=66da59a4&hm=729085cb2038f351b46f8144ab3d3c26d6ec03ab13d4898e9c1ece9ecd330445&"/>
+    <img src="images/b_4.png"/>
 </div>
 
 Component Diagram:
@@ -1427,7 +1423,7 @@ SMSService se usa para enviar notificaciones a través de SMS.
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257275916400/5.png?ex=66dbab24&is=66da59a4&hm=d11a8925e44946d3b184ddff9652bb555b200f5273de362ebf0cd4e662a54e96&"/>
+    <img src="images/b_5.png"/>
 </div>
 
 Contenido: Diagrama de clases UML que incluye:
@@ -1445,7 +1441,7 @@ NotificationRepository es una interfaz que es implementada por NotificationRepos
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257645146164/6.png?ex=66dbab24&is=66da59a4&hm=56cae7b4a061c2bbf5d001868c8a10fb875de9c676ff4613dd39f6599a8384ad&"/>
+    <img src="images/b_6.png"/>
 </div>
 
 Contenido: Diagrama de base de datos que incluye:
@@ -1527,7 +1523,7 @@ Métodos: sendCommand().
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250257988943903/7.png?ex=66dbab24&is=66da59a4&hm=4590def8855746d6781117e9f261f64707f73226924a2187383e7e02d039f619&"/>
+    <img src="images/b_7.png"/>
 </div>
 
 Component Diagram:
@@ -1549,7 +1545,7 @@ IoTService comunica los sensores físicos con el sistema.
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250258399858770/8.png?ex=66dbab24&is=66da59a4&hm=cddfb98206e9d26fde20ac21b680ee0d3bd26a1c6bb628382789a7e40d008b7b&"/>
+    <img src="images/b_8.png"/>
 </div>
 
 Contenido: Diagrama de clases UML que incluye:
@@ -1567,7 +1563,7 @@ SensorRepository es una interfaz que es implementada por SensorRepositoryImpl.
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250258659901523/9.png?ex=66dbab24&is=66da59a4&hm=f14db782972e3c474c1d01b6ef4ed32afd732d97c7b3bbce817340a846619656&"/>
+    <img src="images/b_9.png"/>
 </div>
 
 Contenido: Diagrama de base de datos que incluye:
@@ -1649,7 +1645,7 @@ Métodos: generatePDF().
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250312884125746/10.png?ex=66dbab31&is=66da59b1&hm=e0d46dc324a6841814486b28eba8e3ccd701f2909d24601c671def3a21e5843f&"/>
+    <img src="images/b_10.png"/>
 </div>
 
 Component Diagram:
@@ -1671,7 +1667,7 @@ PDFService convierte los informes generados en formato PDF.
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250313320075345/11.png?ex=66dbab32&is=66da59b2&hm=11a9de312cc3e3fac918b4f811b6161d97bd314871e16432362d59a3e3ef5dbe&"/>
+    <img src="images/b_11.png"/>
 </div>
 
 Contenido: Diagrama de clases UML que incluye:
@@ -1689,7 +1685,7 @@ ReportRepository es una interfaz que es implementada por ReportRepositoryImpl.
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250313609613395/12.png?ex=66dbab32&is=66da59b2&hm=098e68c08440813328a8fa04a3845f27401484aeec8a99f2d2871536cee7b3e0&"/>
+    <img src="images/b_12.png"/>
 </div>
 
 Contenido: Diagrama de base de datos que incluye:
@@ -1769,7 +1765,7 @@ Métodos: executeAlgorithm().
 #### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314012397619/13.png?ex=66dbab32&is=66da59b2&hm=8a082355e556fc2b3d7a7b73134e4dbd2cec9c3e491b9c589afe3346642a3dbd&"/>
+    <img src="images/b_13.png"/>
 </div>
 
 Component Diagram:
@@ -1792,7 +1788,7 @@ MLService ejecuta algoritmos de machine learning que mejoran las recomendaciones
 ##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314288955432/14.png?ex=66dbab32&is=66da59b2&hm=cebe25d8876b5d29e321cdcaf204496363c791194b64368d32b46280048c570c&"/>
+    <img src="images/b_14.png"/>
 </div>
 
 Contenido: Diagrama de clases UML que incluye:
@@ -1810,7 +1806,7 @@ RecommendationRepository es una interfaz que es implementada por RecommendationR
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279250314519646240/15.png?ex=66dbab32&is=66da59b2&hm=6d1bbfcec46554a74f17ea9f43331c9eef40b756ada290ffd1a785281a79d891&"/>
+    <img src="images/b_15.png"/>
 </div>
 
 Contenido: Diagrama de base de datos que incluye:
