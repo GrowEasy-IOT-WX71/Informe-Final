@@ -35,7 +35,7 @@
 
 <br>
 
-Septiembre del 2023
+Septiembre del 2024
 
 <br><br>
 
@@ -46,6 +46,7 @@ Septiembre del 2023
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 28/08/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizaron los capítulos: Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
+| TP1 | 25/09/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizaron los capítulos: Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -74,6 +75,31 @@ Septiembre del 2023
 
     <div align=center>
         <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478259284119622/image.png?ex=66dbdd21&is=66da8ba1&hm=94ee942b968265581c40a58252ea50110cabaccbab14ea4ea490cd7f3d29beb3&"/>
+    </div>
+
+<br>
+
+- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo: 
+
+    <br>
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow]()
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes capítulos:
+
+    <br>
+
+    - **Capítulo V: Solution UI/UX Design**
+    - **Capítulo VI: Product Implementation, Validation & Deployment**
+
+    <div align=center>
+        <img src=""/>      
+    </div>
+
+    <div align=center>
+        <img src=""/>
     </div>
 
 <br><br>
@@ -1895,9 +1921,55 @@ de flujo en el siguiente enlace: [Applications Wireflow Diagrams](https://www.fi
 
 ## 6.1. Software Configuration Management
 
+En esta sección, estableceremos las pautas y reglas a seguir para mantener un proceso estable y uniforme durante el desarrollo de nuestra solución de software. 
+
 ### 6.1.1. Software Development Environment Configuration
 
+En esta sección abordaremos las herramientas utilizadas por nuestro equipo de desarrollo para una colaboración eficaz durante el ciclo de vida de nuestro producto, bajo el uso de marcos ágiles de desarrollo.
+
+**Project Management:**
+
+**Discord:** Aunque originalmente se diseñó como una plataforma de comunicación para gamers, Discord también se utiliza para diseñar y crear comunidades en línea y mejorar la experiencia de usuario a través de la comunicación y colaboración en grupos.
+
+**WhatsApp:** WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del equipo y colaborar en cierta medida.
+
+**Requirements Management:**
+
+**Google Docs:** Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos.
+
+**Miro:** Miro es una plataforma de pizarra en línea que se utiliza para colaborar en la ideación, planificación y diseño de proyectos. Es especialmente útil para la colaboración visual, como la creación de mapas mentales, diagramas y prototipos.
+
+**LucidChart:** Es una herramienta en línea para la creación de diagramas y gráficos. Permite a los usuarios diseñar diagramas de flujo, organigramas, mapas mentales y otros tipos de representaciones visuales de manera colaborativa y sencilla. 
+
+**Structurizr:** Es una plataforma en línea que sirve para la gestión y documentación de la arquitectura de software. Se centra en la documentación de arquitectura basada en modelos, lo que ayuda a mantener la coherencia y la integridad arquitectónica a lo largo del ciclo de vida del software.
+
+**Product UX/UI Design:**
+
+**Figma:** Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la nube. Se utiliza para crear prototipos interactivos, diseños de aplicaciones y colaboración en tiempo real en proyectos de diseño.
+
+**UXPressia:** UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio.
+
+**Software Development:**
+
+**IntelliJ IDEA:** IntelliJ IDEA es un potente entorno de desarrollo integrado (IDE) creado por JetBrains. Está diseñado para varios lenguajes de programación, pero es especialmente conocido por su excelente soporte para Java, Kotlin y otros lenguajes JVM. 
+
+**Visual Studio Code:** Es un IDE de Microsoft que soporta múltiples lenguajes de programación y facilita el desarrollo de aplicaciones, servicios y soluciones multiplataforma con herramientas avanzadas para depuración, pruebas y control de versiones.
+
+**Wokwi:** Es un simulador en línea para proyectos de electrónica, especialmente orientado a Arduino, ESP32 y otras placas de desarrollo. Permite a los usuarios crear, programar y probar circuitos sin necesidad de hardware físico, facilitando el aprendizaje y la experimentación en un entorno virtual.
+
+**Git:** Git es un sistema de control de versiones distribuido. Aunque no es un programa en sí mismo, es una tecnología esencial para el desarrollo de software y se usa para rastrear cambios en el código fuente y facilitar la colaboración entre programadores.
+
+**Software Documentation:**
+
+**GitHub:** GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
+
+
+
+
+
 ### 6.1.2. Source Code Management
+
+
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
