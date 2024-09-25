@@ -278,7 +278,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279286307486695425/pic_1.jpg?ex=66dbccb7&is=66da7b37&hm=a2b9542d645f5ca96b10131b9335760328781e3c22c64fa531e80732e8bbdfbb&" alt="Paolo Checa" width="900"/>
+            <img src="images/paoloperfil.jpg" alt="Paolo Checa" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -312,7 +312,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1279607692557811742/foto.jpg?ex=66dba687&is=66da5507&hm=3614158a6f43cfc079767c9d32f93927465a0b36483c4203174db1738854410c&" alt="Jesus Lazo Tapia" width="900"/>
+            <img src="images/jesusperfil.jpg" alt="Jesus Lazo Tapia" width="900"/>
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -417,7 +417,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262609047650325/arack.jpg?ex=66db6578&is=66da13f8&hm=8a2b78c347650b57ee0b393d202a1128bbfb647082b2e32686fbf3c3afd0f343&" alt="Jack Arana" width="900">
+            <img src="images/jackperfil.jpg" alt="Jack Arana" width="900">
         </td>
         <td align="left">
             <b>Nombres y Apellidos:</b>
@@ -649,7 +649,7 @@ Métricas:
 En esta sección, presentaremos nuestro Lean UX Canvas, que resume los aspectos clave de nuestro proyecto y las estrategias para abordarlos de manera efectiva. Este canvas se basa en los principios de Lean UX, que enfatizan la colaboración, la iteración y la validación continua para lograr resultados exitosos.
 
 <div align="center">
-    <img src="imagenes/leanUXCanvas.png" alt="leanuxcanvas"/>
+    <img src="images/leanUXCanvas.png" alt="leanuxcanvas"/>
 </div>
 
 ## 1.3. Segmentos objetivos
@@ -1859,9 +1859,31 @@ Recommendations está relacionada con BusinessRules (una recomendación puede es
 
 ## 5.4. Applications UX/UI Design
 
+El diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para las aplicaciones de
+Bioface School se centra en la creación de interfaces intuitivas y funcionales que faciliten la
+interacción de los usuarios con el sistema de reconocimiento facial. A continuación, se detallan
+los elementos clave del diseño de nuestras aplicaciones.
+
 ### 5.4.1. Applications Wireframes
 
+En esta sección, se presentan los wireframes de las aplicaciones, que proporcionan una representación
+visual de la estructura y el diseño de las diferentes pantallas. Los wireframes permiten visualizar
+cómo se organizarán los elementos en cada pantalla, garantizando una navegación clara y una
+experiencia de usuario fluida. Puedes ver los wireframes en el siguiente enlace: [Applications
+Wireframe](https://www.figma.com/design/QqbVi0QaqRGPHJgvgGN0LL/Applications-Wireframe?node-id=0-1&t=DcSTWQ19ix4rvGPD-1)
+
+<img src="images/applications_wireframes_mobile.png" alt="App Mobile Wireframes">
+<img src="images/applications_wireframes_web.png" alt="App Web Wireframes">
+
 ### 5.4.2. Applications Wireflow Diagrams
+
+Los diagramas de flujo de las aplicaciones muestran cómo los usuarios interactúan con las diferentes
+pantallas y funcionalidades dentro del sistema. Estos diagramas son esenciales para entender el
+recorrido del usuario y asegurar que cada paso sea lógico y eficiente. Puedes explorar los diagramas
+de flujo en el siguiente enlace: [Applications Wireflow Diagrams](https://www.figma.com/board/JvXV1XgcKcle2F6s4wRZQ3/Applications-Wireflow-Diagrams?node-id=0-1&t=X56m3q7u0YLnxhW5-1)
+
+<img src="images/applications_wireflow_diagrams_mobile.png" alt="App MObile Wireflow Diagrams">
+<img src="images/applications_wireflow_diagrams_web.png" alt="App Web Wireflow Diagrams">
 
 ### 5.4.3. Applications Mock-ups
 
