@@ -13,7 +13,7 @@
 
 # <center>Desarrollo de Soluciones IOT</center>
 
-## TB1 REPORT
+## TP REPORT
 
 **Sección:** WX71
 
@@ -269,10 +269,10 @@ Septiembre del 2024
 
 # Student Outcome
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| :------------------: | :-----------------: | :----------: |
-| <div style="text-align: justify;"> Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> | <div style="text-align: justify;"> **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Definimos en equipo el tema a desarrollar a lo largo del proyecto, definiendo tareas a cada uno. En mi caso, participé realizando el Startup Profile y la arquitectura del software. <br><br> **Jesus Lazo Tapia** <br> **TB1** <br> He estado en equipo participando en todas las reuniones, contribuyendo al impact mapping y To-Be Scenario Mapping, y colaborando en la toma de decisiones. <br><br> **Farid Hinostroza Mavila** <br> **TB1** <br> He presentado los resultados del análisis de usuarios mediante la creación de user personas y el empathy map, asegurándome de que la información fuera clara para todos los miembros del equipo. Además, participé en las discusiones sobre la matriz de tareas del usuario. <br><br> **Leonardo Taype Fernandez** <br> **TB1** <br> Participé activamente en las discusiones del equipo sobre la arquitectura del software, ofreciendo ideas para la integración de los distintos contextos del dominio. También colaboré en la elaboración de la documentación técnica y en la revisión de los componentes del proyecto. <br><br> **Jack Arana Ramos** <br> **TB1** <br> He tomado un rol proactivo en la coordinación de tareas y en la organización de reuniones. Mi contribución se ha centrado en la gestión de la planificación del proyecto y en asegurar que todos los miembros del equipo estén alineados con los objetivos y plazos establecidos. </div> | **TB1** <br> La colaboración y el liderazgo compartido han sido esenciales para el avance del proyecto, permitiendo una distribución equilibrada de tareas y una integración eficiente de contribuciones individuales. Esto ha resultado en un desarrollo cohesivo y bien fundamentado del Startup Profile y la arquitectura del software. |
-| <div style="text-align: justify;"> Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> | <div style="text-align: justify;"> **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Colaboramos activamente en equipo con el desarrollo de nuestro informe, completando nuestras tareas en conjunto dentro de nuestro repositorio en Github. <br><br> **Jesus Lazo Tapia** <br> **TB1** <br> He promovido un entorno colaborativo al ayudar con el markdown, participar en la planificación, y asegurar que todas las voces sean escuchadas, contribuyendo a cumplir nuestras metas. <br><br> **Farid Hinostroza Mavila** <br> **TB1** <br> He colaborado en la redacción de informes que incluyen el análisis de competidores, user personas, y la matriz de tareas de usuario. Además, documenté estos resultados en el repositorio de GitHub para facilitar su acceso por parte de todo el equipo. <br><br> **Leonardo Taype Fernandez** <br> **TB1** <br> He trabajado en la coordinación de tareas y en la planificación del proyecto, asegurando que todos los miembros del equipo tuvieran tareas claras y metas definidas. También he facilitado un ambiente de trabajo inclusivo al estar disponible para ayudar a mis compañeros y al fomentar la colaboración. <br><br> **Jack Arana Ramos** <br> **TB1** <br> He establecido metas claras y realistas para el equipo, facilitando la planificación de tareas y asegurando que el progreso se monitoree adecuadamente. He promovido un ambiente inclusivo al involucrar a todos los miembros en la toma de decisiones y al valorar sus aportes. </div> | **TB1** <br> La creación de un entorno colaborativo y la planificación estructurada han facilitado el cumplimiento de metas y objetivos del equipo. La participación activa de cada miembro en la planificación, redacción de informes y documentación ha optimizado el proceso de trabajo y garantizado que todos los aportes sean considerados y valorados. |
+| Criterio específico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones |
+| :------------------: |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :----------: |
+| <div style="text-align: justify;"> Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> | <div style="text-align: justify;"> **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Definimos en equipo el tema a desarrollar a lo largo del proyecto, definiendo tareas a cada uno. En mi caso, participé realizando el Startup Profile y la arquitectura del software. <br><br> **Jesus Lazo Tapia** <br> **TB1** <br> He estado en equipo participando en todas las reuniones, contribuyendo al impact mapping y To-Be Scenario Mapping, y colaborando en la toma de decisiones. <br><br> **Farid Hinostroza Mavila** <br> **TB1** <br> He presentado los resultados del análisis de usuarios mediante la creación de user personas y el empathy map, asegurándome de que la información fuera clara para todos los miembros del equipo. Además, participé en las discusiones sobre la matriz de tareas del usuario. <br><br> **Leonardo Taype Fernandez** <br> **TB1** <br> Participé activamente en las discusiones del equipo sobre la arquitectura del software, ofreciendo ideas para la integración de los distintos contextos del dominio. También colaboré en la elaboración de la documentación técnica y en la revisión de los componentes del proyecto. <br><br> **Jack Arana Ramos** <br> **TB1** <br> He tomado un rol proactivo en la coordinación de tareas y en la organización de reuniones. Mi contribución se ha centrado en la gestión de la planificación del proyecto y en asegurar que todos los miembros del equipo estén alineados con los objetivos y plazos establecidos. <br> **TP** <br> He presentado con éxito el diseño UX/UI de las Aplicaciones, contribuyendo en el desarrollo de los wireframes y wireflow diagrams. </div> | **TB1** <br> La colaboración y el liderazgo compartido han sido esenciales para el avance del proyecto, permitiendo una distribución equilibrada de tareas y una integración eficiente de contribuciones individuales. Esto ha resultado en un desarrollo cohesivo y bien fundamentado del Startup Profile y la arquitectura del software. |
+| <div style="text-align: justify;"> Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</div> |                                                                         <div style="text-align: justify;"> **Paolo Sebastián Checa Apolinario** <br> **TB1** <br> Colaboramos activamente en equipo con el desarrollo de nuestro informe, completando nuestras tareas en conjunto dentro de nuestro repositorio en Github. <br><br> **Jesus Lazo Tapia** <br> **TB1** <br> He promovido un entorno colaborativo al ayudar con el markdown, participar en la planificación, y asegurar que todas las voces sean escuchadas, contribuyendo a cumplir nuestras metas. <br><br> **Farid Hinostroza Mavila** <br> **TB1** <br> He colaborado en la redacción de informes que incluyen el análisis de competidores, user personas, y la matriz de tareas de usuario. Además, documenté estos resultados en el repositorio de GitHub para facilitar su acceso por parte de todo el equipo. <br><br> **Leonardo Taype Fernandez** <br> **TB1** <br> He trabajado en la coordinación de tareas y en la planificación del proyecto, asegurando que todos los miembros del equipo tuvieran tareas claras y metas definidas. También he facilitado un ambiente de trabajo inclusivo al estar disponible para ayudar a mis compañeros y al fomentar la colaboración. <br><br> **Jack Arana Ramos** <br> **TB1** <br> He establecido metas claras y realistas para el equipo, facilitando la planificación de tareas y asegurando que el progreso se monitoree adecuadamente. He promovido un ambiente inclusivo al involucrar a todos los miembros en la toma de decisiones y al valorar sus aportes. <br> **TP** <br> He facilitado el índice de contenido del markdown para esta entrega, promoviendo una mayor facilidad para mis compañeros en la redacción del informe en el Readme.md </div>                                                                         | **TB1** <br> La creación de un entorno colaborativo y la planificación estructurada han facilitado el cumplimiento de metas y objetivos del equipo. La participación activa de cada miembro en la planificación, redacción de informes y documentación ha optimizado el proceso de trabajo y garantizado que todos los aportes sean considerados y valorados. |
 
 
 <br><br>
@@ -1161,9 +1161,7 @@ En esta sección, abordaremos el proceso de **Descubrimiento del Contexto del Ca
 
 A continuación, se presenta la imagen de referencia del mapeo realizado en [Miro](https://miro.com/app/board/uXjVKnyuUYc=/):
 
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262690048311296/image.png?ex=66db658b&is=66da140b&hm=5e8da460916f77ee0de71f03292fca536fe4fd0c18b01abb012be36a458de460&"/>
-</div>
+<img src="images/candidate_context_discovery.png" alt="Candidate Context Discovery">
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
@@ -1173,31 +1171,7 @@ Para la creación de los diagramas de flujos de mensajes, hemos utilizado la her
 
 A continuación, se presenta las imágenes de referencia del modelado realizado en [Figma](https://www.figma.com/board/Hqho4dHjN1knvm4cqb4FLY/Domain-Message-Flows-Modeling?node-id=0-1\&t=UJPsVYgekUVI6V6A-1):
 
-**Login and Register Context**
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831048097854/image.png?ex=66db65ad&is=66da142d&hm=99c6082fc61157d8108df2e4f16967142570e05090bb10860faccd2f9fe0f761&"/>
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831446691944/image.png?ex=66db65ad&is=66da142d&hm=1ecd4877e651e7f346853a2df80eeb84d907ac4ae9014857210715c954d1dc49&"/>
-</div>
-
-**Monitoring Context**  
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831681310760/image.png?ex=66db65ad&is=66da142d&hm=96433192c0e490b27ae018cf968fa08f4e966f4303cba6dbbd43f4369fa8c425&"/>
-</div>
-
-**Notification Context**  
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262831991820390/image.png?ex=66db65ad&is=66da142d&hm=c47a4a2cea59ffdca7f2fd755a0de9a319f2fce545f046255475d901ba599d4b&"/>
-</div>
-
-**Report Context**  
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262832289484800/image.png?ex=66db65ad&is=66da142d&hm=b2d4af2d38176a42130e445c9fca3e2ea077b0c833c0bbb299c660e67d1c7c43&"/>
-</div>
-
-**Recommendation Context**  
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280262832503390271/image.png?ex=66db65ad&is=66da142d&hm=bf4c9273f11008271568eda78ae59a32b5517beeb2aa8a3ad655e642b9123d9b&"/>
-</div>
+<img src="images/domain_message_flows_modeling.png" alt="Domain Message Flows Modeling">
 
 #### 4.1.1.3. Bounded Context Canvases
 
@@ -1207,13 +1181,7 @@ El objetivo de los Bounded Context Canvases es identificar y documentar los lím
 
 A continuación, se presenta las imágenes de referencia del canvas de contextos realizado en [Miro](https://miro.com/welcomeonboard/V1h4alVMNXVwb1FpWHhlYnJXRnhYT0RuY3dUUlpPVDFIbllPR1prZFZrSGVGZ2RpSDc2ZWdaSzMydGJ0Um5ka3wzNDU4NzY0NTkzNDI3ODE3NjA2fDI=?share\_link\_id=388280836822):
 
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309077254237/image.png?ex=66db661f&is=66da149f&hm=821e93d82a4dcfdea35d8c3faf49c4e99c99fa364b8ab9016959cc824d975e7b&"/>
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309332844669/image.png?ex=66db661f&is=66da149f&hm=6563014a107612e2cc4d75cb4a449c81513799fba318bbd029fc9afe6617bf87&" />
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309593153566/image.png?ex=66db661f&is=66da149f&hm=da82f0e28b75f585f1e4c8cb96840873efcaf76d5af5ccbedf5b4590e81067d3&" />
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263309853065390/image.png?ex=66db661f&is=66da149f&hm=182553154080362495114176cfa05c1f8fdfa14a66f65a2ea32c937bc0df706f&" />
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263310188478474/image.png?ex=66db661f&is=66da149f&hm=b2394c43f626baef4c7ec4ddeb994b0d0daf84c8fa0859cd2df5ea67c739db8e&" />
-</div>
+<img src="images/bounded_context_canvases.png" alt="Bounded Context Canvas">
 
 ### 4.1.2. Context Mapping
 
@@ -1223,9 +1191,7 @@ Utilizando la herramienta Lucidchart, hemos desarrollado un diagrama detallado q
 
 A continuación, se presenta la imagen de referencia del mapeo realizado en [Lucidchart](https://lucid.app/lucidchart/bd13a4a3-1ff1-461e-bd38-8dd32358d38d/edit?viewport\_loc=-221%2C69%2C2155%2C1115%2C0\_0\&invitationId=inv\_f25e463d-9272-4a27-93f5-a9dc1d179113):
 
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1280263375091273841/image.png?ex=66db662e&is=66da14ae&hm=a8f9fade61cde0a1464d4e078868b034a7975158a5fdbbdcfe9155378bbe3b14&"/>
-</div>
+<img src="images/context_mapping.png" alt="Context Mapping">
 
 ### 4.1.3. Software Architecture
 
@@ -2104,14 +2070,16 @@ Para el despliegue de nuestra aplicación web, utilizamos Firebase, herramienta 
 # Conclusiones
 
 - Definir el perfil de la startup nos permite conocer a profundidad el alcance que buscamos implementar y desarrollar, para así poder cumplir con las necesidades de nuestros usuarios.
-
 - El análisis competitivo es esencial para identificar las fortalezas y debilidades de los competidores, lo que nos permite definir estrategias claras para diferenciarnos en el mercado.
-
 - El uso de herramientas como el Lean UX Canvas facilita la identificación temprana de problemas y oportunidades, ayudando a formular hipótesis de soluciones que se alineen con las expectativas del usuario final.
-
 - La segmentación de usuarios en perfiles específicos nos ayuda a comprender mejor sus necesidades y comportamientos, permitiendo diseñar soluciones más personalizadas y efectivas.
-
 - La integración de prácticas de Domain-Driven Design en el diseño de software garantiza que la solución sea coherente con los objetivos del negocio, asegurando una arquitectura escalable y adaptada a los dominios específicos del proyecto.
+
+- El diseño UI/UX juega un papel fundamental en la experiencia de los usuarios de nuestra plataforma, asegurando que la interfaz sea intuitiva y atractiva, lo que facilita el monitoreo de cultivos a través de la tecnología IoT.
+- La arquitectura de la información permite que los usuarios encuentren rápidamente las herramientas y recursos que necesitan, optimizando la navegación y asegurando una experiencia fluida para aficionados y expertos en hidroponía.
+- La implementación de una adecuada guía de estilo de código y las convenciones establecidas promueven la calidad del software, facilitando su mantenimiento y evitando errores a largo plazo.
+- La ejecución de Sprints nos ha permitido avanzar de manera iterativa en el desarrollo del producto, validando continuamente nuestras soluciones y ajustándose según los resultados de las revisiones de Sprint y las pruebas.
+- El proceso de validación de los servicios y la documentación generada en cada Sprint asegura que las soluciones entregadas cumplan con los estándares de calidad y funcionalidad que nos hemos propuesto.
 
 
 # Bibliografía
