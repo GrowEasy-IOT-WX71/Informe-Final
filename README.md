@@ -1821,23 +1821,131 @@ Recommendations está relacionada con BusinessRules (una recomendación puede es
 
 # Capítulo V: Solution UI/UX Design
 
+# Capítulo V: Solution UI/UX Design
+
 ## 5.1. Style Guidelines
+En este punto se abordarán las directrices que nuestra startup utilizará para presentar de manera uniforme y efectiva nuestros productos.
 
 ### 5.1.1. General Style Guidelines
+A continuación se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.
 
-### 5.1.2. Web, Mobile and IoT Style Guidelines
+En esta sección detallaremos cómo se deben utilizar nuestros logotipos y elementos visuales para transmitir nuestra visión de desarrollo sostenible y enriquecimiento de las comunidades. A continuación se muestra nuestro logo:
+
+<div align="center">
+    <img src="images/logo.png"/>
+</div>
+
+**Tipografía principal**: Roboto.
+
+- Referencia: [Roboto Font](https://fonts.google.com/specimen/Roboto?query=roboto)
+
+Aquí definimos las tipografías que reflejan nuestra identidad y proporcionaremos pautas sobre tamaños y estilos de fuente para garantizar una presentación coherente en todas nuestras comunicaciones escritas. La tipografía utilizada será Roboto que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varió entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px), y 3 rem (48 px). Asimismo, para los iconos utilizaremos los iconos de Angular Material:
+
+- Referencia: [Material Icons](https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/)
+
+**Colores principales**:
+<div align="center">
+    <img src="images/paletadeColores.png"/>
+</div>
+
+- Primario: Verde (#27AE60) para reflejar la sostenibilidad y la relación con la agricultura.
+- Secundario: Azul (#3498DB) para el enfoque tecnológico y profesional.
+- Tercero: Blanco (#FFFFFF) para fondos y mayor legibilidad.
+- Contraste: Negro suave (#2C3E50) para textos en zonas claras.
+
+**Botones**:
+- Fondo verde con texto blanco para acciones principales (ej. "Guardar", "Aceptar").
+- Botones secundarios en azul con texto blanco.
+
+**Tamaños de texto**:
+- Título principal (H1): 32px negrita.
+- Títulos secundarios (H2): 24px negrita.
+- Texto principal: 16px normal.
+- Texto secundario (instrucciones o notas): 14px cursiva.
+
+### 5.1.2. Web Mobile and IoT Style Guidelines
+
+#### Interfaz web:
+Diseño limpio con un enfoque minimalista usando fondo blanco y secciones divididas por bloques de color.
+
+- Menú de navegación en la parte superior con accesos directos a "Inicio", "Dashboard", "Dispositivos", y "Configuración".
+
+#### Interfaz móvil:
+- Menú hamburguesa para facilitar el acceso.
+- Optimización para pantallas pequeñas con botones grandes y espaciados para accesibilidad.
+- Uso prominente de iconos intuitivos.
+
+#### Interfaz IoT:
+- Pantallas simples y legibles en dispositivos IoT con indicadores claros de datos importantes (temperatura, humedad, etc.).
+- Uso de colores de alerta para notificaciones: verde para normal, amarillo para advertencia, rojo para alertas críticas.
 
 ## 5.2. Information Architecture
 
 ### 5.2.1. Organization Systems
+La información se organizará en cuatro secciones clave:
+
+1. **Dashboard**: Monitoreo en tiempo real de los sensores con gráficos y estadísticas clave.
+2. **Dispositivos**: Gestión de todos los dispositivos IoT conectados, incluyendo opciones para añadir, configurar o eliminar.
+3. **Alertas**: Visualización de todas las alertas recibidas con la opción de configurarlas.
+4. **Configuración**: Preferencias personales, ajustes del sistema, y exportación de datos.
 
 ### 5.2.2. Labeling Systems
+Uso de etiquetas claras y consistentes:
+- "Sensor de Temperatura", "Niveles de Humedad", "Alertas de Riego".
+- Evitar tecnicismos para usuarios aficionados, pero proveer detalles adicionales para usuarios avanzados en secciones secundarias.
 
 ### 5.2.3. SEO Tags and Meta Tags
+Los meta tags que serán incorporados en la plataforma **GrowEasy** son los siguientes:
+
+**Landing Page**:  
+- Título: `<title>Optimiza tus cultivos con GrowEasy Innovators: Monitoreo inteligente y gestión automatizada a través de IoT.</title>`
+- Descripción:  
+   `<meta name="description" content="Facilitamos el control y automatización de cultivos con tecnología de punta para agricultores y aficionados." />`
+- Palabras clave:  
+   `<meta name="keywords" content="IoT, agricultura, hidroponía, monitoreo de cultivos, tecnología agrícola, sensores inteligentes" />`
+- Autor:  
+   `<meta name="author" content="GrowEasy" />`
+- Copyright:  
+   `<meta name="copyright" content="© GrowEasy Innovators 2024" />`
 
 ### 5.2.4. Searching Systems
+Los **Searching Systems** se han diseñado utilizando un lenguaje claro y formal. Aquí se enumeran las funciones clave:
+
+| Elemento                         | Función                                                                                             |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------|
+| Icono complementario de filtros    | Relacionados con los datos de los sensores IoT como temperatura, humedad, luz, y otros parámetros.   |
+| Barra de filtrado por tipo de cultivo | Ordena los datos de monitoreo según el tipo de cultivo (hortalizas, frutas, flores, etc).            |
 
 ### 5.2.5. Navigation Systems
+Nuestros sistemas de navegación brindarán a los usuarios la capacidad de monitorear y gestionar sus cultivos de diversas formas. Están basados en los siguientes principios:
+
+- **Simplicidad**: Todas las funciones clave estarán accesibles en un máximo de dos clics desde cualquier página principal.
+- **Consistencia**: Los menús, botones, y elementos de navegación serán consistentes en todas las plataformas (web y móvil).
+- **Retroalimentación visual**: Cambios de color, iconos resaltados, y notificaciones para que el usuario entienda las acciones realizadas.
+
+#### Estructura de Navegación en la Landing Page:
+- Menú Principal:  
+  - Inicio
+  - Monitorear Cultivos
+  - Sensores IoT
+  - Alertas
+  - Contactar Soporte
+
+- Botones de acción rápida:
+  - Registrarse/Iniciar Sesión
+  - Monitorear Ahora
+
+#### Estructura de Navegación en la Aplicación Web:
+- Menú lateral o superior con las siguientes secciones:
+  - **Dashboard**: Resumen general del estado de los cultivos.
+  - **Monitoreo en Tiempo Real**: Visualización de datos de sensores IoT en tiempo real.
+  - **Gestión de Sensores**: Añadir, eliminar o configurar nuevos sensores.
+  - **Alertas**: Configurar alertas personalizadas.
+  - **Reportes**: Generar y descargar reportes históricos.
+  - **Perfil**: Actualizar información personal y preferencias.
+
+
+
 
 ## 5.3. Landing Page UI Design
 
