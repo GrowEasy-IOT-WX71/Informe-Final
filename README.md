@@ -285,7 +285,7 @@ Nuestra startup recibe el nombre de GrowEasy Innovators, la cual nace para ofrec
 <br>
 
 <div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1279240789611778109/1281478625417363468/logo.png?ex=66dbdd79&is=66da8bf9&hm=abc8f0935f276190f8c02faf47cb127790daa56d987666cab5efccabc92dff13&" alt="logo" style="margin-bottom: 5px;" width="500"/>      
+    <img src="images/logo.png" alt="logo" style="margin-bottom: 5px;" width="500"/>      
 </div>
 
 <div style="text-align: justify;">
