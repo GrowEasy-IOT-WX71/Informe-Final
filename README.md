@@ -2005,14 +2005,83 @@ Para el despliegue del Landing Page, utilizamos Github Pages, ya que nos facilit
 Para el despliegue de nuestra aplicación web, utilizamos Firebase, herramienta que ofrece el hosting necesario para publicar nuestra implementación hacia internet.
 
 
-
 ## 6.2. Landing Page, Services & Applications Implementation
 
 ### 6.2.1. Sprint
 
 #### 6.2.1.1. Sprint Planning 1
 
+| Sprint 1 | Diseño de la aplicación y funcionalidades |
+|----------|-------------------------------------------|
+| Date | 18/09/2024 |
+| Time | 19:00 |
+| Location | Reunión realizada mediante Discord | 
+| Prepared By | Checa Apolinario, Paolo Sebastián |
+| Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Lazo Tapia, Jesús Antonio / Hinostroza Mavila, Farid Rolando / Taype Fernandez, Leonardo / Arana Ramos, Jack |
+| Sprint 1 Goal | Realizar y desplegar el Landing Page | 
+| Sprint 1 Velocity | 7 |
+| Sum of Story Points | 5 |
+
 #### 6.2.1.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Tareas</th>
+    <th>Estimación</th>
+    <th>Persona Asignada</th>
+    <th>Total Estimation (Hours)</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td rowspan="2">US02</td>
+    <td rowspan="2">Visualización del Landing Page</td>
+    <td rowspan="2">Como aficionado y/o experto Quiero visualizar toda la información de las funcionalidades del producto inteligente Para conocer a fondo los beneficios para mis cultivos.</td>
+    <td>Desarrollo de la sección servicios en la página web.</td>
+    <td>2</td>
+    <td>Checa Apolinario Paolo Sebastián</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Agregar el contenido de cada uno de los servicios.</td>
+    <td>1</td>
+    <td>Taype Fernandez Leonardo</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Visualización de las funcionalidades que ofrecen en el landing page</td>
+    <td rowspan="2">Como aficionado y/o experto Quiero visualizar los beneficios del producto inteligente Para entender las funcionalidades que esta ofrece.</td>
+    <td>Crear una sección de beneficios donde se describan las ventajas de usar las aplicaciones.</td>
+    <td>4</td>
+    <td>Lazo Tapia Jesús Antonio</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Creación del contenido de los beneficios.</td>
+    <td>1</td>
+    <td>Hinostroza Mavila Farid Rolando</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US04</td>
+    <td rowspan="2">Visualización de los testimonios de personas sobre la landing page</td>
+    <td rowspan="2">Como aficionado y/o experto Quiero visualizar los testimonios de distintas personas acerca del producto inteligente para saber si cumple con su objetivo.</td>
+    <td>Realizar encuestas a usuarios para obtener la información necesaria.</td>
+    <td>1</td>
+    <td>Arana Ramos Jack</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Implementar la sección de testimonios para exponer las experiencias de los usuarios.</td>
+    <td>2</td>
+    <td>Checa Apolinario Paolo Sebastián</td>
+  </tr>
+</table>
+
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 
