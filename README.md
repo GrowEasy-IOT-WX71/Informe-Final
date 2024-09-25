@@ -2082,8 +2082,14 @@ Para el despliegue de nuestra aplicación web, utilizamos Firebase, herramienta 
   </tr>
 </table>
 
-
 #### 6.2.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on |
+|------------|--------|-----------|----------------|---------------------|--------------|
+| GrowEasy-IOT-WX71/LandingPage | main | f356e78 | Primera versión de la landing page | - | 22/09/2024 |
+| GrowEasy-IOT-WX71/LandingPage | main | 359bbe8 | feature: seccion hero | - | 25/09/2024 |
+| GrowEasy-IOT-WX71/LandingPage | main | 96edf19 | feat: update hero section | - | 25/09/2024 |
+| GrowEasy-IOT-WX71/LandingPage | main | ee29772 | feat: update styles and add groweasy.png | - | 25/09/2024 |
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
