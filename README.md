@@ -1963,17 +1963,48 @@ En esta sección abordaremos las herramientas utilizadas por nuestro equipo de d
 
 **GitHub:** GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
 
-
-
-
-
 ### 6.1.2. Source Code Management
 
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en una organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+Repositorio del Landing Page: https://github.com/GrowEasy-IOT-WX71/LandingPage 
+Repositorio de la aplicación web: https://github.com/GrowEasy-IOT-WX71/groweasy-app 
+
+Estos repositorios serán trabajados utilizando la metodología Gitflow, lo que nos ayudará a realizar un trabajo en conjunto de manera ágil y óptima.
+
+**Main:** En esta rama se publicarán las versiones completas del proyecto, por lo cual no debe presentar errores en su ejecución. Es la versión que será desplegada y podrá ser vista por los usuarios.
+
+**Develop:** A partir de esta rama se crean y fusionan los features que se desarrollan en los sprints correspondientes.
+
+**Feature:** Estas ramas se crean cuando se necesite agregar funcionalidades al servicio. Se crean a partir de la rama develop y se actualizan a la brevedad posible para evitar problemas de colisión.
 
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución, las cuales son:
+
+**HTML:** Es el lenguaje estándar empleado para estructurar y crear el contenido de páginas web mediante etiquetas y elementos que especifican su presentación y comportamiento. Según W3Schools (s.f.), para mantener la claridad y coherencia del código, se recomienda seguir ciertas convenciones, como el uso consistente de espacios o tabulaciones, escribir en minúsculas los nombres de etiquetas y archivos, emplear comillas dobles para atributos, y vincular archivos CSS y JavaScript mediante los elementos "link" y "script" respectivamente. Además, se enfatiza la importancia de cerrar cada elemento adecuadamente y de incluir comentarios descriptivos utilizando la sintaxis adecuada ("<!" para iniciar y "->" para cerrar).
+
+**CSS:** es un idioma de hojas de estilo que se emplea para dar estilo y diseño a las páginas web. Según MDN Web Docs (s.f.), para mejorar la legibilidad del código, es importante mantener los espacios apropiados, utilizar nombres de clases y selectores en minúsculas y descriptivos que reflejen su función, agrupar propiedades relacionadas en el mismo bloque y utilizar identificadores (IDs) para modificar atributos específicos según sea necesario.
+
+**JavaScript:** Es un lenguaje de programación fundamental para agregar funcionalidades a las páginas web, permitiendo la manipulación del contenido y la respuesta a las acciones del usuario. Según MDN Web Docs (s.f.), para mejorar la comprensión del código, es recomendable utilizar nombres de variables y funciones en minúsculas, sin abreviaturas y que describan claramente su propósito. Además, se sugiere dividir funciones extensas en funciones más pequeñas para facilitar la lectura y el mantenimiento del código.
+
+**Angular:** Es un framework para desarrollar aplicaciones web escalables y dinámicas, construido sobre TypeScript. Según la documentación oficial de Angular (s.f.), se recomienda utilizar una nomenclatura descriptiva y separar las palabras con guiones para mejorar la legibilidad del código. Además, se aconseja organizar los componentes, módulos y servicios en una estructura de carpetas para mantener una organización clara y coherente del proyecto.
+
+**Gherkin:** Es un lenguaje específico de dominio (DSL) diseñado para abordar problemas en pasos muy específicos. Su objetivo es ser legible y comprensible tanto para técnicos como para personas no técnicas, como profesionales del negocio. Según Cucumber (s.f.), Gherkin utiliza palabras clave como "Given" (dado), "When" (cuando), "Then" (entonces) y "And" (y) para estructurar escenarios claros y comprensibles. Además, se utilizan tablas para representar datos de entrada y salida en los escenarios. Es importante agregar solo comentarios significativos (líneas que comienzan con "#") y que cada archivo Gherkin contenga una única característica, que a su vez contiene uno o más escenarios.
+
+
 ### 6.1.4. Software Deployment Configuration
+
+Describiremos los pasos que seguimos para el despliegue de los proyectos realizados en esta entrega.
+
+**Landing Page:**
+Para el despliegue del Landing Page, utilizamos Github Pages, ya que nos facilita esta herramienta al alojar nuestro código en un repositorio en nuestra comunidad, y activar la opción correspondiente para que se genere el enlace a la página.
+
+**Web Application:**
+Para el despliegue de nuestra aplicación web, utilizamos Firebase, herramienta que ofrece el hosting necesario para publicar nuestra implementación hacia internet.
+
+
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
