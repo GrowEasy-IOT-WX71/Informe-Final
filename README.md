@@ -1982,10 +1982,22 @@ de flujo en el siguiente enlace: [Applications Wireflow Diagrams](https://www.fi
 <img src="images/applications_wireflow_diagrams_web.png" alt="App Web Wireflow Diagrams">
 
 ### 5.4.3. Applications Mock-ups
+<img src="images/mockup - web 1.png" alt="App Web Wireflow Diagrams">
+<img src="images/mockup web 2.png" alt="App Web Wireflow Diagrams">
+<img src="images/mockup-mobile-1.png" alt="App Web Wireflow Diagrams">
+<img src="images/mockup-mobile-2.png" alt="App Web Wireflow Diagrams">
+[Figma](https://www.figma.com/design/9wb3lGc5giLV4KEyFty6bf/Mobile-Mockups-and-Prototyping?node-id=0-1&t=BjmklCBhCvcbcuJN-1)
 
 ### 5.4.4. Applications User Flow Diagrams
+<img src="images/mockup-flow-mobile.png" alt="App Web Wireflow Diagrams">
+<img src="images/mockup-flow-web.png" alt="App Web Wireflow Diagrams">
+[Figma](https://www.figma.com/board/Ik78rH11emEGTPXNVfI7Mt/Untitled?node-id=0-1&t=6rvRf5q9NhL7tNPn-1)
 
 ## 5.5. Applications Prototyping
+<img src="images/prototyping-mobile.png" alt="App Web Wireflow Diagrams">
+<img src="images/prototyping-web.png" alt="App Web Wireflow Diagrams">
+[Figma](https://www.figma.com/proto/9wb3lGc5giLV4KEyFty6bf/Application-Mockups?node-id=12-29&node-type=canvas&t=Y2X2EgX3WIX3EKtB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A29&share=1)
+
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
