@@ -1955,6 +1955,7 @@ Nuestros sistemas de navegación brindarán a los usuarios la capacidad de monit
 <img src="images/wireframe4.png" alt="wireframe">
 <img src="images/wireframe5.png" alt="wireframe">
 <br>
+
 ### 5.3.2. Landing Page Mock-up
 
 <img src="images/mockup1.png" alt="wireframe">
@@ -1963,6 +1964,7 @@ Nuestros sistemas de navegación brindarán a los usuarios la capacidad de monit
 <img src="images/mockup4.png" alt="wireframe">
 <img src="images/mockup5.png" alt="wireframe">
 <br>
+
 ## 5.4. Applications UX/UI Design
 
 El diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para las aplicaciones de
