@@ -37,6 +37,10 @@
 
 Septiembre del 2024
 
+<br>
+
+Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ESkLifOMLsBGrYEzoLaA6iYBScQ2Jzd_gW5-dVg3Cbkugw?e=yM9rQR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 <br><br>
 
 </div>
