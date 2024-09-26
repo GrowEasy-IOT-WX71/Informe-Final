@@ -75,6 +75,8 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
 
     <img src="images/insight1TB1.png" alt="insight1TB1">
 
+    <br>
+
     <img src="images/insight2TB1.png" alt="insight2TB1">
 
 <br>
@@ -97,6 +99,8 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
     <div align=center>
         <img src="images/insight1TP.png"/>      
     </div>
+
+    <br>
 
     <div align=center>
         <img src="images/insight2TP.png"/>
