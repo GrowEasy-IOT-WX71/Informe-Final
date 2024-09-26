@@ -91,11 +91,11 @@ Septiembre del 2024
     - **Capítulo VI: Product Implementation, Validation & Deployment**
 
     <div align=center>
-        <img src=""/>      
+        <img src="images/insight1TP.png"/>      
     </div>
 
     <div align=center>
-        <img src=""/>
+        <img src="images/insight2TP.png"/>
     </div>
 
 <br><br>
