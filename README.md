@@ -2120,7 +2120,7 @@ Para el despliegue de nuestra aplicación web, utilizamos Firebase, herramienta 
 | Location | Reunión realizada mediante Discord | 
 | Prepared By | Checa Apolinario, Paolo Sebastián |
 | Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Lazo Tapia, Jesús Antonio / Hinostroza Mavila, Farid Rolando / Taype Fernandez, Leonardo / Arana Ramos, Jack |
-| Sprint 1 Goal | Realizar y desplegar el Landing Page | 
+| Sprint 1 Goal | Nuestro foco es realizar y desplegar la Landing Page de nuestro proyecto. <br> Creemos que esto permitirá una experiencia inicial de navegación para los usuarios y facilitará la visibilidad del producto. <br> Confirmaremos esto cuando los usuarios puedan acceder a la Landing Page y navegar por la información del producto en ella. | 
 | Sprint 1 Velocity | 7 |
 | Sum of Story Points | 5 |
 
