@@ -2251,6 +2251,15 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on |
+|------------|--------|-----------|----------------|---------------------|--------------|
+| GrowEasy-IOT-WX71/groweasy-api | master | 3ae67fa | chore: add profiles | - | 14/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-api | master | e266567 | fix: update monitoring model and services | - | 23/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-api | master | 0512831 | chore: update database mysql | - | 26/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-api | master | 1f49662 | chore: deploy | - | 26/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-api | naster | 4aae4da | change: tests | - | 26/10/2024 |
+
+
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
