@@ -262,6 +262,18 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
     - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
     - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
     - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
+  - [6.2.2. Sprint 2](#622-sprint-2)
+    - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
+    - [6.2.2.2. Sprint Backlog 2](#6222-sprint-backlog-2)
+    - [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
+    - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
+    - [6.2.2.5. Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review)
+    - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
+    - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
+    - [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint)
+
+
+    
 
 ### [Conclusiones](#conclusiones)
 
@@ -2230,6 +2242,27 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
 <img src="images/collaborationTP.JPG" alt="collaborationTP">
+
+### 6.2.2. Sprint 2
+
+#### 6.2.2.1. Sprint Planning 2
+
+#### 6.2.2.2. Sprint Backlog 2
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint
+
+
+
 
 # Conclusiones
 
