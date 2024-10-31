@@ -2260,7 +2260,8 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 | GrowEasy-IOT-WX71/groweasy-api | master | 4aae4da | change: tests | - | 26/10/2024 |
 | GrowEasy-IOT-WX71/APP-GrowEasy | main | 5649804 | initial commit | - | 20/10/2024 |
 | GrowEasy-IOT-WX71/APP-GrowEasy | main | 6e7afdd | appwebversion1 | - | 27/10/2024 |
-
+| GrowEasy-IOT-WX71/groweasy-flutter-app | master | b0d5760 | initial commit | - | 23/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-flutter-app | master | 8955869 | feat(): added notification screen and profile screen | - | 27/10/2024 |
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
