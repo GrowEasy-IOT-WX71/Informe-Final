@@ -2257,7 +2257,9 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 | GrowEasy-IOT-WX71/groweasy-api | master | e266567 | fix: update monitoring model and services | - | 23/10/2024 |
 | GrowEasy-IOT-WX71/groweasy-api | master | 0512831 | chore: update database mysql | - | 26/10/2024 |
 | GrowEasy-IOT-WX71/groweasy-api | master | 1f49662 | chore: deploy | - | 26/10/2024 |
-| GrowEasy-IOT-WX71/groweasy-api | naster | 4aae4da | change: tests | - | 26/10/2024 |
+| GrowEasy-IOT-WX71/groweasy-api | master | 4aae4da | change: tests | - | 26/10/2024 |
+| GrowEasy-IOT-WX71/APP-GrowEasy | main | 5649804 | initial commit | - | 20/10/2024 |
+| GrowEasy-IOT-WX71/APP-GrowEasy | main | 6e7afdd | appwebversion1 | - | 27/10/2024 |
 
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
