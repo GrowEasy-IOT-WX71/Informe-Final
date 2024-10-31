@@ -2267,6 +2267,18 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
 
+Para esta entrega, se realizó la implementación de la aplicación web, aplicación móvil, servicio web y el servicio IOT en Wokwi.
+
+<img src="images/app-login.jpg" alt="app login">
+
+Enlace a la app web: https://groweasyapp.netlify.app
+
+<br>
+
+<img src="images/wokwi.jpg" alt="wokwi">
+
+Enlace al wokwi: https://wokwi.com/projects/412220505930941441 
+
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
