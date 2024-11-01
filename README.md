@@ -2094,8 +2094,13 @@ En esta sección abordaremos las herramientas utilizadas por nuestro equipo de d
 
 Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en una organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
 
-Repositorio del Landing Page: https://github.com/GrowEasy-IOT-WX71/LandingPage 
+Repositorio del Landing Page: https://github.com/GrowEasy-IOT-WX71/LandingPage
+<br>
 Repositorio de la aplicación web: https://github.com/GrowEasy-IOT-WX71/groweasy-app 
+<br>
+Repositorio de la aplicación móvil: https://github.com/GrowEasy-IOT-WX71/groweasy-flutter-app
+<br>
+Wokwi IOT: https://wokwi.com/projects/412220505930941441
 
 Estos repositorios serán trabajados utilizando la metodología Gitflow, lo que nos ayudará a realizar un trabajo en conjunto de manera ágil y óptima.
 
