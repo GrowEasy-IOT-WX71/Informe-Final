@@ -2249,6 +2249,97 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 
 #### 6.2.2.2. Sprint Backlog 2
 
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Tareas</th>
+    <th>Estimación</th>
+    <th>Persona Asignada</th>
+    <th>Total Estimation (Hours)</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td rowspan="2">US01</td>
+    <td rowspan="2">Registro de Usuario</td>
+    <td rowspan="2">Como aficionado y/o experto quiero registrarme en la página para observar todo lo que ofrece el servicio.</td>
+    <td>Crear la interfaz de registro de usuario</td>
+    <td>1</td>
+    <td>Lazo Tapia, Jesús Antonio</td>
+    <td rowspan="2">2</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Implementar la lógica de registro en el backend</td>
+    <td>1</td>
+    <td>Arana Ramos, Jack</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US05</td>
+    <td rowspan="3">Monitoreo en tiempo real de los parámetros del cultivo</td>
+    <td rowspan="3">Como aficionado, quiero monitorear en tiempo real los parámetros de mi cultivo (como temperatura, humedad y luz), para poder ajustar las condiciones y asegurarme de que mis plantas crezcan saludables.</td>
+    <td>Implementar los sensores IoT con la plataforma Wokwi para capturar datos de temperatura, humedad y luz</td>
+    <td>3</td>
+    <td>Checa Apolinario, Paolo Sebastián</td>
+    <td rowspan="3">8</td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>Configurar la API en el backend que reciba los datos de los sensores IoT y los almacene en la base de datos</td>
+    <td>3</td>
+    <td>Arana Ramos, Jack</td>
+  </tr>
+  <tr>
+    <td>Desarrollar la funcionalidad en el frontend para visualizar datos en tiempo real</td>
+    <td>2</td>
+    <td>Lazo Tapia, Jesús Antonio</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US07</td>
+    <td rowspan="2">Gestión de dispositivos IoT</td>
+    <td rowspan="2">Como aficionado y/o experto, quiero poder gestionar los dispositivos IoT vinculados para optimizar la supervisión de mis cultivos.</td>
+    <td>Crear una sección en el frontend donde los usuarios puedan ver una lista de dispositivos IoT conectados</td>
+    <td>2</td>
+    <td>Taype Fernandez, Leonardo</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Configurar el backend para almacenar y gestionar la relación entre los usuarios y sus dispositivos IoT</td>
+    <td>3</td>
+    <td>Hinostroza Mavila, Farid Rolando</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Seguridad de datos</td>
+    <td>Como aficionado y/o experto, quiero asegurarme de que mis datos personales y de cultivos están protegidos contra accesos no autorizados.</td>
+    <td>Realizar pruebas de seguridad y verificar la protección contra accesos no autorizados</td>
+    <td>2</td>
+    <td>Checa Apolinario, Paolo Sebastián</td>
+    <td>2</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US19</td>
+    <td rowspan="2">Validación de datos ingresados</td>
+    <td rowspan="2">Como aficionado y/o experto, quiero que los datos ingresados en la aplicación sean validados automáticamente para evitar errores.</td>
+    <td>Implementar validaciones de entrada en el frontend para datos ingresados por el usuario</td>
+    <td>2</td>
+    <td>Taype Fernandez, Leonardo</td>
+    <td rowspan="2">4</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Probar las validaciones con diferentes escenarios de datos incorrectos y validar las respuestas de error</td>
+    <td>2</td>
+    <td>Hinostroza Mavila, Farid Rolando</td>
+  </tr>
+</table>
+
+
+
+
 #### 6.2.2.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on |
