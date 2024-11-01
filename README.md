@@ -280,6 +280,7 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
+- [Anexo D: Formato para Evaluación de User Experience según Heurísticas](#anexo-d-formato-para-evaluación-de-user-experience-según-heurísticas)
 
 # Student Outcome
 
@@ -2415,3 +2416,96 @@ UPB Sostenible (2021, mayo 4). Cultivos hidropónicos en casa, alternativas sost
 <div align=center>
     <img src="images/logo.png" alt="logo" style="margin-bottom: 5px;" width="500"/>      
 </div>
+
+# Anexo D. Formato para Evaluación de User Experience según Heurísticas
+
+## UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+
+- **CARRERA**: Ingeniería de Software
+- **CURSO**: Desarrollo de Soluciones IoT
+- **SECCIÓN**: WX71
+- **PROFESORES**: Todos
+- **AUDITOR**: GrowEasy
+- **CLIENTE(S)**:
+  - Paolo Sebastián Checa Apolinario
+  - Jesus Antonio Lazo Tapia
+  - Leonardo Taype Fernandez
+  - Hinostroza Mavila Rolando
+  - Arana Ramos, Jack
+
+---
+
+### SITE o APP A EVALUAR:
+**GrowEasy**
+
+### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Conexión y configuración de sensores IoT.
+2. Visualización de datos en tiempo real.
+3. Configuración de alertas personalizadas.
+4. Creación y gestión de múltiples cultivos.
+5. Generación de reportes históricos de los cultivos.
+
+### TAREAS NO INCLUIDAS EN ESTA VERSIÓN DE LA EVALUACIÓN:
+1. Compartir datos de cultivos entre usuarios.
+2. Integración con redes sociales.
+3. Exportar reportes a formatos PDF/Excel.
+
+---
+
+## ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                      |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.  |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## TABLA RESUMEN:
+
+| #  | Problema                                                                           | Escala de severidad | Heurística/Principio violada(o)                 |
+|----|------------------------------------------------------------------------------------|----------------------|-------------------------------------------------|
+| 1  | Inconsistencia en la interfaz gráfica entre versiones web y móvil.                 | 3                    | Usability: Consistencia y estándares            |
+| 2  | No es intuitiva la forma de configurar sensores en la primera conexión.            | 2                    | Usability: Ayuda y documentación                |
+| 3  | Falta de etiquetas de "alt" en los iconos clave de la interfaz.                   | 2                    | Inclusive Design: Proporciona experiencias comparables |
+| 4  | No hay opción de deshacer cambios al configurar sensores.                          | 4                    | Usability: Prevención de errores                |
+| 5  | La navegación no es clara para acceder al historial de reportes.                   | 3                    | Information Architecture: Is it findable?       |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+**PROBLEMA #1: Inconsistencia en la interfaz gráfica entre versiones web y móvil**
+- **Severidad**: 3
+- **Heurística incumplida**: Usability - Consistencia y estándares
+- **Problema**: Los elementos de la interfaz, como botones y colores, no son consistentes entre la versión web y la versión móvil, lo que genera confusión en los usuarios que alternan entre dispositivos.
+- **Recomendación**: Unificar las directrices de estilo para que ambas versiones presenten los mismos elementos visuales, manteniendo una coherencia en los colores, ubicaciones de botones y estilos de navegación.
+
+**PROBLEMA #2: No se incluye una guía para configurar sensores en la primera conexión**
+- **Severidad**: 2
+- **Heurística incumplida**: Usability - Ayuda y documentación
+- **Problema**: La falta de una guía para configurar sensores IoT en la primera conexión dificulta que usuarios aficionados puedan comenzar a usar la aplicación sin asistencia.
+- **Recomendación**: Incluir un tutorial inicial interactivo que guíe al usuario paso a paso en la configuración de los sensores IoT al momento de la primera conexión.
+
+**PROBLEMA #3: Falta de etiquetas de "alt" en los iconos clave de la interfaz**
+- **Severidad**: 2
+- **Heurística incumplida**: Inclusive Design - Proporciona experiencias comparables
+- **Problema**: Los iconos clave de la aplicación no contienen etiquetas "alt", lo cual afecta la accesibilidad para usuarios que dependen de lectores de pantalla.
+- **Recomendación**: Añadir etiquetas "alt" descriptivas en todos los iconos para que los usuarios con discapacidades visuales puedan entender la función de cada uno a través de lectores de pantalla.
+
+**PROBLEMA #4: No hay opción de deshacer cambios al configurar sensores**
+- **Severidad**: 4
+- **Heurística incumplida**: Usability - Prevención de errores
+- **Problema**: Una vez configurados los sensores, no existe una opción para deshacer cambios realizados, lo cual puede resultar problemático si un usuario comete un error al modificar parámetros críticos.
+- **Recomendación**: Incluir una opción de "deshacer" cambios recientes y una confirmación antes de guardar configuraciones definitivas.
+
+**PROBLEMA #5: La navegación no es clara para acceder al historial de reportes**
+- **Severidad**: 3
+- **Heurística incumplida**: Information Architecture - Is it findable?
+- **Problema**: La opción para acceder al historial de reportes no es visible en el menú principal, lo que dificulta a los usuarios encontrar esta función.
+- **Recomendación**: Colocar un acceso directo al historial de reportes en la pantalla principal o en el menú lateral de la aplicación, usando etiquetas claras.
