@@ -2385,12 +2385,46 @@ Enlace al wokwi: https://wokwi.com/projects/412220505930941441
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
+Esta seccion proporciona una visión clara y detallada de cómo se documentaron los servicios durante el
+desarrollo del sprint. Utilizando Swagger, se creó y mantuvo una documentación
+interactiva y actualizada de los endpoints de la API. Esta herramienta permitió
+una revisión más eficiente y colaborativa durante el Sprint Review, facilitando
+a los miembros del equipo y stakeholders la visualización de los endpoints, sus
+descripciones, métodos HTTP utilizados, y las respuestas esperadas. La evidencia
+presentada asegura que los servicios están bien documentados, mejorando
+la transparencia y el entendimiento del trabajo realizado en el sprint.
+
+<img src="images/sprint2-documentation-part1.png" alt="wokwi">
+<img src="images/sprint2-documentation-part2.png" alt="wokwi">
+
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el despliegue de la aplicación web, se utilizó la herramienta Netlify,
+que funciona realizando la conexión a nuestro repositorio donde se aloja el código,
+y a partir de eso la herramienta realiza el despliegue automático, generando una
+dirección web para poder acceder.
+
+<img src="images/sprint2-deployment-part1.png" alt="wokwi">
+
+Para realizar el despliegue del servicio web, se utilizó Azure, en donde conectamos
+nuestro repositorio a la herramienta y se realiza el despliegue automático, generando
+un enlace general el cual utilizamos para los endpoints respectivos, y también para
+poder visualizarlos en la pestaña de Swagger.
+
+<img src="images/sprint2-deployment-part2.png" alt="wokwi">
+<img src="images/sprint2-deployment-part3.png" alt="wokwi">
+<img src="images/sprint2-deployment-part4.png" alt="wokwi">
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
+Esta sección incluye un gráfico visual tomado de la sección de Insights de GitHub,
+específicamente del apartado de Contributions. Este gráfico proporciona una 
+representación clara de las contribuciones realizadas por los miembros del 
+equipo a lo largo del sprint, ilustrando el nivel de colaboración, la 
+frecuencia de los commits, y la participación en las actividades de desarrollo.
 
-
+<img src="images/sprint2-insights-part1.png" alt="wokwi">
+<img src="images/sprint2-insights-part2.png" alt="wokwi">
 
 # Conclusiones
 
