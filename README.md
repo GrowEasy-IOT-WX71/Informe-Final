@@ -2384,6 +2384,12 @@ Para realizar el despliegue de la Landing Page, se utilizó la herramienta Githu
 | GrowEasy-IOT-WX71/groweasy-flutter-app | master | 8955869 | feat(): added notification screen and profile screen | - | 27/10/2024 |
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
+<img src="images/test1_sprint2.jpg" alt="test1">
+<img src="images/test2_sprint2.jpg" alt="test2">
+<img src="images/test3_sprint2.jpg" alt="test3">
+<img src="images/test4_sprint2.jpg" alt="test4">
+<img src="images/test5_sprint2.jpg" alt="test5">
+
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
 
