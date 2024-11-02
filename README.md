@@ -35,7 +35,7 @@
 
 <br>
 
-Septiembre del 2024
+Octubre del 2024
 
 <br>
 
@@ -116,6 +116,16 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
     Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GrowEasy-IOT-WX71/Informe-Final)
 
     <br>
+
+    <div align=center>
+        <img src="images/tb2commits.jpg"/>      
+    </div>
+
+    <br>
+
+    <div align=center>
+        <img src="images/tb2commitsss.jpg"/>
+    </div>
 
 <br><br>
 
