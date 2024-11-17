@@ -2248,6 +2248,10 @@ Para esta entrega, se realizó la implementación de la Landing Page. Además, s
 **Landing Page:**
 <img src="images/execution1.png" alt="execution1">
 
+<br>
+
+Enlace a la Landing Page: https://groweasy-iot-wx71.github.io/LandingPage/
+
 **Aplicación Web:**
 <img src="images/execution2.png" alt="execution2">
 
