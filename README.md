@@ -2526,6 +2526,18 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
+Esta seccion proporciona una visión clara y detallada de cómo se documentaron los servicios durante el
+desarrollo del sprint. Utilizando Swagger, se creó y mantuvo una documentación
+interactiva y actualizada de los endpoints de la API. Esta herramienta permitió
+una revisión más eficiente y colaborativa durante el Sprint Review, facilitando
+a los miembros del equipo y stakeholders la visualización de los endpoints, sus
+descripciones, métodos HTTP utilizados, y las respuestas esperadas. La evidencia
+presentada asegura que los servicios están bien documentados, mejorando
+la transparencia y el entendimiento del trabajo realizado en el sprint.
+
+<img src="images/sprint2-documentation-part1.png" alt="wokwi">
+<img src="images/sprint2-documentation-part2.png" alt="wokwi">
+
 ### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
 ### 6.2.3.8. Team Collaboration Insights during Sprint
