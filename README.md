@@ -13,7 +13,7 @@
 
 # <center>Desarrollo de Soluciones IOT</center>
 
-## TB2 REPORT
+## TF REPORT
 
 **Sección:** WX71
 
@@ -35,11 +35,11 @@
 
 <br>
 
-Octubre del 2024
+Noviembre del 2024
 
 <br>
 
-Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ESkLifOMLsBGrYEzoLaA6iYBScQ2Jzd_gW5-dVg3Cbkugw?e=yM9rQR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace al video de exposición: [Video de Exposición TP]()
 
 <br><br>
 
@@ -52,6 +52,7 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
 |   TB1   | 28/08/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizaron los capítulos: Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
 | TP1 | 25/09/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizaron los capítulos: Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment |
 | TB2 | 31/10/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizaron los puntos de Sprint 2, Sprint Backlog 2, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Evaluaciones según heurísticas |
+| TF | 17/11/2024 | Checa Apolinario, Paolo Sebastián <br><br> Lazo Tapia, Jesús Antonio <br><br> Hinostroza Mavila, Farid Rolando <br><br> Taype Fernandez, Leonardo <br><br> Arana Ramos, Jack | Se realizó la revisión final del informe, se corrigieron errores y se añadieron detalles finales para la entrega final del proyecto |
 
 <br><br>
 
@@ -126,6 +127,27 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
     <div align=center>
         <img src="images/tb2commitsss.jpg"/>
     </div>
+
+<br>
+
+- **TF:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    <br>
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GrowEasy-IOT-WX71/Informe-Final)
+
+    <br>
+
+    <div align=center>
+        <img src=""/>
+    </div>
+
+    <br>
+
+    <div align=center>
+        <img src=""/>
+    </div>
+
 
 <br><br>
 
@@ -293,6 +315,23 @@ Enlace al video de exposición: [Video de Exposición TP](https://upcedupe-my.sh
     - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
     - [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint)
 
+  - [6.2.3. Sprint 3](#623-sprint-3)
+    - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
+    - [6.2.3.2. Sprint Backlog 3](#6232-sprint-backlog-3)
+    - [6.2.3.3. Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
+    - [6.2.3.4. Testing Suite Evidence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
+    - [6.2.3.5. Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review)
+    - [6.2.3.6. Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
+    - [6.2.3.7. Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
+    - [6.2.3.8. Team Collaboration Insights during Sprint](#6238-team-collaboration-insights-during-sprint)
+
+- [6.3. Validation Interviews](#63-validation-interviews)
+    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+
+- [6.4. Video About-the-Product](#64-video-about-the-product)
+
+  
 
     
 
@@ -2462,6 +2501,43 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 <img src="images/sprint2-insights-part1.png" alt="wokwi">
 <img src="images/sprint2-insights-part2.png" alt="wokwi">
 
+## 6.2.3. Sprint 3
+
+### 6.2.3.1. Sprint Planning 3
+
+| Sprint 2 | Diseño de la aplicación y funcionalidades |
+|----------|-------------------------------------------|
+| Date | 26/10/2024 |
+| Time | 19:00 |
+| Location | Reunión realizada mediante Discord | 
+| Prepared By | Checa Apolinario, Paolo Sebastián |
+| Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Lazo Tapia, Jesús Antonio / Hinostroza Mavila, Farid Rolando / Taype Fernandez, Leonardo / Arana Ramos, Jack |
+| Sprint 1 Goal | Nuestro foco es en implementar las funcionalidades clave de las aplicaciones.<br>Creemos que esto permitirá a los usuarios interactuar con las principales características de la aplicación, mejorando su experiencia. <br> Confirmaremos esto cuando los usuarios puedan acceder y utilizar las funcionalidades implementadas en la aplicación| 
+| Sprint 1 Velocity | 32 |
+| Sum of Story Points | 30 |
+
+### 6.2.3.2. Sprint Backlog 3
+
+### 6.2.3.3. Development Evidence for Sprint Review
+
+### 6.2.3.4. Testing Suite Evidence for Sprint Review
+
+### 6.2.3.5. Execution Evidence for Sprint Review
+
+### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+### 6.2.3.8. Team Collaboration Insights during Sprint
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+### 6.3.2. Registro de Entrevistas
+
+## 6.4. Video About-the-Product
+
 # Conclusiones
 
 **TB1:**
@@ -2483,6 +2559,7 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 - La planificación efectiva y la ejecución del Sprint Backlog permitieron completar los objetivos propuestos, reflejando una alineación adecuada entre el planeamiento inicial y el desarrollo real, lo cual facilita el progreso hacia las metas del producto.
 - La evidencia de despliegue de software demuestra que las aplicaciones están listas para un entorno de producción, estableciendo una base sólida para futuras etapas de lanzamiento y prueba con usuarios reales.
 - La implementación del sistema IoT en Wokwi sentó las bases para la integración y expansión de las funcionalidades de IoT, mostrando que la aplicación puede soportar esta tecnología con éxito y brindar soluciones de monitoreo.
+
 
 
 
