@@ -39,7 +39,7 @@ Noviembre del 2024
 
 <br>
 
-Enlace al video de exposición: [Video de Exposición TP]()
+Enlace al video de exposición: [Video de Exposición TF]()
 
 <br><br>
 
