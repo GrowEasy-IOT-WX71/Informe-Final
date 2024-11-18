@@ -2548,6 +2548,21 @@ la transparencia y el entendimiento del trabajo realizado en el sprint.
 
 ### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para realizar el despliegue de la aplicación web, se utilizó la herramienta Netlify, que funciona realizando la conexión a nuestro repositorio donde se aloja el código, y a partir de eso la herramienta realiza el despliegue automático, generando una dirección web para poder acceder.
+<br>
+<br>
+<img src="images/soft-Deployment-1.png" alt="deployment1"><br>
+
+Para realizar el despliegue del servicio web, se utilizó Azure, en donde conectamos nuestro repositorio a la herramienta y se realiza el despliegue automático, generando un enlace general el cual utilizamos para los endpoints respectivos, y también para poder visualizarlos en la pestaña de Swagger.
+
+<br>
+<img src="images/soft-Deployment-2.png" alt="deployment2">
+<br><br>
+<img src="images/soft-Deployment-3.png" alt="deployment3">
+<br><br>
+<img src="images/soft-Deployment-4.png" alt="deployment4">
+<br><br>
+
 ### 6.2.3.8. Team Collaboration Insights during Sprint
 
 Esta sección incluye un gráfico visual tomado de la sección de Insights de GitHub, específicamente del apartado de Contributions. Este gráfico proporciona una representación clara de las contribuciones realizadas por los miembros del equipo a lo largo del sprint, ilustrando el nivel de colaboración, la frecuencia de los commits, y la participación en las actividades de desarrollo.
