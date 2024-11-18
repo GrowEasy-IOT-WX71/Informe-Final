@@ -2524,6 +2524,13 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.5. Execution Evidence for Sprint Review
 
+En esta sección presentamos el video de ejecución de nuestra solución, en la que se muestra la funcionalidad de la aplicación, así como la integración con el servicio IoT en Wokwi. El video proporciona una visión general de las características y la experiencia de usuario que ofrecen nuestras aplicaciones, demostrando cómo los usuarios pueden interactuar con la plataforma y monitorear sus cultivos de manera remota.
+
+<img src="images/videoEjecucion.JPG" alt="videoEjecucion">
+
+Enlace al video: [Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EUBDVMFkps5An3p7vY3zs40BU4hov6OTYG6C7UBHjC-j0A?e=bwEbN4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 ### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
 Esta seccion proporciona una visión clara y detallada de cómo se documentaron los servicios durante el
