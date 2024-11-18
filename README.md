@@ -2530,6 +2530,8 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.8. Team Collaboration Insights during Sprint
 
+Esta sección incluye un gráfico visual tomado de la sección de Insights de GitHub, específicamente del apartado de Contributions. Este gráfico proporciona una representación clara de las contribuciones realizadas por los miembros del equipo a lo largo del sprint, ilustrando el nivel de colaboración, la frecuencia de los commits, y la participación en las actividades de desarrollo.
+
 ## 6.3. Validation Interviews
 
 ### 6.3.1. Diseño de Entrevistas
