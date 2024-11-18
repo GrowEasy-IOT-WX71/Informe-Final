@@ -2521,6 +2521,15 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on |
+|------------|--------|-----------|----------------|---------------------|--------------|
+| GrowEasy-IOT-WX71/groweasy-flutter-app | main | a5fcb27 | feat(): added functionality to connect the login screen to the backend | - | 10/11/2024 |
+| GrowEasy-IOT-WX71/groweasy-flutter-app | main | 3d8a32f | feat(): completed | - | 17/11/2024 |
+| GrowEasy-IOT-WX71/APP-GrowEasy | main | 896d901 | add: netlify routes | - | 10/11/2024 |
+| GrowEasy-IOT-WX71/APP-GrowEasy | main | 8c190bd | update: api link | - | 10/11/2024 |
+| GrowEasy-IOT-WX71/APP-GrowEasy | main | d83175b | updatePage2 | - | 15/11/2024 |
+
+
 ### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
 ### 6.2.3.5. Execution Evidence for Sprint Review
