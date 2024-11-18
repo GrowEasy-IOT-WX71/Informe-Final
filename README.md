@@ -2581,7 +2581,11 @@ Esta sección incluye un gráfico visual tomado de la sección de Insights de Gi
 - La evidencia de despliegue de software demuestra que las aplicaciones están listas para un entorno de producción, estableciendo una base sólida para futuras etapas de lanzamiento y prueba con usuarios reales.
 - La implementación del sistema IoT en Wokwi sentó las bases para la integración y expansión de las funcionalidades de IoT, mostrando que la aplicación puede soportar esta tecnología con éxito y brindar soluciones de monitoreo.
 
-
+**TF:**
+- Incorporar gráficos intuitivos mejora significativamente la comprensión de los datos, proporcionando a los usuarios herramientas visuales claras para identificar patrones y evaluar el estado actual de sus cultivos.
+- La capacidad de configurar umbrales y parámetros personalizados refuerza la utilidad de la aplicación para usuarios con necesidades específicas, adaptándose tanto a principiantes como a expertos.
+- El video About-The-Product es un recurso fundamental para comunicar claramente el valor de la solución. Su desarrollo refuerza el posicionamiento de la aplicación al destacar sus características clave y beneficios.
+- Las pruebas realizadas indican que las nuevas características son funcionales y cumplen con las expectativas planteadas, aunque se identificaron mejoras relacionadas con la personalización y análisis más detallados.
 
 
 # Bibliografía
