@@ -2563,7 +2563,6 @@ la transparencia y el entendimiento del trabajo realizado en el sprint.
 
 Para realizar el despliegue de la aplicación web, se utilizó la herramienta Netlify, que funciona realizando la conexión a nuestro repositorio donde se aloja el código, y a partir de eso la herramienta realiza el despliegue automático, generando una dirección web para poder acceder.
 <br>
-<br>
 <img src="images/soft-Deployment-1.png" alt="deployment1"><br>
 
 Para realizar el despliegue del servicio web, se utilizó Azure, en donde conectamos nuestro repositorio a la herramienta y se realiza el despliegue automático, generando un enlace general el cual utilizamos para los endpoints respectivos, y también para poder visualizarlos en la pestaña de Swagger.
@@ -2622,6 +2621,10 @@ Evidencia de la reunión:<br>
 Diego Jesús, de 28 años y experto en hidroponía, colaboró en la realización de esta entrevista sobre la aplicación. En su opinión, la app cumple con las expectativas en cuanto a precisión de datos, aunque siempre se puede afinar más. Considera que la opción de configurar los umbrales de temperatura, humedad y luz es muy útil para adaptar la aplicación a las necesidades específicas de cada cultivo. Diego cree que contar con controles adicionales o configuraciones avanzadas mejoraría la experiencia, permitiendo ajustes más precisos.<br> En cuanto a la visualización de datos, sugiere que incluir gráficos más detallados sería beneficioso para un análisis en profundidad. Diego recomendaría esta aplicación a otros profesionales, ya que facilita el monitoreo y la toma de decisiones informadas. Finalmente, menciona que para un uso más técnico, sería ideal integrar análisis predictivo, compatibilidad con sensores más avanzados y la capacidad de exportar datos para otros tipos de análisis.
 
 ## 6.4. Video About-the-Product
+
+<img src="images/aboutTheProduct.JPG" alt="aboutTheProduct">
+
+Enlace al video: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EeUEETAs37BDjc7PrG8VwjMB4FTJAJYR4ZEub2E8D749EA?e=m2X4Hf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 
