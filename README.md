@@ -2604,20 +2604,38 @@ Esta sección incluye un gráfico visual tomado de la sección de Insights de Gi
 
 ### Aficionados a la Hidroponia <br>
 
+Entrevistado 1: <br>
+Nombre y apellidos: Carlos Dueñas
+Edad: 21 años
+Ubicación: Santiago de Surco, Lima
+Evidencia de la reunión:
+<br>
+
+<img src="images/entrevistaValidacionAficionado1.JPG" alt="entrevistaValidacionAficionado1"><br>
+
+Inicio:
+Fin:
+Enlace de entrevista:
+Resumen de la entrevista:
+Realizamos una entrevista a Carlos Dueñas, quien anteriormente probó nuestra aplicación. Mencionó que le pareció muy intuitiva, ayudándole a entender los niveles de luz, humedad y temperatura que necesitan sus plantas. Comentó que en general, fue fácil de entender, aunque al principio le costó ubicar algunas configuraciones avanzadas, y que una breve guía para cada sección sería útil. Considera que podría usar la aplicación diariamente, le gustó que puede revisar los parámetros desde su teléfono y recibir alertas cuando hay algún problema. Cree que es una excelente herramienta para los que recién empiezan en hidroponía, ya que simplifica mucho el proceso de monitoreo, y mencionó que agregaría una sección de consejos básicos sobre hidroponía o información sobre cómo interpretar los datos que muestra la app.
+
 
 <br> 
 
 ### Expertos en Hidroponia
 
 Entrevistado 1: <br>
-Nombre y apellidos: Diego Jesus Alonso <br>
-Edad: 28 <br>
-Ubicación: Lima - San Martin de Porres <br>
-Evidencia de la reunión:<br>
+Nombre y apellidos: Diego Jesus Alonso
+Edad: 28
+Ubicación: Lima - San Martin de Porres
+Evidencia de la reunión:
 <br>
 <img src="images/diseño-Jesus-experto.png" alt="experto1"><br>
 
-### Resumen de la entrevista:
+Inicio:
+Fin:
+Enlace de entrevista:
+Resumen de la entrevista: 
 Diego Jesús, de 28 años y experto en hidroponía, colaboró en la realización de esta entrevista sobre la aplicación. En su opinión, la app cumple con las expectativas en cuanto a precisión de datos, aunque siempre se puede afinar más. Considera que la opción de configurar los umbrales de temperatura, humedad y luz es muy útil para adaptar la aplicación a las necesidades específicas de cada cultivo. Diego cree que contar con controles adicionales o configuraciones avanzadas mejoraría la experiencia, permitiendo ajustes más precisos.<br> En cuanto a la visualización de datos, sugiere que incluir gráficos más detallados sería beneficioso para un análisis en profundidad. Diego recomendaría esta aplicación a otros profesionales, ya que facilita el monitoreo y la toma de decisiones informadas. Finalmente, menciona que para un uso más técnico, sería ideal integrar análisis predictivo, compatibilidad con sensores más avanzados y la capacidad de exportar datos para otros tipos de análisis.
 
 ## 6.4. Video About-the-Product
