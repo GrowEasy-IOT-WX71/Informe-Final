@@ -2605,24 +2605,7 @@ Esta sección incluye un gráfico visual tomado de la sección de Insights de Gi
 ### Aficionados a la Hidroponia <br>
 
 Entrevistado 1: <br>
-Nombre y apellidos: Carlos Dueñas
-Edad: 21 años
-Ubicación: Santiago de Surco, Lima
-Evidencia de la reunión:
-<br>
 
-<img src="images/entrevistaValidacionAficionado1.JPG" alt="entrevistaValidacionAficionado1"><br>
-
-Inicio:
-Fin:
-Enlace de entrevista:
-Resumen de la entrevista:
-Realizamos una entrevista a Carlos Dueñas, quien anteriormente probó nuestra aplicación. Mencionó que le pareció muy intuitiva, ayudándole a entender los niveles de luz, humedad y temperatura que necesitan sus plantas. Comentó que en general, fue fácil de entender, aunque al principio le costó ubicar algunas configuraciones avanzadas, y que una breve guía para cada sección sería útil. Considera que podría usar la aplicación diariamente, le gustó que puede revisar los parámetros desde su teléfono y recibir alertas cuando hay algún problema. Cree que es una excelente herramienta para los que recién empiezan en hidroponía, ya que simplifica mucho el proceso de monitoreo, y mencionó que agregaría una sección de consejos básicos sobre hidroponía o información sobre cómo interpretar los datos que muestra la app.
-
-
-<br> 
-
-Entrevistado 2: <br>
 Nombre y apellidos: Juan Reyes
 Edad: 23 años
 Ubicación: San Isidro, Lima
@@ -2631,11 +2614,30 @@ Evidencia de la reunión:
 
 <img src="images/interview_jk.png" alt="entrevistaValidacionAficionado2"><br>
 
-Inicio:
-Fin:
-Enlace de entrevista:
+Inicio: 0:03
+Fin: 3:00
+Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 Resumen de la entrevista:
 Juan Reyes compartió una experiencia muy positiva con la aplicación "GrowEasy", destacando su facilidad de uso, incluso sin conocimientos técnicos avanzados, gracias a su diseño intuitivo. La app le resultó muy útil para comprender las necesidades de sus cultivos, proporcionando datos en tiempo real sobre temperatura, humedad y luz, lo que le permitió tomar decisiones informadas. La interfaz fue clara y no encontró elementos difíciles de comprender. Juan mencionó que podría usar la app a diario para controlar sus cultivos y la recomendaría a otros principiantes por su accesibilidad. Como sugerencia, propuso agregar más tutoriales interactivos o una sección de preguntas frecuentes para facilitar el aprendizaje de nuevos usuarios.
+
+<br> 
+
+Entrevistado 2: <br>
+
+
+Nombre y apellidos: Carlos Dueñas
+Edad: 21 años
+Ubicación: Santiago de Surco, Lima
+Evidencia de la reunión:
+<br>
+
+<img src="images/entrevistaValidacionAficionado1.JPG" alt="entrevistaValidacionAficionado1"><br>
+
+Inicio: 3:01
+Fin: 5:31
+Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Resumen de la entrevista:
+Realizamos una entrevista a Carlos Dueñas, quien anteriormente probó nuestra aplicación. Mencionó que le pareció muy intuitiva, ayudándole a entender los niveles de luz, humedad y temperatura que necesitan sus plantas. Comentó que en general, fue fácil de entender, aunque al principio le costó ubicar algunas configuraciones avanzadas, y que una breve guía para cada sección sería útil. Considera que podría usar la aplicación diariamente, le gustó que puede revisar los parámetros desde su teléfono y recibir alertas cuando hay algún problema. Cree que es una excelente herramienta para los que recién empiezan en hidroponía, ya que simplifica mucho el proceso de monitoreo, y mencionó que agregaría una sección de consejos básicos sobre hidroponía o información sobre cómo interpretar los datos que muestra la app.
 
 ### Expertos en Hidroponia
 
@@ -2647,9 +2649,9 @@ Evidencia de la reunión:
 <br>
 <img src="images/diseño-Jesus-experto.png" alt="experto1"><br>
 
-Inicio:
-Fin:
-Enlace de entrevista:
+Inicio: 8:50
+Fin: 10:40
+Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 Resumen de la entrevista: 
 Diego Jesús, de 28 años y experto en hidroponía, colaboró en la realización de esta entrevista sobre la aplicación. En su opinión, la app cumple con las expectativas en cuanto a precisión de datos, aunque siempre se puede afinar más. Considera que la opción de configurar los umbrales de temperatura, humedad y luz es muy útil para adaptar la aplicación a las necesidades específicas de cada cultivo. Diego cree que contar con controles adicionales o configuraciones avanzadas mejoraría la experiencia, permitiendo ajustes más precisos.<br> En cuanto a la visualización de datos, sugiere que incluir gráficos más detallados sería beneficioso para un análisis en profundidad. Diego recomendaría esta aplicación a otros profesionales, ya que facilita el monitoreo y la toma de decisiones informadas. Finalmente, menciona que para un uso más técnico, sería ideal integrar análisis predictivo, compatibilidad con sensores más avanzados y la capacidad de exportar datos para otros tipos de análisis.
 
