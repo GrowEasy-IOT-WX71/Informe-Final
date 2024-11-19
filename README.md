@@ -2609,6 +2609,12 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 En esta sección presentamos el video de ejecución de nuestra solución, en la que se muestra la funcionalidad de la aplicación, así como la integración con el servicio IoT en Wokwi. El video proporciona una visión general de las características y la experiencia de usuario que ofrecen nuestras aplicaciones, demostrando cómo los usuarios pueden interactuar con la plataforma y monitorear sus cultivos de manera remota.
 
+Enlace a la Landing Page: https://groweasy-iot-wx71.github.io/LandingPage/
+
+Enlace a la app web: https://groweasyapp.netlify.app
+
+Enlace al wokwi: https://wokwi.com/projects/413029481829467137
+
 <img src="images/videoEjecucion.JPG" alt="videoEjecucion">
 
 Enlace al video: [Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EUBDVMFkps5An3p7vY3zs40BU4hov6OTYG6C7UBHjC-j0A?e=bwEbN4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2765,6 +2771,14 @@ Entrevistamos a Paolo Laguerre, experto en hidroponía a quien le mostramos nues
 <img src="images/aboutTheProduct.JPG" alt="aboutTheProduct">
 
 Enlace al video: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EeUEETAs37BDjc7PrG8VwjMB4FTJAJYR4ZEub2E8D749EA?e=m2X4Hf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<br>
+
+## 6.5. Video About-the-Team
+
+<img src="images/aboutTheTeam.JPG" alt="aboutTheTeam">
+
+Enlace al video: [Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYEthRl28DRLutrqpCIe2NQBTqyGuIdRCc5uDsKf7_gEFg?e=3bNigh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 
