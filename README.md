@@ -39,7 +39,7 @@ Noviembre del 2024
 
 <br>
 
-Enlace al video de exposición: [Video de Exposición TF]()
+Enlace al video de exposición: [Video de Exposición TF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU8wFjIG9i9EkQ3LKcOJDbcB8m2RLDtXKBpxkVKclhOKUg?e=o1D9a7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <br><br>
 
