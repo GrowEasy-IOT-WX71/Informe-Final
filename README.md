@@ -2519,6 +2519,75 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.2. Sprint Backlog 3
 
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Tareas</th>
+    <th>Estimación</th>
+    <th>Persona Asignada</th>
+    <th>Total Estimation (Hours)</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td rowspan="3">US09</td>
+    <td rowspan="3">Análisis de datos históricos</td>
+    <td rowspan="3">Como aficionado y/o experto, quiero acceder a datos históricos de mis cultivos para analizar tendencias y tomar mejores decisiones.</td>
+    <td>Implementar la funcionalidad para recuperar datos históricos desde la base de datos.</td>
+    <td>3</td>
+    <td>Arana Ramos, Jack</td>
+    <td rowspan="3">7</td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>Crear una interfaz en la app para acceder a los datos históricos.</td>
+    <td>2</td>
+    <td>Lazo Tapia, Jesús Antonio</td>
+  </tr>
+  <tr>
+    <td>Realizar pruebas para verificar la precisión de los datos históricos mostrados.</td>
+    <td>2</td>
+    <td>Checa Apolinario, Paolo Sebastián</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US12</td>
+    <td rowspan="3">Comparación de datos históricos</td>
+    <td rowspan="3">Como aficionado y/o experto, quiero comparar los datos actuales de mis cultivos con datos históricos para identificar tendencias.</td>
+    <td>Implementar lógica para seleccionar y comparar datos actuales con históricos.</td>
+    <td>3</td>
+    <td>Arana Ramos, Jack</td>
+    <td rowspan="3">7</td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>Diseñar una sección en la interfaz para la comparación de datos.</td>
+    <td>2</td>
+    <td>Lazo Tapia, Jesús Antonio</td>
+  </tr>
+  <tr>
+    <td>Probar la funcionalidad para garantizar que las comparaciones sean precisas y comprensibles.</td>
+    <td>2</td>
+    <td>Checa Apolinario, Paolo Sebastián</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US14</td>
+    <td rowspan="2">Visualización de datos en gráficos</td>
+    <td rowspan="2">Como aficionado y/o experto, quiero visualizar los datos de mis cultivos en gráficos intuitivos para comprender mejor la información.</td>
+    <td>Diseñar los gráficos en función de los tipos de datos del sistema (temperatura, humedad, luminosidad, etc.).</td>
+    <td>3</td>
+    <td>Lazo Tapia, Jesús Antonio</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>Realizar pruebas con usuarios para validar la claridad y utilidad de los gráficos.</td>
+    <td>2</td>
+    <td>Hinostroza Mavila, Farid Rolando</td>
+  </tr>
+</table>
+
+
 ### 6.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on |
@@ -2638,6 +2707,24 @@ Fin: 5:31
 Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 Resumen de la entrevista:
 Realizamos una entrevista a Carlos Dueñas, quien anteriormente probó nuestra aplicación. Mencionó que le pareció muy intuitiva, ayudándole a entender los niveles de luz, humedad y temperatura que necesitan sus plantas. Comentó que en general, fue fácil de entender, aunque al principio le costó ubicar algunas configuraciones avanzadas, y que una breve guía para cada sección sería útil. Considera que podría usar la aplicación diariamente, le gustó que puede revisar los parámetros desde su teléfono y recibir alertas cuando hay algún problema. Cree que es una excelente herramienta para los que recién empiezan en hidroponía, ya que simplifica mucho el proceso de monitoreo, y mencionó que agregaría una sección de consejos básicos sobre hidroponía o información sobre cómo interpretar los datos que muestra la app.
+
+Entrevistado 3: <br>
+
+
+Nombre y apellidos: Michael Carillo
+Edad: 20 años
+Ubicación: Santiago de Surco, Lima
+Evidencia de la reunión:
+<br>
+
+<img src="images/entrevistavalidacion3.png" alt="entrevistavalidacion3"><br>
+
+Inicio: 5:38
+Fin: 8:48
+Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Resumen de la entrevista:
+Michael Carrillo, un aficionado a la hidroponía, encontró la aplicación fácil de usar e intuitiva, incluso sin conocimientos técnicos avanzados. Destacó su utilidad para comprender las necesidades de sus cultivos, gracias a datos claros sobre humedad, temperatura y luz, y recomendaciones prácticas. Aunque mencionó que algunos íconos y términos técnicos pueden ser confusos, sugirió incluir tutoriales interactivos, explicaciones detalladas y una sección de preguntas frecuentes para mejorar la experiencia. Considera que usaría la app diariamente por su conveniencia y la recomendaría a principiantes por su capacidad para simplificar procesos y hacer la hidroponía más accesible.
+
 
 ### Expertos en Hidroponia
 
