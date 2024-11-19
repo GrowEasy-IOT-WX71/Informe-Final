@@ -331,6 +331,8 @@ Enlace al video de exposición: [Video de Exposición TF](https://upcedupe-my.sh
 
 - [6.4. Video About-the-Product](#64-video-about-the-product)
 
+- [6.5. Video About-the-Team](#65-video-about-the-team)
+
   
 
     
