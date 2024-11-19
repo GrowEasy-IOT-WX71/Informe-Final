@@ -2655,6 +2655,22 @@ Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoin
 Resumen de la entrevista: 
 Diego Jesús, de 28 años y experto en hidroponía, colaboró en la realización de esta entrevista sobre la aplicación. En su opinión, la app cumple con las expectativas en cuanto a precisión de datos, aunque siempre se puede afinar más. Considera que la opción de configurar los umbrales de temperatura, humedad y luz es muy útil para adaptar la aplicación a las necesidades específicas de cada cultivo. Diego cree que contar con controles adicionales o configuraciones avanzadas mejoraría la experiencia, permitiendo ajustes más precisos.<br> En cuanto a la visualización de datos, sugiere que incluir gráficos más detallados sería beneficioso para un análisis en profundidad. Diego recomendaría esta aplicación a otros profesionales, ya que facilita el monitoreo y la toma de decisiones informadas. Finalmente, menciona que para un uso más técnico, sería ideal integrar análisis predictivo, compatibilidad con sensores más avanzados y la capacidad de exportar datos para otros tipos de análisis.
 
+<br>
+
+Entrevistado 2: <br>
+Nombre y apellidos: Paolo Laguerre
+Edad: 26
+Ubicación: Distrito de Santiago de Surco, Lima
+Evidencia de la reunión:
+<br>
+<img src="images/entrevistaExpertoPaolo.JPG" alt="entrevistaExpertoPaolo"><br>
+
+Inicio: 10:42
+Fin: 13:52
+Enlace de entrevista: [Entrevistas de Validación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EU1GXDMPRbpAjA04zrGeT90BMtcAMY1bClZq_cBq5tiCpA?e=D8wfYk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Resumen de la entrevista: 
+Entrevistamos a Paolo Laguerre, experto en hidroponía a quien le mostramos nuestra solución. Mencionó que esta cumple con sus expectativas, los datos proporcionados son precisos y útiles, especialmente para monitorear las condiciones en tiempo real. Sin embargo, le gustaría más detalles sobre las tendencias a largo plazo. Mencionó que la opción de elegir los umbrales es una característica útil, ya que cada cultivo tiene necesidades específicas, sin embargo, sería ideal contar con recomendaciones preestablecidas según el tipo de planta, para quienes manejan varios cultivos. Con respecto a los gráficos, dijo que son funcionales, pero prefiere gráficos más detallados y personalizables, como la comparación de datos entre diferentes fechas o proyecciones de rendimiento. Comentó que recomendaría la aplicación por su precisión y facilidad de uso, ya que es una herramienta que ahorra tiempo y mejora el monitoreo, aunque aún tiene margen para incluir características más avanzadas.
+
 ## 6.4. Video About-the-Product
 
 <img src="images/aboutTheProduct.JPG" alt="aboutTheProduct">
