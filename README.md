@@ -2532,6 +2532,10 @@ frecuencia de los commits, y la participación en las actividades de desarrollo.
 
 ### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
+<img src="images/feature9.JPG " alt="test9">
+<img src="images/feature12.JPG " alt="test12">
+<img src="images/feature14.JPG " alt="test14">
+
 ### 6.2.3.5. Execution Evidence for Sprint Review
 
 En esta sección presentamos el video de ejecución de nuestra solución, en la que se muestra la funcionalidad de la aplicación, así como la integración con el servicio IoT en Wokwi. El video proporciona una visión general de las características y la experiencia de usuario que ofrecen nuestras aplicaciones, demostrando cómo los usuarios pueden interactuar con la plataforma y monitorear sus cultivos de manera remota.
