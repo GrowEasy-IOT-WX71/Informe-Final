@@ -2622,6 +2622,21 @@ Realizamos una entrevista a Carlos Dueñas, quien anteriormente probó nuestra a
 
 <br> 
 
+Entrevistado 2: <br>
+Nombre y apellidos: Juan Reyes
+Edad: 23 años
+Ubicación: San Isidro, Lima
+Evidencia de la reunión:
+<br>
+
+<img src="images/interview_jk.png" alt="entrevistaValidacionAficionado2"><br>
+
+Inicio:
+Fin:
+Enlace de entrevista:
+Resumen de la entrevista:
+Juan Reyes compartió una experiencia muy positiva con la aplicación "GrowEasy", destacando su facilidad de uso, incluso sin conocimientos técnicos avanzados, gracias a su diseño intuitivo. La app le resultó muy útil para comprender las necesidades de sus cultivos, proporcionando datos en tiempo real sobre temperatura, humedad y luz, lo que le permitió tomar decisiones informadas. La interfaz fue clara y no encontró elementos difíciles de comprender. Juan mencionó que podría usar la app a diario para controlar sus cultivos y la recomendaría a otros principiantes por su accesibilidad. Como sugerencia, propuso agregar más tutoriales interactivos o una sección de preguntas frecuentes para facilitar el aprendizaje de nuevos usuarios.
+
 ### Expertos en Hidroponia
 
 Entrevistado 1: <br>
